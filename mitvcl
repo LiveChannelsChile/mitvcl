@@ -284,10 +284,10 @@ https://router.cdn.rcs.net.ar/mnp/cnn/output.mpd
 https://router.cdn.rcs.net.ar/mnp/cnne/output.mpd
 
 #EXTINF:-1 tvg-chno="223" tvg-id="EuronewsEspanol.mx" tvg-name="EuronewsEspanol.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1920px-Euronews_2016_logo.svg.png",Euronews
-https://siloh.pluto.tv/lilo/production/Euronews/master_1.m3u8
+https://linear-255.frequency.stream/255/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="224" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1920px-Euronews_2016_logo.svg.png",Euronews in English
-https://euronews-euronews-world-1.roku.wurl.com/manifest/71bf778598cc9ce36952bb8a3331551a.m3u8
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 
 
 #EXTINF:-1 tvg-chno="241" tvg-id="HolaTv.co" tvg-name="HolaTv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg",¡Hola TV!
@@ -404,7 +404,7 @@ http://190.108.87.149:8000/play/a0im/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="341" tvg-id="hbo.la" tvg-name="hbo.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png",HBO
-http://45.232.210.1:47000/play/a08o
+https://router.cdn.rcs.net.ar/mnp/hbo/output.mpd
 
 #EXTINF:-1 tvg-chno="342" tvg-id="hbo2.cl" tvg-name="hbo2.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/1920px-HBO2_logo.svg.png",HBO 2
 http://elmasteriptv.com:8000/sebastian.conchabaeza@gmail.com/cOxaZIJb1l/58948
