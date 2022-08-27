@@ -213,7 +213,7 @@ http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/51.ts
 http://45.232.210.1:47000/play/animalplanethd
 
 #EXTINF:-1 tvg-chno="184" tvg-id="" tvg-name="Love Nature" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png/revision/latest?cb=20151125134652",Love Nature
-https://bamus-spa-roku.amagi.tv/playlist.m3u8
+http://181.176.148.142:8000/play/a02q
 
 #EXTINF:-1 tvg-chno="185" tvg-id="HistoryChannel.ar" tvg-name="HistoryChannel.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/800px-History_%282021%29.svg.png",History Channel
 http://45.232.210.1:47000/play/a06b
@@ -287,7 +287,7 @@ https://router.cdn.rcs.net.ar/mnp/cnne/output.mpd
 https://linear-255.frequency.stream/255/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="224" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1920px-Euronews_2016_logo.svg.png",Euronews in English
-https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+https://euronews.com/playlist.m3u8
 
 
 #EXTINF:-1 tvg-chno="241" tvg-id="HolaTv.co" tvg-name="HolaTv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg",¡Hola TV!
