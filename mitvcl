@@ -92,7 +92,7 @@ http://190.108.87.149:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-chno="132" tvg-id="SyfyLatinAmerica.pa" tvg-name="SyfyLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1920px-SYFY.svg.png",SyFy
 http://190.108.87.149:8000/play/a023/index.m3u8
 
-#EXTINF:-1 tvg-chno="133" tvg-id="FX.mx" tvg-name="FX.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1920px-FX_International_logo.svg.png",FX
+#EXTINF:-1 tvg-chno="133" tvg-id="217fx.cl" tvg-name="217fx.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1920px-FX_International_logo.svg.png",FX
 http://45.232.210.1:47000/play/a0aw
 
 #EXTINF:-1 tvg-chno="134" tvg-id="space.cl" tvg-name="space.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1920px-SpaceLogo.svg.png",Space
@@ -221,16 +221,16 @@ http://45.232.210.1:47000/play/a06b
 #EXTINF:-1 tvg-chno="186" tvg-id="History2LatinAmerica.pa" tvg-name="History2LatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1024px-History2_logo_%282022%29.svg.png",History 2
 http://45.232.210.1:47000/play/a0e4
 
-#EXTINF:-1 tvg-chno="187" tvg-id="DiscoveryHomeHealth.pa" tvg-name="DiscoveryHomeHealth.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png",Discovery Home & Health
+#EXTINF:-1 tvg-chno="187" tvg-id="discoveryhomeHealth.co" tvg-name="DiscoveryHomeHealth.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png",Discovery Home & Health
 http://45.232.210.1:47000/play/a0al
 
-#EXTINF:-1 tvg-chno="188" tvg-id="TLC.pa" tvg-name="TLC.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1920px-TLC_Logo.svg.png",TLC
+#EXTINF:-1 tvg-chno="188" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1920px-TLC_Logo.svg.png",TLC
 http://45.181.121.57:8111/play/172
 
-#EXTINF:-1 tvg-chno="189" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1920px-HGTV_US_Logo_2015.svg.png",HGTV
+#EXTINF:-1 tvg-chno="189" tvg-id="1493hgtvhd.cl" tvg-name="1493hgtvhd.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1920px-HGTV_US_Logo_2015.svg.png",HGTV
 http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/108100
 
-#EXTINF:-1 tvg-chno="190" tvg-id="InvestigationDiscovery.pa" tvg-name="InvestigationDiscovery.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1920px-InvestigationDiscoveryLogo2020.svg.png",Investigation Discovery
+#EXTINF:-1 tvg-chno="190" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1920px-InvestigationDiscoveryLogo2020.svg.png",Investigation Discovery
 http://45.232.210.1:47000/play/idhd
 
 #EXTINF:-1 tvg-chno="191" tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="DiscoveryTurboLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1920px-Discovery_Turbo_logo.svg.png",Discovery Turbo
@@ -246,7 +246,7 @@ http://45.232.210.1:47000/play/a0am
 http://190.108.87.149:8000/play/a06b/index.m3u8
 
 
-#EXTINF:-1 tvg-chno="201" tvg-id="cartoonnetwork.cl" tvg-name="cartoonnetwork.cl" tvg-logo="https://i.imgur.com/tFxpJr3.png",Cartoon Network
+#EXTINF:-1 tvg-chno="201" tvg-id="cartoonnetwork.co" tvg-name="cartoonnetwork.co" tvg-logo="https://i.imgur.com/tFxpJr3.png",Cartoon Network
 http://45.232.210.1:47000/play/a05i
 
 #EXTINF:-1 tvg-chno="202" tvg-id="nick.co" tvg-name="nick.co" tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/nickelodeon.png",Nickelodeon
@@ -258,7 +258,7 @@ http://45.232.210.1:48000/play/disneyhd
 #EXTINF:-1 tvg-chno="204" tvg-id="discoverykids.cl" tvg-name="discoverykids.cl" tvg-logo="https://i.imgur.com/npgLM2p.png",Discovery Kids
 http://45.232.210.1:47000/play/a0ak
 
-#EXTINF:-1 tvg-chno="205" tvg-id="BoomerangLatinAmerica.pa" tvg-name="BoomerangLatinAmerica.pa" tvg-logo="https://i.imgur.com/WXtT7Re.png",Cartoonito
+#EXTINF:-1 tvg-chno="205" tvg-id="boomerang.cl" tvg-name="boomerang.cl" tvg-logo="https://i.imgur.com/WXtT7Re.png",Cartoonito
 http://iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/5851.ts
 
 #EXTINF:-1 tvg-chno="206" tvg-id="NickJr.mx" tvg-name="NickJr.mx" tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/nickjr.png",Nick Jr.
@@ -296,10 +296,10 @@ http://190.108.87.149:8000/play/a04s/index.m3u8
 #EXTINF:-1 tvg-chno="242" tvg-id="EEntertainment.ar" tvg-name="EEntertainment.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png",E!
 http://181.65.169.36:8000/play/a00p/index.m3u8
 
-#EXTINF:-1 tvg-chno="243" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",Food Network
+#EXTINF:-1 tvg-chno="243" tvg-id="883food.cl" tvg-name="883food.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",Food Network
 http://45.232.210.1:47000/play/foodnetworkhd
 
-#EXTINF:-1 tvg-chno="244" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png",El Gourmet
+#EXTINF:-1 tvg-chno="244" tvg-id="232gour.cl" tvg-name="232gour.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png",El Gourmet
 http://45.232.210.1:47000/play/a074
 
 #EXTINF:-1 tvg-chno="245" tvg-id="MasChicTV.mx" tvg-name="MasChicTV.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1280px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png",Mas Chic
