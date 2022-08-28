@@ -151,7 +151,7 @@ http://45.232.210.1:47000/play/cinemaxhd
 #EXTINF:-1 tvg-chno="161" tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png",ESPN
 http://45.232.210.1:47000/play/a0ax
 
-#EXTINF:-1 tvg-chno="162" tvg-id="espn2.cl" tvg-name="espn2.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png",ESPN 2
+#EXTINF:-1 tvg-chno="162" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png",ESPN 2
 http://45.160.15.130:8111/play/214
 
 #EXTINF:-1 tvg-chno="163" tvg-id="espn3.ar" tvg-name="espn3.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3
@@ -290,7 +290,7 @@ https://linear-255.frequency.stream/255/hls/master/playlist.m3u8
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 
 
-#EXTINF:-1 tvg-chno="241" tvg-id="HolaTv.co" tvg-name="HolaTv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg",¡Hola TV!
+#EXTINF:-1 tvg-chno="241" tvg-id="holatv.co" tvg-name="holatv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg",¡Hola TV!
 http://190.108.87.149:8000/play/a04s/index.m3u8
 
 #EXTINF:-1 tvg-chno="242" tvg-id="eentertainment.co" tvg-name="eentertainment.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png",E!
