@@ -28,7 +28,7 @@ http://45.232.210.1:47000/play/a07a
 #EXTINF:-1 tvg-chno="109" tvg-id="ZonaLatina.cl" tvg-name="ZonaLatina.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.Zona_Latina_White_2021.png.a50b98547cde92d001e216570c44a6eb.png",Zona Latina
 http://45.181.121.57:8111/play/133
 
-#EXTINF:-1 tvg-chno="110" tvg-id="VIAX.cl" tvg-name="VIAX.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png",Via X
+#EXTINF:-1 tvg-chno="110" tvg-id="viax.cl" tvg-name="viax.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png",Via X
 http://45.181.121.57:8111/play/131
 
 #EXTINF:-1 tvg-chno="111" tvg-id="RecTV.cl" tvg-name="RecTV.cl" tvg-logo="https://static.13.cl/7/sites/all/themes/rec_v2/images/logo-white2_2018.png?202201131402",REC TV
@@ -296,13 +296,13 @@ http://190.108.87.149:8000/play/a04s/index.m3u8
 #EXTINF:-1 tvg-chno="242" tvg-id="eentertainment.co" tvg-name="eentertainment.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png",E!
 http://181.65.169.36:8000/play/a00p/index.m3u8
 
-#EXTINF:-1 tvg-chno="243" tvg-id="883food.cl" tvg-name="883food.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",Food Network
+#EXTINF:-1 tvg-chno="243" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",Food Network
 http://45.232.210.1:47000/play/foodnetworkhd
 
-#EXTINF:-1 tvg-chno="244" tvg-id="232gour.cl" tvg-name="232gour.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png",El Gourmet
+#EXTINF:-1 tvg-chno="244" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png",El Gourmet
 http://45.232.210.1:47000/play/a074
 
-#EXTINF:-1 tvg-chno="245" tvg-id="MasChicTV.mx" tvg-name="MasChicTV.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1280px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png",Mas Chic
+#EXTINF:-1 tvg-chno="245" tvg-id="maschictv.mx" tvg-name="maschictv.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1280px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png",Mas Chic
 http://170.83.242.30:5001/play/a04l
 
 #EXTINF:-1 tvg-chno="246" tvg-id="GlitzLatinAmerica.pa" tvg-name="GlitzLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png",Glitz
@@ -334,10 +334,10 @@ http://line.thesmartiptv.com:900/2863259172/6796177544/16843
 http://160.20.164.171:8001/play/a01k/index.m3u8
 
 
-#EXTINF:-1 tvg-chno="281" tvg-id="TVEIntAmerica.es" tvg-name="TVEIntAmerica.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/702px-Logo_TVE-Internacional.svg.png",TVE Internacional
+#EXTINF:-1 tvg-chno="281" tvg-id="tve.sp" tvg-name="tve.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/702px-Logo_TVE-Internacional.svg.png",TVE Internacional
 http://45.181.121.57:8111/play/153
 
-#EXTINF:-1 tvg-chno="282" tvg-id="Antena3.cl" tvg-name="Antena3.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/497px-Antena_3_Internacional_logo_2017.svg.png",Antena 3 Internacional
+#EXTINF:-1 tvg-chno="282" tvg-id="antena3.co" tvg-name="antena3.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/497px-Antena_3_Internacional_logo_2017.svg.png",Antena 3 Internacional
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1103
 
 #EXTINF:-1 tvg-chno="283" tvg-id="StarTVE.mx" tvg-name="StarTVE.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",Star TVE
