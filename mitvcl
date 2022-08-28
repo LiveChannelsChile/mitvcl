@@ -68,7 +68,7 @@ http://45.232.210.1:47000/play/a06d
 #EXTINF:-1 tvg-chno="124" tvg-id="AXN.co" tvg-name="AXN.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1920px-AXN_logo_%282015%29.svg.png",AXN
 http://45.232.210.1:47000/play/a06f
 
-#EXTINF:-1 tvg-chno="125" tvg-id="aande.co" tvg-name="AandE.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1920px-A%26E_Network_logo.svg.png",A&E
+#EXTINF:-1 tvg-chno="125" tvg-id="AandE.ar" tvg-name="AandE.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1920px-A%26E_Network_logo.svg.png",A&E
 http://45.232.210.1:47000/play/aehd
 
 #EXTINF:-1 tvg-chno="126" tvg-id="TBS.ar" tvg-name="TBS.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1920px-TBS_logo_2016.svg.png",TBS
@@ -92,7 +92,7 @@ http://190.108.87.149:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-chno="132" tvg-id="SyfyLatinAmerica.pa" tvg-name="SyfyLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1920px-SYFY.svg.png",SyFy
 http://190.108.87.149:8000/play/a023/index.m3u8
 
-#EXTINF:-1 tvg-chno="133" tvg-id="217fx.cl" tvg-name="217fx.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1920px-FX_International_logo.svg.png",FX
+#EXTINF:-1 tvg-chno="133" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1920px-FX_International_logo.svg.png",FX
 http://45.232.210.1:47000/play/a0aw
 
 #EXTINF:-1 tvg-chno="134" tvg-id="space.cl" tvg-name="space.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1920px-SpaceLogo.svg.png",Space
@@ -221,7 +221,7 @@ http://45.232.210.1:47000/play/a06b
 #EXTINF:-1 tvg-chno="186" tvg-id="History2LatinAmerica.pa" tvg-name="History2LatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1024px-History2_logo_%282022%29.svg.png",History 2
 http://45.232.210.1:47000/play/a0e4
 
-#EXTINF:-1 tvg-chno="187" tvg-id="discoveryhomehealth.co" tvg-name="Discoveryhomehealth.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png",Discovery Home & Health
+#EXTINF:-1 tvg-chno="187" tvg-id="discoveryhomehealth.mx" tvg-name="discoveryhomehealth.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png",Discovery Home & Health
 http://45.232.210.1:47000/play/a0al
 
 #EXTINF:-1 tvg-chno="188" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1920px-TLC_Logo.svg.png",TLC
