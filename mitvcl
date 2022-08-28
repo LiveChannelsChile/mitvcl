@@ -111,7 +111,7 @@ http://45.181.121.57:8111/play/109
 #EXTINF:-1 tvg-chno="142" tvg-id="tntseries.cl" tvg-name="tntseries.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Series
 http://45.232.210.1:47000/play/a0bf
 
-#EXTINF:-1 tvg-chno="143" tvg-id="paramountchannel.la" tvg-name="paramountchannel.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1024px-Paramount_Network.svg.png",Paramount Network
+#EXTINF:-1 tvg-chno="143" tvg-id="paramountchannel.la" tvg-name="paramountchannel.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg",Paramount Network
 http://45.232.210.1:48000/play/a05j
 
 #EXTINF:-1 tvg-chno="144" tvg-id="TCM.ar" tvg-name="TCM.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1024px-TCM_Latam_logo.svg.png",TCM
@@ -120,7 +120,7 @@ https://router.cdn.rcs.net.ar/mnp/tcm/output.mpd
 #EXTINF:-1 tvg-chno="145" tvg-id="ISat.ar" tvg-name="ISat.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1920px-I.Sat_logo.svg.png",I.Sat
 https://router.cdn.rcs.net.ar/mnp/isat/output.mpd
 
-#EXTINF:-1 tvg-chno="146" tvg-id="eurochannel_es.br" tvg-name="eurochannel_es.br" tvg-logo="http://www.eurochannel.com/images/Logo_Eurochannel-Blue.png",Eurochannel
+#EXTINF:-1 tvg-chno="146" tvg-id="eurochannel_es.br" tvg-name="eurochannel_es.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/EURO_LOGO_FINALE.png",Eurochannel
 http://190.61.102.67:3000/play/a00s
 
 #EXTINF:-1 tvg-chno="147" tvg-id="CineLatino.mx" tvg-name="CineLatino.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png",Cine Latino
@@ -190,13 +190,13 @@ http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?devic
 #EXTINF:-1 tvg-chno="174" tvg-id="Teletrak.cl" tvg-name="Teletrak.cl" tvg-logo="http://www.teletraktv.cl/wp-content/uploads/2019/04/cropped-MOSCA-TELETRAK-DIAGONAL_00300-3.png",Teletrak
 https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="175" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PCquJTW.png",FOX Sports 1
+#EXTINF:-1 tvg-chno="175" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png",FOX Sports 1
 http://45.232.210.1:47000/play/a07k
 
-#EXTINF:-1 tvg-chno="176" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZC5VWHm.png",FOX Sports 2
+#EXTINF:-1 tvg-chno="176" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png",FOX Sports 2
 http://45.232.210.1:47000/play/a0at
 
-#EXTINF:-1 tvg-chno="177" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/t29qFFh.png",FOX Sports 3
+#EXTINF:-1 tvg-chno="177" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png",FOX Sports 3
 http://45.232.210.1:47000/play/foxsports3hd
 
 #EXTINF:-1 tvg-chno="178" tvg-id="tycsports.la" tvg-name="tycsports.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1920px-TyC_Sports_logo.svg.png",TyC Sports
@@ -246,7 +246,7 @@ http://45.232.210.1:47000/play/a0am
 http://190.108.87.149:8000/play/a06b/index.m3u8
 
 
-#EXTINF:-1 tvg-chno="201" tvg-id="CartoonNetwork.pa" tvg-name="CartoonNetwork.pa" tvg-logo="https://i.imgur.com/tFxpJr3.png",Cartoon Network
+#EXTINF:-1 tvg-chno="201" tvg-id="CartoonNetwork.pa" tvg-name="CartoonNetwork.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 http://45.232.210.1:47000/play/a05i
 
 #EXTINF:-1 tvg-chno="202" tvg-id="nick.co" tvg-name="nick.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",Nick
