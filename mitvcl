@@ -221,7 +221,7 @@ http://45.232.210.1:47000/play/a06b
 #EXTINF:-1 tvg-chno="186" tvg-id="History2LatinAmerica.pa" tvg-name="History2LatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1024px-History2_logo_%282022%29.svg.png",History 2
 http://45.232.210.1:47000/play/a0e4
 
-#EXTINF:-1 tvg-chno="187" tvg-id="discoveryhomehealth.mx" tvg-name="discoveryhomehealth.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png",Discovery Home & Health
+#EXTINF:-1 tvg-chno="187" tvg-id="DiscoveryHomeHealth.ar" tvg-name="DiscoveryHomeHealth.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png",Discovery Home & Health
 http://45.232.210.1:47000/play/a0al
 
 #EXTINF:-1 tvg-chno="188" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1920px-TLC_Logo.svg.png",TLC
