@@ -224,7 +224,7 @@ http://45.232.210.1:47000/play/a0e4
 #EXTINF:-1 tvg-chno="187" tvg-id="DiscoveryHomeHealth.ar" tvg-name="DiscoveryHomeHealth.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png",Discovery Home & Health
 http://45.232.210.1:47000/play/a0al
 
-#EXTINF:-1 tvg-chno="188" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1920px-TLC_Logo.svg.png",TLC
+#EXTINF:-1 tvg-chno="188" tvg-id="TLC.ar" tvg-name="TLC.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1920px-TLC_Logo.svg.png",TLC
 http://45.181.121.57:8111/play/172
 
 #EXTINF:-1 tvg-chno="189" tvg-id="1493hgtvhd.cl" tvg-name="1493hgtvhd.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1920px-HGTV_US_Logo_2015.svg.png",HGTV
