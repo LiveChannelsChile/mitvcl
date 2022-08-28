@@ -224,10 +224,10 @@ http://45.232.210.1:47000/play/a0e4
 #EXTINF:-1 tvg-chno="187" tvg-id="DiscoveryHomeHealth.ar" tvg-name="DiscoveryHomeHealth.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png",Discovery Home & Health
 http://45.232.210.1:47000/play/a0al
 
-#EXTINF:-1 tvg-chno="188" tvg-id="TLC.ar" tvg-name="TLC.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1920px-TLC_Logo.svg.png",TLC
+#EXTINF:-1 tvg-chno="188" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1920px-TLC_Logo.svg.png",TLC
 http://45.181.121.57:8111/play/172
 
-#EXTINF:-1 tvg-chno="189" tvg-id="1493hgtvhd.cl" tvg-name="1493hgtvhd.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1920px-HGTV_US_Logo_2015.svg.png",HGTV
+#EXTINF:-1 tvg-chno="189" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1920px-HGTV_US_Logo_2015.svg.png",HGTV
 http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/108100
 
 #EXTINF:-1 tvg-chno="190" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1920px-InvestigationDiscoveryLogo2020.svg.png",Investigation Discovery
@@ -246,31 +246,31 @@ http://45.232.210.1:47000/play/a0am
 http://190.108.87.149:8000/play/a06b/index.m3u8
 
 
-#EXTINF:-1 tvg-chno="201" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tFxpJr3.png",Cartoon Network
+#EXTINF:-1 tvg-chno="201" tvg-id="CartoonNetwork.pa" tvg-name="CartoonNetwork.pa" tvg-logo="https://i.imgur.com/tFxpJr3.png",Cartoon Network
 http://45.232.210.1:47000/play/a05i
 
-#EXTINF:-1 tvg-chno="202" tvg-id="nick.co" tvg-name="nick.co" tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/nickelodeon.png",Nickelodeon
+#EXTINF:-1 tvg-chno="202" tvg-id="nick.co" tvg-name="nick.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",Nick
 http://45.181.121.57:8111/play/014
 
-#EXTINF:-1 tvg-chno="203" tvg-id="disneychannel.cl" tvg-name="DisneyChannel.cl" tvg-logo="https://i.imgur.com/pjq4xdr.png",Disney Channel
+#EXTINF:-1 tvg-chno="203" tvg-id="disneychannel.cl" tvg-name="DisneyChannel.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Disney_Channel_2014.png/revision/latest?cb=20151003234653&path-prefix=es",Disney Channel
 http://45.232.210.1:48000/play/disneyhd
 
-#EXTINF:-1 tvg-chno="204" tvg-id="discoverykids.cl" tvg-name="discoverykids.cl" tvg-logo="https://i.imgur.com/npgLM2p.png",Discovery Kids
+#EXTINF:-1 tvg-chno="204" tvg-id="discoverykids.cl" tvg-name="discoverykids.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png",Discovery Kids
 http://45.232.210.1:47000/play/a0ak
 
-#EXTINF:-1 tvg-chno="205" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WXtT7Re.png",Cartoonito
+#EXTINF:-1 tvg-chno="205" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png",Cartoonito
 http://iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/5851.ts
 
-#EXTINF:-1 tvg-chno="206" tvg-id="nickjr" tvg-name="nickjr" tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/nickjr.png",Nick Jr.
+#EXTINF:-1 tvg-chno="206" tvg-id="nickjr" tvg-name="nickjr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png",Nick Jr.
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/13837.ts
 
-#EXTINF:-1 tvg-chno="207" tvg-id="disneyjr.cl" tvg-name="disneyjr.cl" tvg-logo="https://i.imgur.com/7PACVjy.png",Disney Junior
+#EXTINF:-1 tvg-chno="207" tvg-id="disneyjr.cl" tvg-name="disneyjr.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Disney_Junior_2020.png/revision/latest/scale-to-width-down/1200?cb=20210617173806&path-prefix=es",Disney Junior
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/8986.ts
 
-#EXTINF:-1 tvg-chno="208" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Ct0PDHs.png",BabyTV
+#EXTINF:-1 tvg-chno="208" tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-QY72YPUZ_-A/X8_CSWEtfxI/AAAAAAAA7kg/S8H7gAJczlImH4fE131WrPpb_VRz2Md4ACLcBGAsYHQ/s500/babytv-2017.png",BabyTV
 http://160.20.164.171:8001/play/a08z/index.m3u8
 
-#EXTINF:-1 tvg-chno="209" tvg-id="tooncast.la" tvg-name="tooncast.la" tvg-logo="https://i.imgur.com/Vq4keII.png",Tooncast
+#EXTINF:-1 tvg-chno="209" tvg-id="tooncast.la" tvg-name="tooncast.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png",Tooncast
 http://190.83.119.67:8000/play/a0s3/index.m3u8
 
 #EXTINF:-1 tvg-chno="210" tvg-id="Nick2.mx" tvg-name="Nick2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/1920px-TeenNick_2019_logo.svg.png",TeenNick
