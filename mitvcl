@@ -111,7 +111,7 @@ http://45.181.121.57:8111/play/109
 #EXTINF:-1 tvg-chno="142" tvg-id="tntseries.cl" tvg-name="tntseries.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Series
 http://45.232.210.1:47000/play/a0bf
 
-#EXTINF:-1 tvg-chno="143" tvg-id="paramountchannel.la" tvg-name="paramountchannel.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg",Paramount Network
+#EXTINF:-1 tvg-chno="143" tvg-id="paramountchannel.la" tvg-name="paramountchannel.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1024px-Paramount_Network.svg.png",Paramount Network
 http://45.232.210.1:48000/play/a05j
 
 #EXTINF:-1 tvg-chno="144" tvg-id="TCM.ar" tvg-name="TCM.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1024px-TCM_Latam_logo.svg.png",TCM
