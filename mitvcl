@@ -294,7 +294,7 @@ https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 http://190.108.87.149:8000/play/a04s/index.m3u8
 
 #EXTINF:-1 tvg-chno="242" tvg-id="eentertainment.co" tvg-name="eentertainment.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png",E!
-http://181.65.169.36:8000/play/a00p/index.m3u8
+http://45.232.210.1:8061/play/a0ff
 
 #EXTINF:-1 tvg-chno="243" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",Food Network
 http://45.232.210.1:47000/play/foodnetworkhd
@@ -303,7 +303,7 @@ http://45.232.210.1:47000/play/foodnetworkhd
 http://45.232.210.1:47000/play/a074
 
 #EXTINF:-1 tvg-chno="245" tvg-id="maschictv.mx" tvg-name="maschictv.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1280px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png",Mas Chic
-http://170.83.242.30:5001/play/a04l
+https://delivery.cdn.rcs.net.ar/mnp/maschic_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="246" tvg-id="GlitzLatinAmerica.pa" tvg-name="GlitzLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png",Glitz
 http://elmasteriptv.com:8000/sebastian.conchabaeza@gmail.com/cOxaZIJb1l/17517
@@ -368,7 +368,7 @@ http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/7507
 http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/7491
 
 #EXTINF:-1 tvg-chno="292" tvg-id="El13.ar" tvg-name="El13.ar" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/19/ElTreceInternacional2017.png/revision/latest/scale-to-width-down/982?cb=20200116023058&path-prefix=es",El Trece Internacional
-http://170.83.242.30:5001/play/a0an
+http://45.5.149.104:8000/play/a1hd/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="301" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/1920px-Canal_Golden_logo.svg.png",Golden
