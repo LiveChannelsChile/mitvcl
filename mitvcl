@@ -56,11 +56,11 @@ http://45.232.210.1:47000/play/a057
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/1513.ts
 
 
-#EXTINF:-1 tvg-chno="121" tvg-id="warner.co" tvg-name="warner.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel
+#EXTINF:-1 tvg-chno="121" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel
 http://45.232.210.1:48000/play/a06e
 
 #EXTINF:-1 tvg-chno="122" tvg-id="FOX.cl" tvg-name="FOX.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1920px-Star_Channel_2020.svg.png",Star Channel
-http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/55.ts
+http://45.232.210.1:8061/play/a0ao
 
 #EXTINF:-1 tvg-chno="123" tvg-id="sony.co" tvg-name="sony.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony Channel
 http://45.232.210.1:47000/play/a06d
@@ -72,7 +72,7 @@ http://45.232.210.1:47000/play/a06f
 http://45.232.210.1:47000/play/aehd
 
 #EXTINF:-1 tvg-chno="126" tvg-id="TBS.ar" tvg-name="TBS.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1920px-TBS_logo_2016.svg.png",TBS
-http://204.199.119.14:1979/play/a01v/index.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="127" tvg-id="ComedyCentral.ar" tvg-name="ComedyCentral.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png",Comedy Central
 http://45.232.210.1:47000/play/comedycentralhd
@@ -99,7 +99,7 @@ http://45.232.210.1:47000/play/a0aw
 http://45.232.210.1:47000/play/a06g
 
 #EXTINF:-1 tvg-chno="135" tvg-id="LifeTimeLatinAmerica.pa" tvg-name="LifeTimeLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png",Lifetime
-http://168.228.49.252:8881/play/a03z/index.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/lifetime/output.mpd
 
 #EXTINF:-1 tvg-chno="136" tvg-id="CanalDHE.co" tvg-name="CanalDHE.co" tvg-logo="https://www.canaldhe.com/wp-content/uploads/2019/09/Logotipo-DHE-124x66-px.png",DHE
 http://45.232.210.1:47000/play/a0dz
@@ -161,7 +161,7 @@ http://45.232.210.1:47000/play/espn3hd
 http://45.181.121.57:8111/play/218
 
 #EXTINF:-1 tvg-chno="165" tvg-id="GolTVLatinAmerica.pa" tvg-name="GolTVLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1920px-GolTV_logo.svg.png",Gol TV
-http://190.108.94.229:8000/play/a09w/index.m3u8
+http://181.65.199.218:8000/play/a0bv/index.m3u8
 
 #EXTINF:-1 tvg-chno="166" tvg-id="GolfChannel.mx" tvg-name="GolfChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png",Golf Channel
 http://190.83.119.67:8000/play/a0qg/index.m3u8
@@ -200,14 +200,14 @@ http://45.232.210.1:47000/play/a0at
 http://45.232.210.1:47000/play/foxsports3hd
 
 #EXTINF:-1 tvg-chno="178" tvg-id="tycsports.la" tvg-name="tycsports.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1920px-TyC_Sports_logo.svg.png",TyC Sports
-http://170.83.242.30:5001/play/a04t
+http://181.65.199.218:8000/play/a0c0/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="181" tvg-id="discoverychannel.mx" tvg-name="discoverychannel.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png",Discovery Channel
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/105.ts
 
 #EXTINF:-1 tvg-chno="182" tvg-id="NationalGeographic.co" tvg-name="NationalGeographic.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1920px-Natgeologo.svg.png",National Geographic Channel
-http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/51.ts
+http://45.232.210.1:8061/play/a05a
 
 #EXTINF:-1 tvg-chno="183" tvg-id="animalplanet.mx" tvg-name="AnimalPlanet.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png",Animal Planet
 http://45.232.210.1:47000/play/animalplanethd
@@ -246,7 +246,7 @@ http://45.232.210.1:47000/play/a0am
 http://190.108.87.149:8000/play/a06b/index.m3u8
 
 
-#EXTINF:-1 tvg-chno="201" tvg-id="CartoonNetwork.pa" tvg-name="CartoonNetwork.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
+#EXTINF:-1 tvg-chno="201" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 http://45.232.210.1:47000/play/a05i
 
 #EXTINF:-1 tvg-chno="202" tvg-id="nick.co" tvg-name="nick.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",Nick
@@ -384,7 +384,7 @@ http://45.232.210.1:47000/play/goldenhd
 https://linear-411.frequency.stream/411/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="305" tvg-id="" tvg-name="" tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es",Golden Premiere 2
-http://160.20.164.171:8001/play/a07f/index.m3u8
+http://181.39.202.98:8843/play/a120/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="321" tvg-id="" tvg-name="Universal Premiere Este" tvg-logo="https://universalplus.com/files/channels/398064723.png",Universal Premiere
@@ -416,7 +416,7 @@ http://190.108.87.149:8000/play/a0d8/index.m3u8
 http://190.108.87.149:8000/play/a0d9/index.m3u8
 
 #EXTINF:-1 tvg-chno="345" tvg-id="HBOSignatureLatinAmerica.pa" tvg-name="HBOSignatureLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1920px-HBO_Signature.svg.png",HBO Signature
-http://170.83.242.30:5001/play/a048
+http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/5892.ts
 
 #EXTINF:-1 tvg-chno="346" tvg-id="max.mx" tvg-name="max.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png",HBO Mundi
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/13868.ts
