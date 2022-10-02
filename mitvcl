@@ -434,27 +434,3 @@ http://xdgo.live:8080/play/McUodOnFEUmGTH-fUwgWx2hy92AaYbtKhNMVITUfEBLaGBkjXGJHH
 
 #EXTINF:-1 tvg-chno="388" tvg-id="maxprime.la" tvg-name="maxprime.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
-
-
-#EXTINF:-1 tvg-chno="401" tvg-id="WJLADT1.us" tvg-logo="https://i.imgur.com/LttuGfq.png" group-title="Undefined",ABC
-https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
-
-#EXTINF:-1 tvg-chno="402" tvg-id="WUSADT1.us" tvg-logo="https://i.imgur.com/Ekt1an0.png" group-title="Undefined",CBS
-https://livevideo01.wusa9.com/hls/live/2015498/newscasts/live.m3u8
-
-#EXTINF:-1 tvg-chno="403" tvg-id="WNYWDT1.us" tvg-logo="https://i.imgur.com/zZd9Tkt.png" group-title="Undefined",FOX
-https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
-
-#EXTINF:-1 tvg-chno="404" tvg-id="WHVLLD1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/512px-MyNetworkTV_2D_Logo.svg.png" group-title="Undefined",MyNetwork (WHVL-DT1) State College PA (720p)
-http://trn03.tulix.tv/e5CGxWp8iU/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="405" tvg-id="WCNCDT1.us" tvg-logo="https://i.imgur.com/2EyiCqw.jpg" group-title="Undefined",NBC 36 Charlotte NC (WCNC-TV) (1080p)
-https://livevideo01.wcnc.com/hls/live/2015505/newscasts/live.m3u8
-
-
-
-#EXTINF:-1 tvg-chno="406" tvg-id="WHUTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/WHUT_Television_2017.png" group-title="Undefined",PBS Washington DC (WHUT) (1080p)
-https://whutdt.lls.pbs.org/out/v1/dd1102f24d7948e58517ba6a6573c928/index.m3u8
-
-#EXTINF:-1 tvg-chno="407" tvg-id="WCWNDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/512px-The_CW.svg.png" group-title="Undefined",The CW (WCWN-DT1) Albamy NY (1080p)
-https://16live00.akamaized.net/CW/index.m3u8
