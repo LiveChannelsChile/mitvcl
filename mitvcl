@@ -26,10 +26,10 @@ http://45.232.210.1:47000/play/a08n
 http://45.232.210.1:47000/play/a07a
 
 #EXTINF:-1 tvg-chno="109" tvg-id="ZonaLatina.cl" tvg-name="ZonaLatina.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.Zona_Latina_White_2021.png.a50b98547cde92d001e216570c44a6eb.png",Zona Latina
-http://45.181.121.57:8111/play/133
+http://45.232.210.1:8062/play/a09h/index.m3u8
 
 #EXTINF:-1 tvg-chno="110" tvg-id="viax.cl" tvg-name="viax.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png",Via X
-http://45.181.121.57:8111/play/131
+http://45.232.210.1:8062/play/a092/index.m3u8
 
 #EXTINF:-1 tvg-chno="111" tvg-id="RecTV.cl" tvg-name="RecTV.cl" tvg-logo="https://static.13.cl/7/sites/all/themes/rec_v2/images/logo-white2_2018.png?202201131402",REC TV
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/52.ts
@@ -141,10 +141,16 @@ http://45.71.200.254:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-chno="152" tvg-id="FilmAndArts.mx" tvg-name="FilmAndArts.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png",Film & Arts
 http://edge2-cvapp.anevia.com/live/live/Film_Arts/SA_Live_WebVTT_FTA/Film_Arts.m3u8
 
-#EXTINF:-1 tvg-chno="153" tvg-id="cinecanal.co" tvg-name="cinecanal.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",Cinecanal
+#EXTINF:-1 tvg-chno="153" tvg-id="" tvg-name="Morbido TV" tvg-logo="",Morbido TV
+http://xdgo.live:8080/play/McUodOnFEUmGTH-fUwgWx2hy92AaYbtKhNMVITUfEBJkrAQMZSFDoHvwsa4TUTLx/ts
+
+#EXTINF:-1 tvg-chno="154" tvg-id="" tvg-name="Panico TV" tvg-logo="",Panico TV
+http://xdgo.live:8080/play/McUodOnFEUmGTH-fUwgWx2hy92AaYbtKhNMVITUfEBKYfigki1wbAcOGUg4palSh/ts
+
+#EXTINF:-1 tvg-chno="155" tvg-id="cinecanal.co" tvg-name="cinecanal.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",Cinecanal
 http://45.232.210.1:47000/play/a05c
 
-#EXTINF:-1 tvg-chno="154" tvg-id="cinemax.mx" tvg-name="cinemax.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1920px-Cinemax_%28Yellow%29.svg.png",Cinemax
+#EXTINF:-1 tvg-chno="156" tvg-id="cinemax.mx" tvg-name="cinemax.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1920px-Cinemax_%28Yellow%29.svg.png",Cinemax
 http://45.232.210.1:47000/play/cinemaxhd
 
 
@@ -322,13 +328,13 @@ https://router.cdn.rcs.net.ar/mnp/mtv/output.mpd
 https://router.cdn.rcs.net.ar/mnp/htv/output.mpd
 
 #EXTINF:-1 tvg-chno="263" tvg-id="MTVMusic.uk" tvg-name="MTVMusic.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/MTV_Music_2021_logo.svg/1024px-MTV_Music_2021_logo.svg.png",MTV Music
-http://line.thesmartiptv.com:900/2863259172/6796177544/191720
+http://line.powerdino.com:80/4375a1dd43/649f75a876/577448
 
 #EXTINF:-1 tvg-chno="264" tvg-id="MTV80s.uk" tvg-name="MTV80s.uk" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.858494140_MTV80s2020.png.63fb573ecfb43ae8cd68b887ba0c892e.png",MTV 80's
-http://line.thesmartiptv.com:900/2863259172/6796177544/171462
+http://line.powerdino.com:80/4375a1dd43/649f75a876/686847
 
 #EXTINF:-1 tvg-chno="265" tvg-id="MTV90s.uk" tvg-name="MTV90s.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/MTV_90s_logo.png",MTV 90's
-http://line.thesmartiptv.com:900/2863259172/6796177544/16843
+http://line.powerdino.com:80/4375a1dd43/649f75a876/689804
 
 #EXTINF:-1 tvg-chno="266" tvg-id="MTV00s.uk" tvg-name="MTV00s.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",MTV 00's
 http://160.20.164.171:8001/play/a01k/index.m3u8
