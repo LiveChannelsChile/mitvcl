@@ -371,29 +371,11 @@ http://190.92.72.98:8185/play/a05q/index.m3u8
 #EXTINF:-1 tvg-chno="304" tvg-id="Unicable.mx" tvg-name="Unicable.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png",Univision
 http://186.3.216.78:9955/play/a142/index.m3u8
 
-#EXTINF:-1 tvg-chno="305" tvg-id="CanalEstrellas.es" tvg-name="CanalEstrellas.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/125px-Las_Estrellas.svg.png",Las Estrellas Internacional
-https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="306" tvg-id="AZMundo.mx" tvg-name="AZMundo.mx" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Az_Mundo_2014-2018.png/revision/latest/scale-to-width-down/124?cb=20220217171211&path-prefix=es",AZ Mundo
-http://45.71.200.254:8000/play/a0h8/index.m3u8
-
-#EXTINF:-1 tvg-chno="307" tvg-id="America2.ar" tvg-name="America2.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",America TV
-https://router.cdn.rcs.net.ar/mnp/america/output.mpd
-
-#EXTINF:-1 tvg-chno="308" tvg-id="TVPublica.ar" tvg-name="TVPublica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1920px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",TV Publica
-https://router.cdn.rcs.net.ar/mnp/tvp/output.mpd
-
-#EXTINF:-1 tvg-chno="309" tvg-id="telefe.ar" tvg-name="telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Telefe_Internacional_%282018%29.png",Telefe
-https://router.cdn.rcs.net.ar/mnp/telefe/output.mpd
-
-#EXTINF:-1 tvg-chno="310" tvg-id="El13.ar" tvg-name="El13.ar" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/19/ElTreceInternacional2017.png/revision/latest/scale-to-width-down/982?cb=20200116023058&path-prefix=es",El Trece
-https://router.cdn.rcs.net.ar/mnp/el13/output.mpd
-
-
-#EXTINF:-1 tvg-chno="321" tvg-id="EWTN" tvg-name="EWTN" tvg-logo="https://lh3.googleusercontent.com/-3lr3InkQOSY/YKpaD_5GcMI/AAAAAAABCfU/W-_bV-aXlw0GngiTAXR6qo7WBBRxMuTzwCK8BGAsYHg/s512/2021-05-23.jpg", EWTN | US
+#EXTINF:-1 tvg-chno="321" tvg-id="EWTN" tvg-name="EWTN" tvg-logo="https://lh3.googleusercontent.com/-3lr3InkQOSY/YKpaD_5GcMI/AAAAAAABCfU/W-_bV-aXlw0GngiTAXR6qo7WBBRxMuTzwCK8BGAsYHg/s512/2021-05-23.jpg",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="322" tvg-id="Orbe 21" tvg-name="Orbe 21" tvg-logo="https://lh3.googleusercontent.com/-nkPrJQvytG4/YFtHEDqc8EI/AAAAAAABA3Q/ug1dmoP1_Qcd5lOSH4Kgxf_E0UBedCuCgCK8BGAsYHg/s512/2021-03-24.jpg", Orbe 21 | AR
+#EXTINF:-1 tvg-chno="322" tvg-id="Orbe 21" tvg-name="Orbe 21" tvg-logo="https://lh3.googleusercontent.com/-nkPrJQvytG4/YFtHEDqc8EI/AAAAAAABA3Q/ug1dmoP1_Qcd5lOSH4Kgxf_E0UBedCuCgCK8BGAsYHg/s512/2021-03-24.jpg",Orbe 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 
 
