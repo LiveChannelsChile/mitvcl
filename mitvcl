@@ -447,14 +447,14 @@ http://xdgo.live:8080/play/McUodOnFEUmGTH-fUwgWx2hy92AaYbtKhNMVITUfEBLaGBkjXGJHH
 http://45.232.210.1:47000/play/a0fb
 
 
-#EXTINF:-1 tvg-chno="381" tvg-chno="128" tvg-id="" tvg-name="Canal Infantil" tvg-logo="",Canal Infantil
+#EXTINF:-1 tvg-chno="381" tvg-id="" tvg-name="Canal Infantil" tvg-logo="",Canal Infantil
 http://181.176.148.142:8000/play/a020
 
-#EXTINF:-1 tvg-chno="382" tvg-chno="79" tvg-id="" tvg-name="Cine Familiar" tvg-logo="",Cine Familiar
+#EXTINF:-1 tvg-chno="382" tvg-id="" tvg-name="Cine Familiar" tvg-logo="",Cine Familiar
 http://181.176.148.142:8000/play/a023
 
-#EXTINF:-1 tvg-chno="383" tvg-chno="80" tvg-id="" tvg-name="Cine Hispano" tvg-logo="",Cine Hispano
+#EXTINF:-1 tvg-chno="383" tvg-id="" tvg-name="Cine Hispano" tvg-logo="",Cine Hispano
 http://181.176.148.142:8000/play/a024
 
-#EXTINF:-1 tvg-chno="384" tvg-chno="78" tvg-id="" tvg-name="Cine Premium" tvg-logo="",Cine Premium
+#EXTINF:-1 tvg-chno="384" tvg-id="" tvg-name="Cine Premium" tvg-logo="",Cine Premium
 http://181.176.148.142:8000/play/a025
