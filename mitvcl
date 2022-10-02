@@ -448,8 +448,9 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
 #EXTINF:-1 tvg-chno="404" tvg-id="WHVLLD1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/512px-MyNetworkTV_2D_Logo.svg.png" group-title="Undefined",MyNetwork (WHVL-DT1) State College PA (720p)
 http://trn03.tulix.tv/e5CGxWp8iU/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="405" tvg-id="WJACDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NBC_2013_fixed_logo.png/512px-NBC_2013_fixed_logo.png" group-title="Undefined",NBC Altoona PA (WJAC1) (720p)
-http://trn03.tulix.tv/teleup-nbc-wgal-new1/playlist.m3u8
+#EXTINF:-1 tvg-chno="405" tvg-id="WCNCDT1.us" tvg-logo="https://i.imgur.com/2EyiCqw.jpg" group-title="Undefined",NBC 36 Charlotte NC (WCNC-TV) (1080p)
+https://livevideo01.wcnc.com/hls/live/2015505/newscasts/live.m3u8
+
 
 
 #EXTINF:-1 tvg-chno="406" tvg-id="WHUTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/WHUT_Television_2017.png" group-title="Undefined",PBS Washington DC (WHUT) (1080p)
