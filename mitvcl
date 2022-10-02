@@ -22,7 +22,7 @@ http://45.232.210.1:47000/play/a08g
 #EXTINF:-1 tvg-chno="107" tvg-id="chilevision.cl" tvg-name="Chilevision.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Chilevisi%C3%B3n.svg/1920px-Chilevisi%C3%B3n.svg.png",Chilevision
 http://45.232.210.1:47000/play/a08n
 
-#EXTINF:-1 tvg-chno="108" tvg-id="canal13.cl" tvg-name="Canal13.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logotipo_de_Canal_13.svg/1280px-Logotipo_de_Canal_13.svg.png",Canal 13
+#EXTINF:-1 tvg-chno="108" tvg-id="canal13.cl" tvg-name="Canal13.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logotipo_de_Canal_13.png",Canal 13
 http://45.232.210.1:47000/play/a07a
 
 #EXTINF:-1 tvg-chno="109" tvg-id="ZonaLatina.cl" tvg-name="ZonaLatina.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.Zona_Latina_White_2021.png.a50b98547cde92d001e216570c44a6eb.png",Zona Latina
@@ -191,7 +191,7 @@ http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?devic
 https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-chno="181" tvg-id="ESPN2LatinAmerica.pa" tvg-name="ESPN2LatinAmerica.pa" tvg-logo="https://i.imgur.com/2WODtEc.png",ESPN (Centroamérica)
+#EXTINF:-1 tvg-chno="181" tvg-id="ESPN2LatinAmerica.pa" tvg-name="ESPN2LatinAmerica.pa" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png",ESPN (Centroamérica)
 http://45.71.200.254:8000/play/a0kg/index.m3u8
 
 #EXTINF:-1 tvg-chno="182" tvg-id="ESPNLatinAmericaNorth.pa" tvg-name="ESPNLatinAmericaNorth.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png",ESPN 2 (Centroamérica)
@@ -200,16 +200,16 @@ http://45.71.200.254:8000/play/a0ki/index.m3u8
 #EXTINF:-1 tvg-chno="183" tvg-id="ESPN3LatAmNorth.pa" tvg-name="ESPN3LatAmNorth.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 (Centroamérica)
 http://45.71.200.254:8000/play/a0kh/index.m3u8
 
-#EXTINF:-1 tvg-chno="184" tvg-id="FoxSports4.mx" tvg-name="FoxSports4.mx" tvg-logo="https://i.imgur.com/6DTF8bQ.png",ESPN 4 (Centroamérica)
+#EXTINF:-1 tvg-chno="184" tvg-id="FoxSports4.mx" tvg-name="FoxSports4.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",ESPN 4 (Centroamérica)
 http://45.71.200.254:8000/play/a0ix/index.m3u8
 
-#EXTINF:-1 tvg-chno="185" tvg-id="ESPNDeportes.us" tvg-name="ESPNDeportes.us" tvg-logo="https://epg4you.com/logos/espndeportes_us.png",ESPN Deportes
+#EXTINF:-1 tvg-chno="185" tvg-id="ESPNDeportes.us" tvg-name="ESPNDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png",ESPN Deportes
 http://xdgo.live:8080/play/McUodOnFEUmGTH-fUwgWx2hy92AaYbtKhNMVITUfEBJZG_PrWKckrCFYAsYhk9cf/ts
 
 #EXTINF:-1 tvg-chno="186" tvg-id="GolTVLatinAmerica.pa" tvg-name="GolTVLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1920px-GolTV_logo.svg.png",Gol TV
 http://181.65.199.218:8000/play/a0bv/index.m3u8
 
-#EXTINF:-1 tvg-chno="187" tvg-id="beINSportsEnEspanol.us" tvg-name="beINSportsEnEspanol.us" tvg-logo="https://us-static.beinstatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%27301836.png" ,beIN Sports Ñ
+#EXTINF:-1 tvg-chno="187" tvg-id="beINSportsEnEspanol.us" tvg-name="beINSportsEnEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png",beIN Sports Ñ
 http://line.powerdino.com:80/4375a1dd43/649f75a876/264841
 
 #EXTINF:-1 tvg-chno="188" tvg-id="beINSportsXtraEspanol.us" tvg-name="beINSportsXtraEspanol.us" tvg-logo="https://beinsportsxtra.com/_next/image?url=https%3A%2F%2Fresources.beinsportsxtra.com%2Fxtra%2Flogo_bein_sport_xtra_espanol_plain_dfc8c8970b.png&w=1920&q=100",beIN Sports XTRA Ñ
@@ -441,7 +441,20 @@ http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/5892.ts
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/13868.ts
 
 #EXTINF:-1 tvg-chno="367" tvg-id="HBOPopMexicoAndCaribbean.mx" tvg-name="HBOPopMexicoAndCaribbean.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png",HBO Pop
-http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/58807
+http://xdgo.live:8080/play/McUodOnFEUmGTH-fUwgWx2hy92AaYbtKhNMVITUfEBLaGBkjXGJHHAznOi3QUcmY/ts
 
 #EXTINF:-1 tvg-chno="368" tvg-id="maxprime.la" tvg-name="maxprime.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
+
+
+#EXTINF:-1 tvg-chno="128" tvg-id="" tvg-name="Canal Infantil" tvg-logo="",Canal Infantil
+http://181.176.148.142:8000/play/a020
+
+#EXTINF:-1 tvg-chno="79" tvg-id="" tvg-name="Cine Familiar" tvg-logo="",Cine Familiar
+http://181.176.148.142:8000/play/a023
+
+#EXTINF:-1 tvg-chno="80" tvg-id="" tvg-name="Cine Hispano" tvg-logo="",Cine Hispano
+http://181.176.148.142:8000/play/a024
+
+#EXTINF:-1 tvg-chno="78" tvg-id="" tvg-name="Cine Premium" tvg-logo="",Cine Premium
+http://181.176.148.142:8000/play/a025
