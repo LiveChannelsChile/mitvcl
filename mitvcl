@@ -136,7 +136,7 @@ http://160.20.164.171:8001/play/a021/index.m3u8
 http://45.232.210.1:47000/play/a056
 
 #EXTINF:-1 tvg-chno="151" tvg-id="EuropaEuropa.mx" tvg-name="EuropaEuropa.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png",Europa Europa
-http://190.108.87.149:8000/play/a02b/index.m3u8
+http://45.71.200.254:8000/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-chno="152" tvg-id="FilmAndArts.mx" tvg-name="FilmAndArts.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png",Film & Arts
 http://edge2-cvapp.anevia.com/live/live/Film_Arts/SA_Live_WebVTT_FTA/Film_Arts.m3u8
@@ -158,13 +158,13 @@ http://45.232.210.1:58000/play/a06j
 http://45.232.210.1:47000/play/espn3hd
 
 #EXTINF:-1 tvg-chno="164" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",ESPN 4
-http://45.181.121.57:8111/play/218
+http://186.3.216.78:9955/play/a0yr/index.m3u8
 
 #EXTINF:-1 tvg-chno="165" tvg-id="GolTVLatinAmerica.pa" tvg-name="GolTVLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1920px-GolTV_logo.svg.png",Gol TV
 http://181.65.199.218:8000/play/a0bv/index.m3u8
 
 #EXTINF:-1 tvg-chno="166" tvg-id="GolfChannel.mx" tvg-name="GolfChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png",Golf Channel
-http://190.83.119.67:8000/play/a0qg/index.m3u8
+http://45.71.200.254:8000/play/a0h1/index.m3u8
 
 #EXTINF:-1 tvg-chno="167" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV Sports
 http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/558
@@ -225,7 +225,7 @@ http://45.232.210.1:47000/play/a0e4
 http://45.232.210.1:47000/play/a0al
 
 #EXTINF:-1 tvg-chno="188" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1920px-TLC_Logo.svg.png",TLC
-http://45.181.121.57:8111/play/172
+http://45.232.210.1:8062/play/a091/index.m3u8
 
 #EXTINF:-1 tvg-chno="189" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1920px-HGTV_US_Logo_2015.svg.png",HGTV
 http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/108100
@@ -234,23 +234,23 @@ http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/108100
 http://45.232.210.1:47000/play/idhd
 
 #EXTINF:-1 tvg-chno="191" tvg-id="discoveryturbo.la" tvg-name="discoveryturbo.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1920px-Discovery_Turbo_logo.svg.png",Discovery Turbo
-http://45.181.121.57:8111/play/207
+http://45.232.210.1:8062/play/a0bh/index.m3u8
 
 #EXTINF:-1 tvg-chno="192" tvg-id="DiscoveryScienceLatinAmerica.pa" tvg-name="DiscoveryScienceLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/800px-Science_Channel_logo.svg.png",Discovery Science
-http://190.83.119.67:8000/play/a0ny/index.m3u8
+http://xdgo.live:8080/play/McUodOnFEUmGTH-fUwgWx2hy92AaYbtKhNMVITUfEBLeSC9g6FkIxaCoGm_KQw6Q/ts
 
 #EXTINF:-1 tvg-chno="193" tvg-id="DiscoveryTheater.mx" tvg-name="DiscoveryTheater.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1920px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater
 http://45.232.210.1:47000/play/a0am
 
 #EXTINF:-1 tvg-chno="194" tvg-id="discoveryworld.mx" tvg-name="discoveryworld.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1920px-World_Discovery_HD_logo.svg.png",Discovery World
-http://190.108.87.149:8000/play/a06b/index.m3u8
+http://45.232.210.1:58000/play/a05b
 
 
 #EXTINF:-1 tvg-chno="201" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 http://45.232.210.1:47000/play/a05i
 
 #EXTINF:-1 tvg-chno="202" tvg-id="nick.co" tvg-name="nick.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",Nick
-http://45.181.121.57:8111/play/014
+http://45.232.210.1:58000/play/a0fg
 
 #EXTINF:-1 tvg-chno="203" tvg-id="disneychannel.cl" tvg-name="DisneyChannel.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Disney_Channel_2014.png/revision/latest?cb=20151003234653&path-prefix=es",Disney Channel
 http://45.232.210.1:48000/play/disneyhd
@@ -271,27 +271,27 @@ http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/8986.ts
 http://160.20.164.171:8001/play/a08z/index.m3u8
 
 #EXTINF:-1 tvg-chno="209" tvg-id="tooncast.la" tvg-name="tooncast.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png",Tooncast
-http://190.83.119.67:8000/play/a0s3/index.m3u8
+http://45.71.200.254:8000/play/a03k/index.m3u8
 
 #EXTINF:-1 tvg-chno="210" tvg-id="Nick2.mx" tvg-name="Nick2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/1920px-TeenNick_2019_logo.svg.png",TeenNick
-http://190.108.87.149:8000/play/a0ib/index.m3u8
+http://45.71.200.254:8000/play/a03f/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="221" tvg-id="cnn.int" tvg-name="cnn.int" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-CNN.png",CNN International
 https://router.cdn.rcs.net.ar/mnp/cnn/output.mpd
 
 #EXTINF:-1 tvg-chno="222" tvg-id="CNNEspanol.us" tvg-name="CNNEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1280px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",CNN en Espanol
-http://190.108.87.149:8000/play/a01u/index.m3u8
+http://45.232.210.1:8062/play/a083/index.m3u8
 
 #EXTINF:-1 tvg-chno="223" tvg-id="EuronewsEspanol.mx" tvg-name="EuronewsEspanol.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1920px-Euronews_2016_logo.svg.png",Euronews Espanol
-https://linear-255.frequency.stream/255/hls/master/playlist.m3u8
+http://181.204.39.66:15002/play/a10082
 
 #EXTINF:-1 tvg-chno="224" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1920px-Euronews_2016_logo.svg.png",Euronews
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 
 
 #EXTINF:-1 tvg-chno="241" tvg-id="holatv.co" tvg-name="holatv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg",¡Hola TV!
-http://190.108.87.149:8000/play/a04s/index.m3u8
+http://45.71.200.254:8000/play/a0l6/index.m3u8
 
 #EXTINF:-1 tvg-chno="242" tvg-id="eentertainment.co" tvg-name="eentertainment.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png",E!
 http://45.232.210.1:8061/play/a0ff
@@ -312,7 +312,7 @@ http://elmasteriptv.com:8000/sebastian.conchabaeza@gmail.com/cOxaZIJb1l/17517
 http://45.232.210.1:47000/play/a0aj
 
 #EXTINF:-1 tvg-chno="248" tvg-id="pasiones.co" tvg-name="pasiones.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1920px-Pasiones_Tv_logo.svg.png",Pasiones
-http://45.232.210.1:47000/play/pasioneshd
+http://45.232.210.1:58000/play/pasioneshd
 
 
 #EXTINF:-1 tvg-chno="261" tvg-id="mtv.co" tvg-name="mtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1920px-MTV_2021_%28brand_version%29.svg.png",MTV
@@ -335,13 +335,13 @@ http://160.20.164.171:8001/play/a01k/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="281" tvg-id="tve.sp" tvg-name="tve.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/702px-Logo_TVE-Internacional.svg.png",TVE Internacional
-http://45.181.121.57:8111/play/153
+http://45.232.210.1:8062/play/a09s/index.m3u8
 
 #EXTINF:-1 tvg-chno="282" tvg-id="antena3.co" tvg-name="antena3.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/497px-Antena_3_Internacional_logo_2017.svg.png",Antena 3 Internacional
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1103
+http://45.236.28.72:8000/play/a0ho/index.m3u8
 
 #EXTINF:-1 tvg-chno="283" tvg-id="StarTVE.mx" tvg-name="StarTVE.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",Star TVE
-http://190.61.102.67:3000/play/a02o
+http://45.71.200.254:8000/play/a0h0/index.m3u8
 
 #EXTINF:-1 tvg-chno="284" tvg-id="AtreseriesInternacional.es" tvg-name="AtreseriesInternacional.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png",A3 Series
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1106
@@ -350,13 +350,13 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1106
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="286" tvg-id="AZMundo.mx" tvg-name="AZMundo.mx" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Az_Mundo_2014-2018.png/revision/latest/scale-to-width-down/124?cb=20220217171211&path-prefix=es",AZ Mundo
-http://190.108.87.149:8000/play/a043/index.m3u8
+http://45.71.200.254:8000/play/a0h8/index.m3u8
 
 #EXTINF:-1 tvg-chno="287" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1024px-Telemundo_logo_2018.svg.png",Telemundo Internacional
-http://45.181.121.57:8111/play/149
+http://190.92.72.98:8185/play/a05q/index.m3u8
 
 #EXTINF:-1 tvg-chno="288" tvg-id="Unicable.mx" tvg-name="Unicable.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png",Univision
-http://190.108.87.149:8000/play/a06d/index.m3u8
+http://186.3.216.78:9955/play/a142/index.m3u8
 
 #EXTINF:-1 tvg-chno="289" tvg-id="America2.ar" tvg-name="America2.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",America TV (Argentina)
 http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/17834
@@ -368,7 +368,7 @@ http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/7507
 http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/7491
 
 #EXTINF:-1 tvg-chno="292" tvg-id="El13.ar" tvg-name="El13.ar" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/19/ElTreceInternacional2017.png/revision/latest/scale-to-width-down/982?cb=20200116023058&path-prefix=es",El Trece Internacional
-http://45.5.149.104:8000/play/a1hd/index.m3u8
+http://line.powerdino.com:80/4375a1dd43/649f75a876/265163
 
 
 #EXTINF:-1 tvg-chno="301" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/1920px-Canal_Golden_logo.svg.png",Golden
@@ -410,10 +410,10 @@ https://router.cdn.rcs.net.ar/mnp/hbo/output.mpd
 http://elmasteriptv.com:8000/sebastian.conchabaeza@gmail.com/cOxaZIJb1l/58948
 
 #EXTINF:-1 tvg-chno="343" tvg-id="hboplus.mx" tvg-name="hboplus.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1920px-Logohboplus2019.svg.png",HBO Plus
-http://190.108.87.149:8000/play/a0d8/index.m3u8
+http://131.196.194.2:8000/play/a0cy/index.m3u8
 
 #EXTINF:-1 tvg-chno="344" tvg-id="hbofamily.mx" tvg-name="hbofamily.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1280px-HBO_Family.svg.png",HBO Family
-http://190.108.87.149:8000/play/a0d9/index.m3u8
+http://45.232.210.1:58000/play/a0fa
 
 #EXTINF:-1 tvg-chno="345" tvg-id="HBOSignatureLatinAmerica.pa" tvg-name="HBOSignatureLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1920px-HBO_Signature.svg.png",HBO Signature
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/5892.ts
