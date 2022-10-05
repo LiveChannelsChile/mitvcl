@@ -22,7 +22,7 @@ http://45.232.210.1:47000/play/a08g
 #EXTINF:-1 tvg-chno="107" tvg-id="chv.cl" tvg-name="chv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/151.png",Chilevision
 http://45.232.210.1:47000/play/a08n
 
-#EXTINF:-1 tvg-chno="108" tvg-id="152directv.cl" tvg-name="152directv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logotipo_de_Canal_13.svg/1280px-Logotipo_de_Canal_13.svg.png",Canal 13
+#EXTINF:-1 tvg-chno="108" tvg-id="152directv.cl" tvg-name="152directv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logotipo_de_Canal_13.png",Canal 13
 http://45.232.210.1:47000/play/a07a
 
 #EXTINF:-1 tvg-chno="109" tvg-id="ZonaLatina.cl" tvg-name="ZonaLatina.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.Zona_Latina_White_2021.png.a50b98547cde92d001e216570c44a6eb.png",Zona Latina
@@ -323,10 +323,10 @@ http://45.232.210.1:58000/play/pasioneshd
 
 
 #EXTINF:-1 tvg-chno="281" tvg-id="mtv.cl" tvg-name="mtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1920px-MTV_2021_%28brand_version%29.svg.png",MTV
-https://router.cdn.rcs.net.ar/mnp/mtv/output.mpd
+http://45.232.210.1:58000/play/mtvhd
 
 #EXTINF:-1 tvg-chno="282" tvg-id="272dtv.cl" tvg-name="272dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/800px-Htv_logo.svg.png",HTV
-https://router.cdn.rcs.net.ar/mnp/htv/output.mpd
+http://45.225.95.170:8000/play/a0ib/index.m3u8
 
 #EXTINF:-1 tvg-chno="283" tvg-id="MTVMusic.uk" tvg-name="MTVMusic.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/MTV_Music_2021_logo.svg/1024px-MTV_Music_2021_logo.svg.png",MTV Music
 http://line.powerdino.com:80/4375a1dd43/649f75a876/577448
