@@ -160,11 +160,11 @@ http://45.232.210.1:47000/play/espn3hd
 #EXTINF:-1 tvg-chno="164" tvg-id="624dtv.co" tvg-name="624dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",ESPN 4
 http://186.3.216.78:9955/play/a0yr/index.m3u8
 
-#EXTINF:-1 tvg-chno="165" tvg-id="1620dtv.cl" tvg-name="1620dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG",ESPN Extra
+#EXTINF:-1 tvg-chno="165" tvg-id="1620dtv.cl" tvg-name="1620dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png",ESPN Extra
 http://45.232.210.1:58000/play/a05e
 
 #EXTINF:-1 tvg-chno="166" tvg-id="628dtv.cl" tvg-name="628dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png",Golf Channel
-http://190.92.72.98:8185/play/a05x/index.m3u8
+http://45.228.232.204:16000/play/a04l/index.m3u8
 
 #EXTINF:-1 tvg-chno="167" tvg-id="610dtv.cl" tvg-name="610dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV Sports
 http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/558
@@ -188,7 +188,7 @@ http://45.232.210.1:47000/play/a0at
 http://45.232.210.1:47000/play/foxsports3hd
 
 #EXTINF:-1 tvg-chno="174" tvg-id="629dtv.cl" tvg-name="629dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1920px-TyC_Sports_logo.svg.png",TyC Sports
-http://170.83.242.30:5001/play/a04t
+http://45.224.23.209:8000/play/a051/index.m3u8
 
 #EXTINF:-1 tvg-chno="175" tvg-id="beINSportsEnEspanol.us" tvg-name="beINSportsEnEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png",beIN Sports Ñ
 http://line.powerdino.com:80/4375a1dd43/649f75a876/264841
