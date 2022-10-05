@@ -360,7 +360,7 @@ http://45.228.232.204:16000/play/a04e/index.m3u8
 http://186.3.216.78:9955/play/a142/index.m3u8
 
 
-#EXTINF:-1 tvg-chno="321" tvg-id="EWTN" tvg-name="EWTN" tvg-logo="https://lh3.googleusercontent.com/-3lr3InkQOSY/YKpaD_5GcMI/AAAAAAABCfU/W-_bV-aXlw0GngiTAXR6qo7WBBRxMuTzwCK8BGAsYHg/s512/2021-05-23.jpg",EWTN
+#EXTINF:-1 tvg-chno="321" tvg-id="EWTN" tvg-name="EWTN" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_02/large.2.png.ee7314e2d55fc99f91cede718077b31d.png",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="322" tvg-id="Orbe 21" tvg-name="Orbe 21" tvg-logo="https://d2ucqd3jt48qxz.cloudfront.net/img/footer-logo.png",Orbe 21
