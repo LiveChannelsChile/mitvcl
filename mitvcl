@@ -127,7 +127,7 @@ http://45.5.119.202:8000/play/a00c/index.m3u8
 http://45.228.232.204:16000/play/a07b/index.m3u8
 
 #EXTINF:-1 tvg-chno="148" tvg-id="Multicinema.mx" tvg-name="Multicinema.mx" tvg-logo="https://telmex.com/documents/23521/66016/MC.png/d9bec0a2-f0da-3612-e56b-5f005b9251b0?t=1648247587000",Multicinema
-http://45.236.28.72:8000/play/a0hy/index.m3u8
+http://160.20.164.171:8001/play/a039/index.m3u8
 
 #EXTINF:-1 tvg-chno="149" tvg-id="multipremier.la" tvg-name="multipremier.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1280px-Multipremier_logo.svg.png",Multipremier
 http://160.20.164.171:8001/play/a021/index.m3u8
@@ -163,7 +163,7 @@ http://186.3.216.78:9955/play/a0yr/index.m3u8
 #EXTINF:-1 tvg-chno="165" tvg-id="1620dtv.cl" tvg-name="1620dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png",ESPN Extra
 http://45.232.210.1:58000/play/a05e
 
-#EXTINF:-1 tvg-chno="166" tvg-id="610dtv.cl" tvg-name="610dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV Sports
+#EXTINF:-1 tvg-chno="166" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV Sports
 http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/558
 
 #EXTINF:-1 tvg-chno="167" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1920px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",DIRECTV Sports 2
@@ -175,8 +175,8 @@ http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/2746
 #EXTINF:-1 tvg-chno="169" tvg-id="" tvg-name="DIRECTV Sports Fight" tvg-logo="https://seeklogo.com/images/D/directv-sports-fight-logo-BBD16A544F-seeklogo.com.png",DIRECTV Sports Fight
 http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/100219
 
-#EXTINF:-1 tvg-chno="170" tvg-id="1605dtv.ar" tvg-name="1605dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/FOX_Sports_2022.svg/1280px-FOX_Sports_2022.svg.png",FOX Sports
-http://xdgo.live:8080/play/McUodOnFEUmGTH-fUwgWx2hy92AaYbtKhNMVITUfEBLlTKvOPMDNxBlMjnxY-b6x/ts
+#EXTINF:-1 tvg-chno="170" tvg-id="ClaroSports.co" tvg-name="ClaroSports.co" tvg-logo="https://i.imgur.com/fbKQZ1X.png",Claro Sports
+https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 
 #EXTINF:-1 tvg-chno="171" tvg-id="4399dtv.cl" tvg-name="4399dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png",FOX Sports 1
 http://45.232.210.1:47000/play/a07k
@@ -240,7 +240,7 @@ http://45.232.210.1:47000/play/a0al
 #EXTINF:-1 tvg-chno="208" tvg-id="740dtv.cl" tvg-name="740dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1920px-TLC_Logo.svg.png",TLC
 http://45.232.210.1:8062/play/a091/index.m3u8
 
-#EXTINF:-1 tvg-chno="209" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1920px-HGTV_US_Logo_2015.svg.png",HGTV
+#EXTINF:-1 tvg-chno="209" tvg-id="DiscoveryCivilizationLatinAmerica.pa" tvg-name="DiscoveryCivilizationLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1920px-HGTV_US_Logo_2015.svg.png",HGTV
 http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/108100
 
 #EXTINF:-1 tvg-chno="210" tvg-id="223dtv.cl" tvg-name="223dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1920px-InvestigationDiscoveryLogo2020.svg.png",Investigation Discovery
@@ -304,7 +304,7 @@ http://181.204.39.66:15002/play/a10082
 
 
 #EXTINF:-1 tvg-chno="261" tvg-id="221dtv.cl" tvg-name="221dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg",¡Hola TV!
-http://190.124.164.74:8000/play/a05a/index.m3u8
+http://181.189.243.254:8000/play/a0st/index.m3u8
 
 #EXTINF:-1 tvg-chno="262" tvg-id="222dtv.cl" tvg-name="222dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png",E!
 http://45.232.210.1:8061/play/a0ff
@@ -343,7 +343,7 @@ http://line.powerdino.com:80/4375a1dd43/649f75a876/686847
 #EXTINF:-1 tvg-chno="285" tvg-id="MTV90s.uk" tvg-name="MTV90s.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/MTV_90s_logo.png",MTV 90's
 http://line.powerdino.com:80/4375a1dd43/649f75a876/689804
 
-#EXTINF:-1 tvg-chno="286" tvg-id="MTV00s.uk" tvg-name="MTV00s.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",MTV 00's
+#EXTINF:-1 tvg-chno="286" tvg-id="262dtv.cl" tvg-name="262dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",MTV 00's
 http://160.20.164.171:8001/play/a01k/index.m3u8
 
 
@@ -390,19 +390,19 @@ http://186.3.216.78:9955/play/a120/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="361" tvg-id="576dtv.cl" tvg-name="576dtv.cl" tvg-logo="https://universalplus.com/files/channels/398064723.png",Universal Premiere
-http://190.124.164.74:8000/play/a05e/index.m3u8
+http://181.189.243.254:8000/play/a0ui/index.m3u8
 
 #EXTINF:-1 tvg-chno="362" tvg-id="1572dtv.cl" tvg-name="1572dtv.cl" tvg-logo="https://universalplus.com/files/channels/731381553.png",Universal Cinema
-http://190.124.164.74:8000/play/a02u/index.m3u8
+http://181.189.243.254:8000/play/a0v2/index.m3u8
 
 #EXTINF:-1 tvg-chno="363" tvg-id="1573dtv.cl" tvg-name="1573dtv.cl" tvg-logo="https://universalplus.com/files/channels/172050409.png",Universal Comedy
-http://190.124.164.74:8000/play/a05i/index.m3u8
+http://181.189.243.254:8000/play/a0t1/index.m3u8
 
-#EXTINF:-1 tvg-chno="364" tvg-id="" tvg-name="Universal Crime" tvg-logo="https://universalplus.com/files/channels/780277389.png",Universal Crime
-http://190.124.164.74:8000/play/a05h/index.m3u8
+#EXTINF:-1 tvg-chno="364" tvg-id="UniversalCrime.mx" tvg-name="UniversalCrime.mx" tvg-logo="https://universalplus.com/files/channels/780277389.png",Universal Crime
+http://181.189.243.254:8000/play/a0t0/index.m3u8
 
-#EXTINF:-1 tvg-chno="365" tvg-id="" tvg-name="Universal Reality" tvg-logo="https://universalplus.com/files/channels/120254749.png",Universal Reality
-http://190.124.164.74:8000/play/a05g/index.m3u8
+#EXTINF:-1 tvg-chno="365" tvg-id="UniversalReality.mx" tvg-name="UniversalReality.mx" tvg-logo="https://universalplus.com/files/channels/120254749.png",Universal Reality
+http://181.189.243.254:8000/play/a0sz/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="381" tvg-id="1481dtv.cl" tvg-name="1481dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png",HBO
