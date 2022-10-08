@@ -26,10 +26,10 @@ http://45.232.210.1:47000/play/a08n
 http://45.232.210.1:47000/play/a07a
 
 #EXTINF:-1 tvg-chno="109" tvg-id="ZonaLatina.cl" tvg-name="ZonaLatina.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.Zona_Latina_White_2021.png.a50b98547cde92d001e216570c44a6eb.png",Zona Latina
-http://190.27.172.237:25000/play/a00q
+http://45.232.210.1:8062/play/a09h/index.m3u8
 
 #EXTINF:-1 tvg-chno="110" tvg-id="viax.cl" tvg-name="viax.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png",Via X
-http://190.27.172.237:25000/play/a02c
+http://45.232.210.1:8062/play/a092/index.m3u8
 
 #EXTINF:-1 tvg-chno="111" tvg-id="RecTV.cl" tvg-name="RecTV.cl" tvg-logo="https://static.13.cl/7/sites/all/themes/rec_v2/images/logo-white2_2018.png?202201131402",REC TV
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/52.ts
@@ -360,10 +360,10 @@ http://45.228.232.204:16000/play/a04k/index.m3u8
 http://181.65.154.170:8000/play/a03l/index.m3u8
 
 #EXTINF:-1 tvg-chno="305" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1024px-Telemundo_logo_2018.svg.png",Telemundo Internacional
-http://45.228.232.204:16000/play/a04e/index.m3u8
+http://190.113.255.26:10000/play/a00d
 
 #EXTINF:-1 tvg-chno="306" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png",Univision
-http://186.3.216.78:9955/play/a142/index.m3u8
+http://190.113.255.26:10000/play/a01b
 
 
 #EXTINF:-1 tvg-chno="321" tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_02/large.2.png.ee7314e2d55fc99f91cede718077b31d.png",EWTN
