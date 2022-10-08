@@ -151,7 +151,7 @@ http://45.232.210.1:47000/play/cinemaxhd
 #EXTINF:-1 tvg-chno="161" tvg-id="1175dtv.cl" tvg-name="1175dtv.cl" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png",ESPN
 http://45.232.210.1:47000/play/a0ax
 
-#EXTINF:-1 tvg-chno="162" tvg-id="622dtv.pe" tvg-name="622dtv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png",ESPN 2
+#EXTINF:-1 tvg-chno="162" tvg-id="431dtv.cl" tvg-name="431dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png",ESPN 2
 http://45.232.210.1:58000/play/a06j
 
 #EXTINF:-1 tvg-chno="163" tvg-id="1075dtv.cl" tvg-name="1075dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3
@@ -181,7 +181,7 @@ https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/in
 #EXTINF:-1 tvg-chno="171" tvg-id="4399dtv.cl" tvg-name="4399dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png",FOX Sports 1
 http://45.232.210.1:47000/play/a07k
 
-#EXTINF:-1 tvg-chno="172" tvg-id="606dtv.ar" tvg-name="606dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png",FOX Sports 2
+#EXTINF:-1 tvg-chno="172" tvg-id="3082dtv.cl" tvg-name="3082dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png",FOX Sports 2
 http://45.232.210.1:47000/play/a0at
 
 #EXTINF:-1 tvg-chno="173" tvg-id="3081dtv.cl" tvg-name="3081dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png",FOX Sports 3
@@ -196,7 +196,7 @@ http://line.powerdino.com:80/4375a1dd43/649f75a876/264841
 #EXTINF:-1 tvg-chno="176" tvg-id="beINSportsXtraEspanol.us" tvg-name="beINSportsXtraEspanol.us" tvg-logo="https://beinsportsxtra.com/_next/image?url=https%3A%2F%2Fresources.beinsportsxtra.com%2Fxtra%2Flogo_bein_sport_xtra_espanol_plain_dfc8c8970b.png&w=1920&q=100",beIN Sports XTRA Ñ
 http://xdgo.live:8080/play/McUodOnFEUmGTH-fUwgWx2hy92AaYbtKhNMVITUfEBIJveLD4PJYJH8L8hc93Eko/ts
 
-#EXTINF:-1 tvg-chno="177" tvg-id="GolTVLatinAmerica.pa" tvg-name="GolTVLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1920px-GolTV_logo.svg.png" group-title="DEPORTES",Gol TV
+#EXTINF:-1 tvg-chno="177" tvg-id="658dtv.ec" tvg-name="658dtv.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1920px-GolTV_logo.svg.png" group-title="DEPORTES",Gol TV
 http://181.65.154.170:8000/play/a057/index.m3u8
 
 #EXTINF:-1 tvg-chno="178" tvg-id="628dtv.cl" tvg-name="628dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png",Golf Channel
