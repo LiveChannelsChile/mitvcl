@@ -10,7 +10,7 @@ http://45.232.210.1:47000/play/laredhd
 #EXTINF:-1 tvg-chno="103" tvg-id="TVPlus.cl" tvg-name="TVPlus.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",TV+
 http://45.232.210.1:47000/play/a058
 
-#EXTINF:-1 tvg-chno="104" tvg-id="" tvg-name="" tvg-logo="https://ucvtv.cl/imagenes/logo-ucv-200.png",UCV
+#EXTINF:-1 tvg-chno="104" tvg-id="UCV3.cl" tvg-name="UCV3.cl" tvg-logo="https://ucvtv.cl/imagenes/logo-ucv-200.png",UCV
 https://marine2.miplay.cl/ucv3/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-id="149dtv.cl" tvg-name="149dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/TVN2020.svg/1920px-TVN2020.svg.png",TVN
@@ -65,7 +65,7 @@ http://45.232.210.1:8061/play/a0ao
 #EXTINF:-1 tvg-chno="123" tvg-id="208dtv.cl" tvg-name="208dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony Channel
 http://45.232.210.1:47000/play/a06d
 
-#EXTINF:-1 tvg-chno="124" tvg-id="209dtv.cl" tvg-name="209dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1920px-AXN_logo_%282015%29.svg.png",AXN
+#EXTINF:-1 tvg-chno="124" tvg-id="209dtv.co" tvg-name="209dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1920px-AXN_logo_%282015%29.svg.png",AXN
 http://45.232.210.1:47000/play/a06f
 
 #EXTINF:-1 tvg-chno="125" tvg-id="207dtv.cl" tvg-name="207dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1920px-A%26E_Network_logo.svg.png",A&E
@@ -163,7 +163,7 @@ http://186.3.216.78:9955/play/a0yr/index.m3u8
 #EXTINF:-1 tvg-chno="165" tvg-id="1620dtv.cl" tvg-name="1620dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png",ESPN Extra
 http://45.232.210.1:58000/play/a05e
 
-#EXTINF:-1 tvg-chno="166" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV Sports
+#EXTINF:-1 tvg-chno="166" tvg-id="610dtv.cl" tvg-name="610dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV Sports
 http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/558
 
 #EXTINF:-1 tvg-chno="167" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1920px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",DIRECTV Sports 2
@@ -265,7 +265,7 @@ http://45.232.210.1:47000/play/a05i
 #EXTINF:-1 tvg-chno="222" tvg-id="308dtv.cl" tvg-name="308dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",Nick
 http://45.232.210.1:58000/play/a0fg
 
-#EXTINF:-1 tvg-chno="223" tvg-id="312dtv.cl" tvg-name="312dtv.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Disney_Channel_2014.png/revision/latest?cb=20151003234653&path-prefix=es",Disney Channel
+#EXTINF:-1 tvg-chno="223" tvg-id="314dtv.co" tvg-name="314dtv.co" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Disney_Channel_2014.png/revision/latest?cb=20151003234653&path-prefix=es",Disney Channel
 http://45.232.210.1:48000/play/disneyhd
 
 #EXTINF:-1 tvg-chno="224" tvg-id="330dtv.cl" tvg-name="330dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png",Discovery Kids
@@ -356,7 +356,7 @@ http://45.236.28.72:8000/play/a0ho/index.m3u8
 #EXTINF:-1 tvg-chno="303" tvg-id="StarTVE.mx" tvg-name="StarTVE.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",Star TVE
 http://45.228.232.204:16000/play/a04k/index.m3u8
 
-#EXTINF:-1 tvg-chno="304" tvg-id="AtreseriesInternacional.es" tvg-name="AtreseriesInternacional.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png",A3 Series
+#EXTINF:-1 tvg-chno="304" tvg-id="214dtv.cl" tvg-name="214dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png",A3 Series
 http://181.65.154.170:8000/play/a03l/index.m3u8
 
 #EXTINF:-1 tvg-chno="305" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1024px-Telemundo_logo_2018.svg.png",Telemundo Internacional
