@@ -260,13 +260,13 @@ http://45.232.210.1:58000/play/a05b
 
 
 #EXTINF:-1 tvg-chno="221" tvg-id="304dtv.cl" tvg-name="304dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
-http://190.27.172.237:25000/play/a0b6
+http://45.232.210.1:47000/play/a05i
 
 #EXTINF:-1 tvg-chno="222" tvg-id="308dtv.cl" tvg-name="308dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",Nick
 http://190.27.172.237:25000/play/a01o
 
 #EXTINF:-1 tvg-chno="223" tvg-id="312dtv.cl" tvg-name="312dtv.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Disney_Channel_2014.png/revision/latest?cb=20151003234653&path-prefix=es",Disney Channel
-http://200.41.79.165:8000/play/a05m/index.m3u8
+http://45.232.210.1:48000/play/disneyhd
 
 #EXTINF:-1 tvg-chno="224" tvg-id="330dtv.cl" tvg-name="330dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png",Discovery Kids
 http://45.232.210.1:47000/play/a0ak
@@ -390,19 +390,19 @@ http://186.3.216.78:9955/play/a120/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="361" tvg-id="576dtv.cl" tvg-name="576dtv.cl" tvg-logo="https://universalplus.com/files/channels/398064723.png",Universal Premiere
-http://181.189.243.254:8000/play/a0ui/index.m3u8
+http://190.113.255.26:10000/play/a00v
 
 #EXTINF:-1 tvg-chno="362" tvg-id="1572dtv.cl" tvg-name="1572dtv.cl" tvg-logo="https://universalplus.com/files/channels/731381553.png",Universal Cinema
-http://181.189.243.254:8000/play/a0v2/index.m3u8
+http://190.113.255.26:10000/play/a01d
 
 #EXTINF:-1 tvg-chno="363" tvg-id="1573dtv.cl" tvg-name="1573dtv.cl" tvg-logo="https://universalplus.com/files/channels/172050409.png",Universal Comedy
-http://181.189.243.254:8000/play/a0t1/index.m3u8
+http://190.113.255.26:10000/play/a00z
 
 #EXTINF:-1 tvg-chno="364" tvg-id="UniversalCrime.mx" tvg-name="UniversalCrime.mx" tvg-logo="https://universalplus.com/files/channels/780277389.png",Universal Crime
-http://181.189.243.254:8000/play/a0t0/index.m3u8
+http://190.113.255.26:10000/play/a00y
 
 #EXTINF:-1 tvg-chno="365" tvg-id="UniversalReality.mx" tvg-name="UniversalReality.mx" tvg-logo="https://universalplus.com/files/channels/120254749.png",Universal Reality
-http://181.189.243.254:8000/play/a0sz/index.m3u8
+http://190.113.255.26:10000/play/a00x
 
 
 #EXTINF:-1 tvg-chno="381" tvg-id="1481dtv.cl" tvg-name="1481dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png",HBO
