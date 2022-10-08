@@ -10,7 +10,7 @@ http://45.232.210.1:47000/play/laredhd
 #EXTINF:-1 tvg-chno="103" tvg-id="TVPlus.cl" tvg-name="TVPlus.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",TV+
 http://45.232.210.1:47000/play/a058
 
-#EXTINF:-1 tvg-chno="104" tvg-id="ucvtv.cl" tvg-name="ucvtv.cl" tvg-logo="https://ucvtv.cl/imagenes/logo-ucv-200.png",UCV
+#EXTINF:-1 tvg-chno="104" tvg-id="" tvg-name="" tvg-logo="https://ucvtv.cl/imagenes/logo-ucv-200.png",UCV
 https://marine2.miplay.cl/ucv3/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-id="149dtv.cl" tvg-name="149dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/TVN2020.svg/1920px-TVN2020.svg.png",TVN
@@ -80,7 +80,7 @@ http://45.232.210.1:47000/play/comedycentralhd
 #EXTINF:-1 tvg-chno="128" tvg-id="220dtv.cl" tvg-name="220dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png",TruTV
 http://45.232.210.1:47000/play/a073
 
-#EXTINF:-1 tvg-chno="129" tvg-id="218dtv.cl" tvg-name="218dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png",Universal TV
+#EXTINF:-1 tvg-chno="129" tvg-id="218dtv.co" tvg-name="218dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png",Universal TV
 http://45.232.210.1:47000/play/a0ap
 
 #EXTINF:-1 tvg-chno="130" tvg-id="508dtv.cl" tvg-name="508dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png",Studio Universal
