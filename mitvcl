@@ -57,7 +57,7 @@ http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/1513.ts
 
 
 #EXTINF:-1 tvg-chno="121" tvg-id="1206dtv.cl" tvg-name="1206dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel
-http://45.232.210.1:48000/play/a06e
+http://190.113.255.26:10000/play/a022
 
 #EXTINF:-1 tvg-chno="122" tvg-id="202dtv.cl" tvg-name="202dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1920px-Star_Channel_2020.svg.png",Star Channel
 http://45.232.210.1:8061/play/a0ao
@@ -287,7 +287,7 @@ http://160.20.164.171:8001/play/a08z/index.m3u8
 http://45.5.119.202:8000/play/a00z/index.m3u8
 
 #EXTINF:-1 tvg-chno="230" tvg-id="310dtv.cl" tvg-name="310dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/1920px-TeenNick_2019_logo.svg.png",TeenNick
-http://45.228.232.204:16000/play/a046/index.m3u8
+http://181.189.243.254:8000/play/a0q1/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="241" tvg-id="706dtv.cl" tvg-name="706dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-CNN.png",CNN International
@@ -319,7 +319,7 @@ http://45.232.210.1:47000/play/a074
 https://delivery.cdn.rcs.net.ar/mnp/maschic_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="266" tvg-id="224dtvc." tvg-name="224dtvc." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png",Glitz
-http://elmasteriptv.com:8000/sebastian.conchabaeza@gmail.com/cOxaZIJb1l/17517
+http://190.27.172.237:25000/play/95
 
 #EXTINF:-1 tvg-chno="267" tvg-id="741dtv.cl" tvg-name="741dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/741.png",Sun Channel
 http://45.232.210.1:47000/play/a0aj
