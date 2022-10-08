@@ -428,3 +428,17 @@ http://xdgo.live:8080/play/McUodOnFEUmGTH-fUwgWx2hy92AaYbtKhNMVITUfEBLaGBkjXGJHH
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
+
+
+#EXTINF:-1 tvg-chno="401" tvg-id="" tvg-name="Clover Channel" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/d/d3/Clover-channel2021-logo-px.png/revision/latest?cb=20220608032912&path-prefix=es" ",Clover Channel
+http://186.3.255.100:8855/play/a0sj/index.m3u8
+
+#EXTINF:-1 tvg-chno="402" tvg-id="" tvg-name="Kanal D Drama" tvg-logo="https://www.kanalddrama.com/assets/img/logotop2.png",Kanal D Drama
+http://181.65.154.170:8000/play/a07c/index.m3u8
+
+#EXTINF:-1 tvg-chno="403" tvg-id="" tvg-name="Morbido TV" tvg-logo="https://play-lh.googleusercontent.com/oBf1GaZ4bn3olz5AvB6WeCedCDWlwHlg_vMNPaLveznxZRIUtz_34ZILbUiOPUVfvQ=w600-h300-pc0xffffff-pd",Morbido TV
+http://xdgo.live:8080/play/McUodOnFEUmGTH-fUwgWx2hy92AaYbtKhNMVITUfEBJkrAQMZSFDoHvwsa4TUTLx/ts
+
+#EXTINF:-1 tvg-chno="404" tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/348/152/png-transparent-panico-television-channel-mexico-panic-starry-internet-television-text-logo-thumbnail.png",Panico TV
+http://xdgo.live:8080/play/McUodOnFEUmGTH-fUwgWx2hy92AaYbtKhNMVITUfEBKYfigki1wbAcOGUg4palSh/ts
+
