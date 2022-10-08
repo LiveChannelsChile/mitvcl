@@ -46,7 +46,7 @@ http://45.232.210.1:47000/play/a07d
 #EXTINF:-1 tvg-chno="115" tvg-id="CanalDiputados.cl" tvg-name="CanalDiputados.cl" tvg-logo="https://www.camara.cl/img/escudo2.jpg",Camara TV
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="116" tvg-id="TVSenado.cl" tvg-name="TVSenado.cl" tvg-logo="https://tv.senado.cl/tvsenado/site/artic/20160901/imag/foto_0000000920160901163145.png",TV Senado
+#EXTINF:-1 tvg-chno="116" tvg-id="TVSenado.cl" tvg-name="TVSenado.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/TV_Senado_%282000%29.png/revision/latest?cb=20180408155336&path-prefix=es",TV Senado
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?s=tvsenado-hd
 
 #EXTINF:-1 tvg-chno="117" tvg-id="146dtv.cl" tvg-name="146dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_NTV.svg/1920px-Logo_NTV.svg.png",NTV
@@ -327,6 +327,18 @@ http://45.232.210.1:47000/play/a0aj
 #EXTINF:-1 tvg-chno="268" tvg-id="225dtv.cl" tvg-name="225dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1920px-Pasiones_Tv_logo.svg.png",Pasiones
 http://45.232.210.1:58000/play/pasioneshd
 
+#EXTINF:-1 tvg-chno="270" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Kanal_D_Drama_%28Latin_America%29.png/revision/latest?cb=20200317052444&path-prefix=es",Kanal D Drama
+http://181.65.154.170:8000/play/a07c/index.m3u8
+
+#EXTINF:-1 tvg-chno="269" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Clover_Channel_2021.svg/revision/latest?cb=20220608131431&path-prefix=es",Clover Channel
+http://186.3.255.100:8855/play/a0sj/index.m3u8
+
+#EXTINF:-1 tvg-chno="271" tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/oBf1GaZ4bn3olz5AvB6WeCedCDWlwHlg_vMNPaLveznxZRIUtz_34ZILbUiOPUVfvQ=w600-h300-pc0xffffff-pd",Morbido TV
+http://xdgo.live:8080/play/McUodOnFEUmGTH-fUwgWx2hy92AaYbtKhNMVITUfEBJkrAQMZSFDoHvwsa4TUTLx/ts
+
+#EXTINF:-1 tvg-chno="272" tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/348/152/png-transparent-panico-television-channel-mexico-panic-starry-internet-television-text-logo-thumbnail.png",Panico TV
+http://xdgo.live:8080/play/McUodOnFEUmGTH-fUwgWx2hy92AaYbtKhNMVITUfEBKYfigki1wbAcOGUg4palSh/ts
+
 
 #EXTINF:-1 tvg-chno="281" tvg-id="mtv.cl" tvg-name="mtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1920px-MTV_2021_%28brand_version%29.svg.png",MTV
 http://45.232.210.1:58000/play/mtvhd
@@ -428,17 +440,3 @@ http://xdgo.live:8080/play/McUodOnFEUmGTH-fUwgWx2hy92AaYbtKhNMVITUfEBLaGBkjXGJHH
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
-
-
-#EXTINF:-1 tvg-chno="401" tvg-id="" tvg-name="Clover Channel" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/d/d3/Clover-channel2021-logo-px.png/revision/latest?cb=20220608032912&path-prefix=es" ",Clover Channel
-http://186.3.255.100:8855/play/a0sj/index.m3u8
-
-#EXTINF:-1 tvg-chno="402" tvg-id="" tvg-name="Kanal D Drama" tvg-logo="https://www.kanalddrama.com/assets/img/logotop2.png",Kanal D Drama
-http://181.65.154.170:8000/play/a07c/index.m3u8
-
-#EXTINF:-1 tvg-chno="403" tvg-id="" tvg-name="Morbido TV" tvg-logo="https://play-lh.googleusercontent.com/oBf1GaZ4bn3olz5AvB6WeCedCDWlwHlg_vMNPaLveznxZRIUtz_34ZILbUiOPUVfvQ=w600-h300-pc0xffffff-pd",Morbido TV
-http://xdgo.live:8080/play/McUodOnFEUmGTH-fUwgWx2hy92AaYbtKhNMVITUfEBJkrAQMZSFDoHvwsa4TUTLx/ts
-
-#EXTINF:-1 tvg-chno="404" tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/348/152/png-transparent-panico-television-channel-mexico-panic-starry-internet-television-text-logo-thumbnail.png",Panico TV
-http://xdgo.live:8080/play/McUodOnFEUmGTH-fUwgWx2hy92AaYbtKhNMVITUfEBKYfigki1wbAcOGUg4palSh/ts
-
