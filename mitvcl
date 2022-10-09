@@ -151,7 +151,7 @@ http://45.232.210.1:47000/play/cinemaxhd
 #EXTINF:-1 tvg-chno="161" tvg-id="1175dtv.cl" tvg-name="1175dtv.cl" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png",ESPN
 http://45.232.210.1:47000/play/a0ax
 
-#EXTINF:-1 tvg-chno="162" tvg-id="431dtv.cl" tvg-name="431dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png",ESPN 2
+#EXTINF:-1 tvg-chno="162" tvg-id="622dtv.pe" tvg-name="622dtv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png",ESPN 2
 http://45.232.210.1:58000/play/a06j
 
 #EXTINF:-1 tvg-chno="163" tvg-id="1075dtv.cl" tvg-name="1075dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3
