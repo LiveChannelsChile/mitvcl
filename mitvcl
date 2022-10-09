@@ -99,7 +99,7 @@ http://45.232.210.1:47000/play/a0aw
 http://45.232.210.1:47000/play/a06g
 
 #EXTINF:-1 tvg-chno="135" tvg-id="228dtv.cl" tvg-name="228dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png",Lifetime
-http://45.225.95.170:8000/play/a0ih/index.m3u8
+http://181.115.238.188:8000/play/a03q/index.m3u8
 
 #EXTINF:-1 tvg-chno="136" tvg-id="1513dtv.cl" tvg-name="1513dtv.cl" tvg-logo="https://www.canaldhe.com/wp-content/uploads/2019/09/Logotipo-DHE-124x66-px.png",DHE
 http://45.232.210.1:47000/play/a0dz
@@ -316,7 +316,7 @@ http://45.232.210.1:47000/play/foodnetworkhd
 http://45.232.210.1:47000/play/a074
 
 #EXTINF:-1 tvg-chno="265" tvg-id="230dtv.cl" tvg-name="230dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1280px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png",Mas Chic
-http://45.225.95.170:8000/play/a0hv/index.m3u8
+http://45.225.95.170:8000/play/a0hi/index.m3u8
 
 #EXTINF:-1 tvg-chno="266" tvg-id="224dtvc." tvg-name="224dtvc." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png",Glitz
 http://45.225.95.170:8000/play/a0g8/index.m3u8
