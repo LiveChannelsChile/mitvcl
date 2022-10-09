@@ -291,12 +291,12 @@ http://45.228.232.204:16000/play/a046/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="241" tvg-id="706dtv.cl" tvg-name="706dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-CNN.png",CNN International
+http://45.184.160.146:8000/play/a003
+
 http://45.225.95.170:8000/play/a0j4/index.m3u8
 
 #EXTINF:-1 tvg-chno="242" tvg-id="704dtv.cl" tvg-name="704dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1280px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",CNN en Espanol
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/67.m3u8
-
-http://45.232.210.1:8062/play/a083/index.m3u8
 
 #EXTINF:-1 tvg-chno="243" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1920px-Euronews_2016_logo.svg.png",Euronews
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
@@ -395,10 +395,10 @@ http://190.113.255.26:10000/play/a01r
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/103.m3u8
 
 #EXTINF:-1 tvg-chno="362" tvg-id="1572dtv.cl" tvg-name="1572dtv.cl" tvg-logo="https://universalplus.com/files/channels/731381553.png",Universal Cinema
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/102.m3u8
+http://179.57.172.189:8000/play/a0js/index.m3u8
 
 #EXTINF:-1 tvg-chno="363" tvg-id="1573dtv.cl" tvg-name="1573dtv.cl" tvg-logo="https://universalplus.com/files/channels/172050409.png",Universal Comedy
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/104.m3u8
+http://179.57.172.189:8000/play/a0jt/index.m3u8
 
 #EXTINF:-1 tvg-chno="364" tvg-id="UniversalCrime.mx" tvg-name="UniversalCrime.mx" tvg-logo="https://universalplus.com/files/channels/780277389.png",Universal Crime
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/98.m3u8
