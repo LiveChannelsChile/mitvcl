@@ -428,3 +428,42 @@ http://xdgo.live:8080/play/McUodOnFEUmGTH-fUwgWx2hy92AaYbtKhNMVITUfEBLaGBkjXGJHH
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
+
+
+
+
+#EXTINF:-1,SyFy
+http://45.5.119.202:8000/play/a015/index.m3u8
+#EXTINF:-1,SyFy
+http://190.27.172.235:25000/play/a09d
+#EXTINF:-1,SyFy
+http://190.27.172.228:8004/play/a09d
+#EXTINF:-1,SyFy
+http://186.3.76.238:8000/play/a07t/index.m3u8
+#EXTINF:-1,SyFy
+http://186.114.234.230:8000/play/a0kq/index.m3u8
+#EXTINF:-1 group-title="-",407 SyFy
+http://179.57.172.189:8000/play/a0jg/index.m3u8
+#EXTINF:-1,SyFy
+http://45.225.95.170:8000/play/a0hr/index.m3u8
+
+
+#EXTINF:-1 group-title="-",408 TyC
+http://179.57.172.189:8000/play/a0k4/index.m3u8
+#EXTINF:-1 tvg-id="TyCSports",TyC Sports
+http://200.41.79.165:8000/play/a05v/index.m3u8
+#EXTINF:-1,TyC Sports HD
+http://186.3.76.238:8000/play/a0ah/index.m3u8
+#EXTINF:-1,TyC
+http://181.115.238.188:8000/play/a02n/index.m3u8
+#EXTINF:-1,TyC
+http://170.83.242.14:5350/play/a00w
+#EXTINF:-1,TyC Sports
+http://45.225.95.170:8000/play/a0f2/index.m3u8
+#EXTINF:-1,TyC Sports
+http://45.225.95.170:8000/play/a0eu/index.m3u8
+#EXTINF:-1,TyC
+http://45.224.23.209:8000/play/a051/index.m3u8
+
+
+
