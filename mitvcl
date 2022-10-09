@@ -428,3 +428,83 @@ http://xdgo.live:8080/play/McUodOnFEUmGTH-fUwgWx2hy92AaYbtKhNMVITUfEBLaGBkjXGJHH
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
+
+
+#EXTINF:-1 tvg-chno="391" tvg-id="" tvg-name="" tvg-logo="",ABC HD
+http://89.187.175.143/3055/mpegts
+#EXTINF:-1 tvg-chno="392" tvg-id="" tvg-name="" tvg-logo="",NBC HD
+http://89.187.175.143/3084/mpegts
+#EXTINF:-1 tvg-chno="393" tvg-id="" tvg-name="" tvg-logo="",CW HD
+http://89.187.175.143/3083/mpegts
+#EXTINF:-1 tvg-chno="394" tvg-id="" tvg-name="" tvg-logo="",FOX HD
+http://89.187.175.143/3085/mpegts
+
+
+
+#EXTINF:-1 tvg-chno="401" tvg-id="304dtv.cl" tvg-name="304dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",Cartoon Network 1
+http://45.232.210.1:47000/play/a05i
+#EXTINF:-1 tvg-chno="402" tvg-id="304dtv.cl" tvg-name="304dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",Cartoon Network 2
+http://45.5.119.202:8000/play/a02d/index.m3u8
+#EXTINF:-1 tvg-chno="403" tvg-id="304dtv.cl" tvg-name="304dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",Cartoon Network 3
+http://209.45.97.109:8000/play/a00l
+#EXTINF:-1 tvg-chno="404" tvg-id="304dtv.cl" tvg-name="304dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",Cartoon Network 4
+http://201.222.44.28:1/play/a012
+#EXTINF:-1 tvg-chno="405" tvg-id="304dtv.cl" tvg-name="304dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",Cartoon Network 5
+http://200.41.79.165:8000/play/a049/index.m3u8
+#EXTINF:-1 tvg-chno="406" tvg-id="304dtv.cl" tvg-name="304dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",Cartoon Network 6
+http://190.27.172.237:25000/play/a00w
+#EXTINF:-1 tvg-chno="407" tvg-id="304dtv.cl" tvg-name="304dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",Cartoon Network 7
+http://190.27.172.237:25000/play/a0b6
+#EXTINF:-1 tvg-chno="408" tvg-id="304dtv.cl" tvg-name="304dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",Cartoon Network 8
+http://190.108.95.5:8000/play/a03u/index.m3u8
+#EXTINF:-1 tvg-chno="409" tvg-id="304dtv.cl" tvg-name="304dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",Cartoon Network 9
+http://186.3.255.100:8855/play/a0u1/index.m3u8
+
+
+#EXTINF:-1 tvg-chno="411" tvg-id="312dtv.cl" tvg-name="312dtv.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Disney_Channel_2014.png/revision/latest?cb=20151003234653&path-prefix=es",Disney Channel 1
+http://45.232.210.1:48000/play/disneyhd
+#EXTINF:-1 tvg-chno="412" tvg-id="312dtv.cl" tvg-name="312dtv.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Disney_Channel_2014.png/revision/latest?cb=20151003234653&path-prefix=es",Disney Channel 2
+http://45.5.119.202:8000/play/a01l/index.m3u8
+#EXTINF:-1 tvg-chno="413" tvg-id="312dtv.cl" tvg-name="312dtv.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Disney_Channel_2014.png/revision/latest?cb=20151003234653&path-prefix=es",Disney Channel 3
+http://209.45.97.109:8000/play/a01d
+#EXTINF:-1 tvg-chno="414" tvg-id="312dtv.cl" tvg-name="312dtv.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Disney_Channel_2014.png/revision/latest?cb=20151003234653&path-prefix=es",Disney Channel 4
+http://201.222.44.28:1/play/a02f
+#EXTINF:-1 tvg-chno="415" tvg-id="312dtv.cl" tvg-name="312dtv.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Disney_Channel_2014.png/revision/latest?cb=20151003234653&path-prefix=es",Disney Channel 5
+http://200.59.213.33:8000/play/a01b/index.m3u8
+#EXTINF:-1 tvg-chno="416" tvg-id="312dtv.cl" tvg-name="312dtv.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Disney_Channel_2014.png/revision/latest?cb=20151003234653&path-prefix=es",Disney Channel 6
+http://200.41.79.165:8000/play/a05m/index.m3u8
+#EXTINF:-1 tvg-chno="417" tvg-id="312dtv.cl" tvg-name="312dtv.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Disney_Channel_2014.png/revision/latest?cb=20151003234653&path-prefix=es",Disney Channel 7
+http://190.27.172.237:25000/play/a01o
+#EXTINF:-1 tvg-chno="418" tvg-id="312dtv.cl" tvg-name="312dtv.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Disney_Channel_2014.png/revision/latest?cb=20151003234653&path-prefix=es",Disney Channel 8
+http://190.186.159.19:58002/play/a05k/index.m3u8
+#EXTINF:-1 tvg-chno="419" tvg-id="312dtv.cl" tvg-name="312dtv.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Disney_Channel_2014.png/revision/latest?cb=20151003234653&path-prefix=es",Disney Channel 9
+http://190.108.95.5:8000/play/a016/index.m3u8
+#EXTINF:-1 tvg-chno="420" tvg-id="312dtv.cl" tvg-name="312dtv.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Disney_Channel_2014.png/revision/latest?cb=20151003234653&path-prefix=es",Disney Channel 10
+
+
+#EXTINF:-1 tvg-chno="421" tvg-id="1206dtv.cl" tvg-name="1206dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel 1
+http://45.232.210.1:8061/play/a06e
+#EXTINF:-1 tvg-chno="422" tvg-id="1206dtv.cl" tvg-name="1206dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel 2
+http://45.5.119.202:8000/play/a01f/index.m3u8
+#EXTINF:-1 tvg-chno="423" tvg-id="1206dtv.cl" tvg-name="1206dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel 3
+http://45.5.119.202:8000/play/a012/index.m3u8
+#EXTINF:-1 tvg-chno="424" tvg-id="1206dtv.cl" tvg-name="1206dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel 4
+http://209.45.97.109:8000/play/a01g
+#EXTINF:-1 tvg-chno="425" tvg-id="1206dtv.cl" tvg-name="1206dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel 5
+http://209.45.97.109:8000/play/a08d
+#EXTINF:-1 tvg-chno="426" tvg-id="1206dtv.cl" tvg-name="1206dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel 6
+http://201.222.44.28:1/play/a05i
+#EXTINF:-1 tvg-chno="427" tvg-id="1206dtv.cl" tvg-name="1206dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel 7
+http://200.59.213.33:8000/play/a020/index.m3u8
+#EXTINF:-1 tvg-chno="428" tvg-id="1206dtv.cl" tvg-name="1206dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel 8
+http://200.59.213.33:8000/play/a02k/index.m3u8
+#EXTINF:-1 tvg-chno="429" tvg-id="1206dtv.cl" tvg-name="1206dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel 9
+http://200.41.79.165:8000/play/a05p/index.m3u8
+#EXTINF:-1 tvg-chno="430" tvg-id="1206dtv.cl" tvg-name="1206dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel 10
+http://190.27.172.237:25000/play/a01r
+#EXTINF:-1 tvg-chno="431" tvg-id="1206dtv.cl" tvg-name="1206dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel 11
+http://190.108.95.5:8000/play/a024/index.m3u8
+#EXTINF:-1 tvg-chno="432" tvg-id="1206dtv.cl" tvg-name="1206dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel 12
+http://190.108.95.5:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-chno="433" tvg-id="1206dtv.cl" tvg-name="1206dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel 13
+http://186.3.255.100:8855/play/a0sc/index.m3u8
