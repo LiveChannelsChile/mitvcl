@@ -260,6 +260,8 @@ http://45.232.210.1:58000/play/a05b
 
 
 #EXTINF:-1 tvg-chno="221" tvg-id="304dtv.cl" tvg-name="304dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
+http://190.113.255.26:10000/play/a01t
+
 http://45.232.210.1:47000/play/a05i
 
 #EXTINF:-1 tvg-chno="222" tvg-id="308dtv.cl" tvg-name="308dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",Nick
@@ -346,7 +348,6 @@ http://line.powerdino.com:80/4375a1dd43/649f75a876/689804
 #EXTINF:-1 tvg-chno="286" tvg-id="262dtv.cl" tvg-name="262dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",MTV 00's
 http://190.113.255.26:10000/play/a00u
 
-#EXTINF:-1 tvg-chno="287" tvg-id="262dtv.cl" tvg-name="262dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",MTV 00's 2
 http://45.5.119.202:8000/play/a00l/index.m3u8
 
 
@@ -386,10 +387,10 @@ http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/13629.ts
 http://45.232.210.1:47000/play/goldenhd
 
 #EXTINF:-1 tvg-chno="344" tvg-id="GoldenPremier.co" tvg-name="GoldenPremier.co" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest/scale-to-width-down/350?cb=20201202010915&path-prefix=es",Golden Premier
-http://186.3.216.78:9955/play/a11z/index.m3u8
+http://190.113.255.26:10000/play/a01q
 
 #EXTINF:-1 tvg-chno="345" tvg-id="GoldenPremier2.mx" tvg-name="GoldenPremier2.mx" tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es",Golden Premiere 2
-http://186.3.216.78:9955/play/a120/index.m3u8
+http://190.113.255.26:10000/play/a01r
 
 
 #EXTINF:-1 tvg-chno="361" tvg-id="576dtv.cl" tvg-name="576dtv.cl" tvg-logo="https://universalplus.com/files/channels/398064723.png",Universal Premiere
