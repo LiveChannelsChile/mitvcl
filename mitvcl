@@ -344,6 +344,9 @@ http://line.powerdino.com:80/4375a1dd43/649f75a876/686847
 http://line.powerdino.com:80/4375a1dd43/649f75a876/689804
 
 #EXTINF:-1 tvg-chno="286" tvg-id="262dtv.cl" tvg-name="262dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",MTV 00's
+http://190.113.255.26:10000/play/a00u
+
+#EXTINF:-1 tvg-chno="287" tvg-id="262dtv.cl" tvg-name="262dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",MTV 00's 2
 http://45.5.119.202:8000/play/a00l/index.m3u8
 
 
@@ -399,10 +402,10 @@ http://190.113.255.26:10000/play/a01d
 http://190.113.255.26:10000/play/a00z
 
 #EXTINF:-1 tvg-chno="364" tvg-id="UniversalCrime.mx" tvg-name="UniversalCrime.mx" tvg-logo="https://universalplus.com/files/channels/780277389.png",Universal Crime
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/98.m3u8
+http://190.113.255.26:10000/play/a00y
 
 #EXTINF:-1 tvg-chno="365" tvg-id="UniversalReality.mx" tvg-name="UniversalReality.mx" tvg-logo="https://universalplus.com/files/channels/120254749.png",Universal Reality
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/101.m3u8
+http://190.113.255.26:10000/play/a00x
 
 
 #EXTINF:-1 tvg-chno="381" tvg-id="1481dtv.cl" tvg-name="1481dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png",HBO
