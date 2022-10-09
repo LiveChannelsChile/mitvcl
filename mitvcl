@@ -157,7 +157,7 @@ http://45.232.210.1:58000/play/a06j
 #EXTINF:-1 tvg-chno="163" tvg-id="1075dtv.cl" tvg-name="1075dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3
 http://45.232.210.1:47000/play/espn3hd
 
-#EXTINF:-1 tvg-chno="164" tvg-id="624dtv.co" tvg-name="608dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",ESPN 4
+#EXTINF:-1 tvg-chno="164" tvg-id="608dtv.cl" tvg-name="608dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",ESPN 4
 http://186.3.216.78:9955/play/a0yr/index.m3u8
 
 #EXTINF:-1 tvg-chno="165" tvg-id="1620dtv.cl" tvg-name="1620dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png",ESPN Extra
@@ -175,7 +175,7 @@ http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/2746
 #EXTINF:-1 tvg-chno="169" tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/D/directv-sports-fight-logo-BBD16A544F-seeklogo.com.png",DIRECTV Sports Fight
 http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/100219
 
-#EXTINF:-1 tvg-chno="170" tvg-id="clarosports.co" tvg-name="ClaroSports.co" tvg-logo="https://www.cmi.mx/assets/imagenes/logos/blanco-negro/Logotipos_claro_s_b.png-1624478797.png",Claro Sports
+#EXTINF:-1 tvg-chno="170" tvg-id="ClaroSports.co" tvg-name="ClaroSports.co" tvg-logo="https://www.cmi.mx/assets/imagenes/logos/blanco-negro/Logotipos_claro_s_b.png-1624478797.png",Claro Sports
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 
 #EXTINF:-1 tvg-chno="171" tvg-id="4399dtv.cl" tvg-name="4399dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png",FOX Sports 1
