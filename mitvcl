@@ -291,8 +291,7 @@ http://45.228.232.204:16000/play/a046/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="241" tvg-id="706dtv.cl" tvg-name="706dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-CNN.png",CNN International
-http://45.225.95.170:8000/play/a0j4/index.m3u8
-
+http://200.6.227.230:8000/play/a0cw/index.m3u8
 
 #EXTINF:-1 tvg-chno="242" tvg-id="704dtv.cl" tvg-name="704dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1280px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",CNN en Espanol
 http://45.232.210.1:8062/play/a083/index.m3u8
