@@ -92,14 +92,14 @@ http://45.228.232.204:16000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-chno="132" tvg-id="219dtv.cl" tvg-name="219dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1920px-SYFY.svg.png",SyFy
 http://179.57.172.189:8000/play/a0jg/index.m3u8
 
-#EXTINF:-1 tvg-chno="133" tvg-id="217dtv.cl" tvg-name="217dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1920px-FX_International_logo.svg.png",FX
+#EXTINF:-1 tvg-chno="133" tvg-id="228dtv.cl" tvg-name="228dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png",Lifetime
+http://201.222.44.28:1/play/a07w
+
+#EXTINF:-1 tvg-chno="134" tvg-id="217dtv.cl" tvg-name="217dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1920px-FX_International_logo.svg.png",FX
 http://45.232.210.1:47000/play/a0aw
 
-#EXTINF:-1 tvg-chno="134" tvg-id="518dtv.cl" tvg-name="518dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1920px-SpaceLogo.svg.png",Space
+#EXTINF:-1 tvg-chno="135" tvg-id="518dtv.cl" tvg-name="518dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1920px-SpaceLogo.svg.png",Space
 http://45.232.210.1:47000/play/a06g
-
-#EXTINF:-1 tvg-chno="135" tvg-id="228dtv.cl" tvg-name="228dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png",Lifetime
-http://201.222.44.28:1/play/a07w
 
 #EXTINF:-1 tvg-chno="136" tvg-id="1513dtv.cl" tvg-name="1513dtv.cl" tvg-logo="https://www.canaldhe.com/wp-content/uploads/2019/09/Logotipo-DHE-124x66-px.png",DHE
 http://45.232.210.1:47000/play/a0dz
