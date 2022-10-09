@@ -90,7 +90,7 @@ http://45.232.210.1:47000/play/studiouniversalhd
 http://45.228.232.204:16000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-chno="132" tvg-id="219dtv.cl" tvg-name="219dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1920px-SYFY.svg.png",SyFy
-http://45.225.95.170:8000/play/a0hr/index.m3u8
+http://179.57.172.189:8000/play/a0jg/index.m3u8
 
 #EXTINF:-1 tvg-chno="133" tvg-id="217dtv.cl" tvg-name="217dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1920px-FX_International_logo.svg.png",FX
 http://45.232.210.1:47000/play/a0aw
@@ -188,7 +188,7 @@ http://45.232.210.1:47000/play/a0at
 http://45.232.210.1:47000/play/foxsports3hd
 
 #EXTINF:-1 tvg-chno="174" tvg-id="629dtv.cl" tvg-name="629dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1920px-TyC_Sports_logo.svg.png",TyC Sports
-http://186.3.255.100:8855/play/a0up/index.m3u8
+http://179.57.172.189:8000/play/a0k4/index.m3u8
 
 #EXTINF:-1 tvg-chno="175" tvg-id="beINSportsEnEspanol.us" tvg-name="beINSportsEnEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png",beIN Sports Ñ
 http://line.powerdino.com:80/4375a1dd43/649f75a876/264841
@@ -428,42 +428,3 @@ http://xdgo.live:8080/play/McUodOnFEUmGTH-fUwgWx2hy92AaYbtKhNMVITUfEBLaGBkjXGJHH
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
-
-
-
-
-#EXTINF:-1 tvg-chno="401",SyFy
-http://45.5.119.202:8000/play/a015/index.m3u8
-#EXTINF:-1 tvg-chno="402",SyFy
-http://190.27.172.235:25000/play/a09d
-#EXTINF:-1 tvg-chno="403",SyFy
-http://190.27.172.228:8004/play/a09d
-#EXTINF:-1 tvg-chno="404",SyFy
-http://186.3.76.238:8000/play/a07t/index.m3u8
-#EXTINF:-1 tvg-chno="405",SyFy
-http://186.114.234.230:8000/play/a0kq/index.m3u8
-#EXTINF:-1 tvg-chno="406",SyFy
-http://179.57.172.189:8000/play/a0jg/index.m3u8
-#EXTINF:-1 tvg-chno="407",SyFy
-http://45.225.95.170:8000/play/a0hr/index.m3u8
-
-
-#EXTINF:-1 tvg-chno="421",TyC
-http://179.57.172.189:8000/play/a0k4/index.m3u8
-#EXTINF:-1 tvg-chno="422",TyC Sports
-http://200.41.79.165:8000/play/a05v/index.m3u8
-#EXTINF:-1 tvg-chno="423",TyC Sports HD
-http://186.3.76.238:8000/play/a0ah/index.m3u8
-#EXTINF:-1 tvg-chno="424",TyC
-http://181.115.238.188:8000/play/a02n/index.m3u8
-#EXTINF:-1 tvg-chno="425",TyC
-http://170.83.242.14:5350/play/a00w
-#EXTINF:-1 tvg-chno="426",TyC Sports
-http://45.225.95.170:8000/play/a0f2/index.m3u8
-#EXTINF:-1 tvg-chno="427",TyC Sports
-http://45.225.95.170:8000/play/a0eu/index.m3u8
-#EXTINF:-1 tvg-chno="428",TyC
-http://45.224.23.209:8000/play/a051/index.m3u8
-
-
-
