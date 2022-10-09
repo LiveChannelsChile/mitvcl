@@ -215,6 +215,12 @@ http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?devic
 #EXTINF:-1 tvg-chno="184" tvg-id="1638dtv.cl" tvg-name="1638dtv.cl" tvg-logo="http://www.teletraktv.cl/wp-content/uploads/2019/04/cropped-MOSCA-TELETRAK-DIAGONAL_00300-3.png",Teletrak
 https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="185" tvg-id="" tvg-name="" tvg-logo="",CDO Basico
+http://45.225.95.170:8000/play/a0fk/index.m3u8
+
+#EXTINF:-1 tvg-chno="186" tvg-id="" tvg-name="" tvg-logo="",CDO Premium
+http://45.225.95.170:8000/play/a0fl/index.m3u8
+
 
 #EXTINF:-1 tvg-chno="201" tvg-id="732dtv.cl" tvg-name="732dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png",Discovery Channel
 http://45.232.210.1:8061/play/a0e1
