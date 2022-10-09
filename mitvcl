@@ -99,7 +99,7 @@ http://45.232.210.1:47000/play/a0aw
 http://45.232.210.1:47000/play/a06g
 
 #EXTINF:-1 tvg-chno="135" tvg-id="228dtv.cl" tvg-name="228dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png",Lifetime
-http://181.115.238.188:8000/play/a03q/index.m3u8
+http://201.222.44.28:1/play/a07w
 
 #EXTINF:-1 tvg-chno="136" tvg-id="1513dtv.cl" tvg-name="1513dtv.cl" tvg-logo="https://www.canaldhe.com/wp-content/uploads/2019/09/Logotipo-DHE-124x66-px.png",DHE
 http://45.232.210.1:47000/play/a0dz
@@ -344,7 +344,7 @@ http://line.powerdino.com:80/4375a1dd43/649f75a876/686847
 http://line.powerdino.com:80/4375a1dd43/649f75a876/689804
 
 #EXTINF:-1 tvg-chno="286" tvg-id="262dtv.cl" tvg-name="262dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",MTV 00's
-http://181.189.243.254:8000/play/a0sw/index.m3u8
+http://45.5.119.202:8000/play/a00l/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="301" tvg-id="TVEIntAmerica.es" tvg-name="TVEIntAmerica.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/702px-Logo_TVE-Internacional.svg.png",TVE Internacional
