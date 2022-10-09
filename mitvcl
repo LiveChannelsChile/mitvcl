@@ -291,7 +291,7 @@ http://45.228.232.204:16000/play/a046/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="241" tvg-id="706dtv.cl" tvg-name="706dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-CNN.png",CNN International
-http://45.184.160.146:8000/play/a003
+http://85.7.91.126:8080/play/a0b3
 
 http://45.225.95.170:8000/play/a0j4/index.m3u8
 
