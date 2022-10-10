@@ -138,19 +138,19 @@ http://186.3.255.100:8855/play/a0sj/index.m3u8
 #EXTINF:-1 tvg-chno="151" tvg-id="" tvg-name="" tvg-logo="https://www.kanalddrama.com/assets/img/logo_bottom2.png",Kanal D Drama
 http://181.65.154.170:8000/play/a07c/index.m3u8
 
-#EXTINF:-1 tvg-chno="150" tvg-id="210dtv.cl" tvg-name="210dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1920px-AMC_logo_2019.svg.png",AMC
+#EXTINF:-1 tvg-chno="152" tvg-id="210dtv.cl" tvg-name="210dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1920px-AMC_logo_2019.svg.png",AMC
 http://45.232.210.1:47000/play/a056
 
-#EXTINF:-1 tvg-chno="151" tvg-id="1515dtv.cl" tvg-name="1515dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png",Europa Europa
+#EXTINF:-1 tvg-chno="153" tvg-id="1515dtv.cl" tvg-name="1515dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png",Europa Europa
 http://45.228.232.204:16000/play/a04g/index.m3u8
 
-#EXTINF:-1 tvg-chno="152" tvg-id="746dtv.cl" tvg-name="746dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png",Film & Arts
+#EXTINF:-1 tvg-chno="154" tvg-id="746dtv.cl" tvg-name="746dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png",Film & Arts
 http://edge2-cvapp.anevia.com/live/live/Film_Arts/SA_Live_WebVTT_FTA/Film_Arts.m3u8
 
-#EXTINF:-1 tvg-chno="153" tvg-id="507dtv.co" tvg-name="507dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",Cinecanal
+#EXTINF:-1 tvg-chno="155" tvg-id="507dtv.co" tvg-name="507dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",Cinecanal
 http://45.232.210.1:47000/play/a05c
 
-#EXTINF:-1 tvg-chno="154" tvg-id="1509dtv.cl" tvg-name="1509dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1920px-Cinemax_%28Yellow%29.svg.png",Cinemax
+#EXTINF:-1 tvg-chno="156" tvg-id="1509dtv.cl" tvg-name="1509dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1920px-Cinemax_%28Yellow%29.svg.png",Cinemax
 http://45.232.210.1:47000/play/cinemaxhd
 
 
@@ -327,7 +327,7 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/127.m3u8
 #EXTINF:-1 tvg-chno="266" tvg-id="741dtv.cl" tvg-name="741dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/741.png",Sun Channel
 http://45.232.210.1:47000/play/a0aj
 
-#EXTINF:-1 tvg-chno="267" tvg-id="224dtv.cl" tvg-name="224dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png",Glitz
+#EXTINF:-1 tvg-chno="267" tvg-id="224dtvc." tvg-name="224dtvc." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png",Glitz
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/114.m3u8
 
 #EXTINF:-1 tvg-chno="268" tvg-id="225dtv.cl" tvg-name="225dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1920px-Pasiones_Tv_logo.svg.png",Pasiones
