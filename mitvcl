@@ -169,10 +169,10 @@ http://45.224.23.209:8000/play/a048/index.m3u8
 #EXTINF:-1 tvg-chno="165" tvg-id="1620dtv.cl" tvg-name="1620dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png",ESPN Extra
 http://45.232.210.1:58000/play/a05e
 
-#EXTINF:-1 tvg-chno="166" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV Sports
+#EXTINF:-1 tvg-chno="166" tvg-id="179directv.cl" tvg-name="179directv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV Sports
 http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/558
 
-#EXTINF:-1 tvg-chno="167" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1920px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",DIRECTV Sports 2
+#EXTINF:-1 tvg-chno="167" tvg-id="612directv.cl" tvg-name="612directv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1920px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",DIRECTV Sports 2
 http://iptv.premiumstore.biz:8080/Osv4ldoB4eza/Osv4ldoB4eza1/559
 
 #EXTINF:-1 tvg-chno="168" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png",DIRECTV Sports +
