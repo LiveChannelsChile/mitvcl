@@ -327,7 +327,7 @@ http://45.225.95.170:8000/play/a0hi/index.m3u8
 #EXTINF:-1 tvg-chno="266" tvg-id="741dtv.cl" tvg-name="741dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/741.png",Sun Channel
 http://45.232.210.1:47000/play/a0aj
 
-#EXTINF:-1 tvg-chno="167" tvg-id="" tvg-name="Kanal D Drama" tvg-logo="https://www.kanalddrama.com/assets/img/logotop2.png",Kanal D Drama
+#EXTINF:-1 tvg-chno="267" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Kanal_D_Drama_%28Latin_America%29.png/revision/latest?cb=20200317052444&path-prefix=es",Kanal D Drama
 http://181.65.154.170:8000/play/a07c/index.m3u8
 
 #EXTINF:-1 tvg-chno="268" tvg-id="225dtv.cl" tvg-name="225dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1920px-Pasiones_Tv_logo.svg.png",Pasiones
