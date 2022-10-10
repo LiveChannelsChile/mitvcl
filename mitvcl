@@ -59,7 +59,7 @@ http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/1513.ts
 #EXTINF:-1 tvg-chno="121" tvg-id="1206dtv.cl" tvg-name="1206dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel
 http://45.232.210.1:8061/play/a06e
 
-#EXTINF:-1 tvg-chno="122" tvg-id="202dtv.cl" tvg-name="202dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1920px-Star_Channel_2020.svg.png",Star Channel
+#EXTINF:-1 tvg-chno="122" tvg-id="204dtv.ar" tvg-name="204dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1920px-Star_Channel_2020.svg.png",Star Channel
 http://45.232.210.1:8061/play/a0ao
 
 #EXTINF:-1 tvg-chno="123" tvg-id="208dtv.cl" tvg-name="208dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony Channel
@@ -72,6 +72,8 @@ http://45.232.210.1:47000/play/a06f
 http://45.232.210.1:47000/play/aehd
 
 #EXTINF:-1 tvg-chno="126" tvg-id="216dtv.cl" tvg-name="216dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1920px-TBS_logo_2016.svg.png",TBS
+http://186.3.255.100:8855/play/a0v9/index.m3u8
+
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/150.m3u8
 
 #EXTINF:-1 tvg-chno="127" tvg-id="215dtv.cl" tvg-name="215dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png",Comedy Central
@@ -132,11 +134,11 @@ http://160.20.164.171:8001/play/a039/index.m3u8
 #EXTINF:-1 tvg-chno="149" tvg-id="Multipremier.mx" tvg-name="Multipremier.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1280px-Multipremier_logo.svg.png",Multipremier
 http://160.20.164.171:8001/play/a021/index.m3u8
 
-#EXTINF:-1 tvg-chno="150" tvg-id="TVCPanico.mx" tvg-name="TVCPanico.mx" tvg-logo="https://w7.pngwing.com/pngs/348/152/png-transparent-panico-television-channel-mexico-panic-starry-internet-television-text-logo-thumbnail.png" group-title="CINE Y SERIES",Panico TV
-http://xdgo.live:8080/play/McUodOnFEUmGTH-fUwgWx2hy92AaYbtKhNMVITUfEBKYfigki1wbAcOGUg4palSh/ts
-
-#EXTINF:-1 tvg-chno="151" tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/oBf1GaZ4bn3olz5AvB6WeCedCDWlwHlg_vMNPaLveznxZRIUtz_34ZILbUiOPUVfvQ=w600-h300-pc0xffffff-pd" group-title="CINE Y SERIES",Morbido TV
+#EXTINF:-1 tvg-chno="150" tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/oBf1GaZ4bn3olz5AvB6WeCedCDWlwHlg_vMNPaLveznxZRIUtz_34ZILbUiOPUVfvQ=w600-h300-pc0xffffff-pd" group-title="CINE Y SERIES",Morbido TV
 http://xdgo.live:8080/play/McUodOnFEUmGTH-fUwgWx2hy92AaYbtKhNMVITUfEBJkrAQMZSFDoHvwsa4TUTLx/ts
+
+#EXTINF:-1 tvg-chno="151" tvg-id="TVCPanico.mx" tvg-name="TVCPanico.mx" tvg-logo="https://w7.pngwing.com/pngs/348/152/png-transparent-panico-television-channel-mexico-panic-starry-internet-television-text-logo-thumbnail.png" group-title="CINE Y SERIES",Panico TV
+http://xdgo.live:8080/play/McUodOnFEUmGTH-fUwgWx2hy92AaYbtKhNMVITUfEBKYfigki1wbAcOGUg4palSh/ts
 
 #EXTINF:-1 tvg-chno="152" tvg-id="210dtv.cl" tvg-name="210dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1920px-AMC_logo_2019.svg.png",AMC
 http://45.232.210.1:47000/play/a056
@@ -157,7 +159,7 @@ http://45.232.210.1:47000/play/cinemaxhd
 #EXTINF:-1 tvg-chno="161" tvg-id="1175dtv.cl" tvg-name="1175dtv.cl" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png",ESPN
 http://45.232.210.1:47000/play/a0ax
 
-#EXTINF:-1 tvg-chno="162" tvg-id="431dtv.cl" tvg-name="431dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png",ESPN 2
+#EXTINF:-1 tvg-chno="162" tvg-id="622dtv.pe" tvg-name="622dtv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png",ESPN 2
 http://45.232.210.1:58000/play/a06j
 
 #EXTINF:-1 tvg-chno="163" tvg-id="1075dtv.cl" tvg-name="1075dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3
