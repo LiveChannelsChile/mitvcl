@@ -432,20 +432,143 @@ http://45.232.210.1:47000/play/a0fb
 
 
 
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0op.png" group-title="PRV", CARTOON NT HD
-http://190.83.119.67:8000/play/a0op/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qc.png" group-title="PRV", Sony Movies HD
-http://190.83.119.67:8000/play/a0qc/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q1.png" group-title="PRV", Teen Nick HD
-http://190.83.119.67:8000/play/a0q1/index.m3u8
-
+#EXTINF:-1 group-title="VTR", 24 Horas
+http://45.232.210.1:8062/play/a08l/index.m3u8
+#EXTINF:-1 group-title="VTR", AE Mundo
+http://45.232.210.1:8062/play/a08y/index.m3u8
+#EXTINF:-1 group-title="VTR", Animal Planet
+http://45.232.210.1:8062/play/a08p/index.m3u8
+#EXTINF:-1 group-title="VTR", AXN
+http://45.232.210.1:8062/play/a0b6/index.m3u8
+#EXTINF:-1 group-title="VTR", Canal 13
+http://45.232.210.1:8062/play/a088/index.m3u8
+#EXTINF:-1 group-title="VTR", Canal de Las estrellas
+http://45.232.210.1:8062/play/a093/index.m3u8
 #EXTINF:-1 group-title="VTR", Cartoon Network
 http://45.232.210.1:8062/play/a09m/index.m3u8
+#EXTINF:-1 group-title="VTR", CDF Basico
+http://45.232.210.1:8062/play/a08x/index.m3u8
+#EXTINF:-1 group-title="VTR", CDF HD
+http://45.232.210.1:8062/play/a05l/index.m3u8
+#EXTINF:-1 group-title="VTR", CDF PREMIUM
+http://45.232.210.1:8062/play/a08a/index.m3u8
+#EXTINF:-1 group-title="VTR", CHV
+http://45.232.210.1:8062/play/a087/index.m3u8
+#EXTINF:-1 group-title="VTR", CHV HD
+http://45.232.210.1:8062/play/a07d/index.m3u8
+#EXTINF:-1 group-title="VTR", Cinecanal
+http://45.232.210.1:8062/play/a09c/index.m3u8
+#EXTINF:-1 group-title="VTR", Cinemax
+http://45.232.210.1:8062/play/a0b4/index.m3u8
+#EXTINF:-1 group-title="VTR", CNN Chile
+http://45.232.210.1:8062/play/a09j/index.m3u8
+#EXTINF:-1 group-title="VTR", CNN Espanol
+http://45.232.210.1:8062/play/a083/index.m3u8
+#EXTINF:-1 group-title="VTR", Discovery Channel
+http://45.232.210.1:8062/play/a08o/index.m3u8
+#EXTINF:-1 group-title="VTR", Discovery ID
+http://45.232.210.1:8062/play/a09v/index.m3u8
+#EXTINF:-1 group-title="VTR", Discovery Kids
+http://45.232.210.1:8062/play/a082/index.m3u8
+#EXTINF:-1 group-title="VTR", Discovery Turbo
+http://45.232.210.1:8062/play/a0bh/index.m3u8
+#EXTINF:-1 group-title="VTR", Disney Channel
+http://45.232.210.1:8062/play/a08n/index.m3u8
+#EXTINF:-1 group-title="VTR", Disney Jr
+http://45.232.210.1:8062/play/a08j/index.m3u8
+#EXTINF:-1 group-title="VTR", E Entertainment
+http://45.232.210.1:8062/play/a08r/index.m3u8
+#EXTINF:-1 group-title="VTR", Enlace
+http://45.232.210.1:8062/play/a09r/index.m3u8
+#EXTINF:-1 group-title="VTR", ESPN
+http://45.232.210.1:8062/play/a08t/index.m3u8
+#EXTINF:-1 group-title="VTR", ESPN 2
+http://45.232.210.1:8062/play/a08u/index.m3u8
+#EXTINF:-1 group-title="VTR", ESPN 3
+http://45.232.210.1:8062/play/a0bj/index.m3u8
+#EXTINF:-1 group-title="VTR", Fox Channel
+http://45.232.210.1:8062/play/a09e/index.m3u8
+#EXTINF:-1 group-title="VTR", HBO
+http://45.232.210.1:8062/play/a0b3/index.m3u8
+#EXTINF:-1 group-title="VTR", HBO 2
+http://45.232.210.1:8062/play/a08f/index.m3u8
+#EXTINF:-1 group-title="VTR", HBO Family
+http://45.232.210.1:8062/play/a08i/index.m3u8
+#EXTINF:-1 group-title="VTR", HBO Plus
+http://45.232.210.1:8062/play/a08g/index.m3u8
+#EXTINF:-1 group-title="VTR", Fox Sports
+http://45.232.210.1:8062/play/a08s/index.m3u8
+#EXTINF:-1 group-title="VTR", History Channel
+http://45.232.210.1:8062/play/a09b/index.m3u8
+#EXTINF:-1 group-title="VTR", Fox Sports 2
+http://45.232.210.1:8062/play/a094/index.m3u8
+#EXTINF:-1 group-title="VTR", Home and Health
+http://45.232.210.1:8062/play/a09z/index.m3u8
+#EXTINF:-1 group-title="VTR", Fox Sports 3
+http://45.232.210.1:8062/play/a095/index.m3u8
+#EXTINF:-1 group-title="VTR", I-Sat
+http://45.232.210.1:8062/play/a09f/index.m3u8
+#EXTINF:-1 group-title="VTR", Fox Sports Premium
+http://45.232.210.1:8062/play/a08b/index.m3u8
+#EXTINF:-1 group-title="VTR", La Red
+http://45.232.210.1:8062/play/a084/index.m3u8
+#EXTINF:-1 group-title="VTR", FX
+http://45.232.210.1:8062/play/a0b8/index.m3u8
+#EXTINF:-1 group-title="VTR", Max Prime
+http://45.232.210.1:8062/play/a08h/index.m3u8
+#EXTINF:-1 group-title="VTR", Mega
+http://45.232.210.1:8062/play/a086/index.m3u8
+#EXTINF:-1 group-title="VTR", MTV
+http://45.232.210.1:8062/play/a09g/index.m3u8
+#EXTINF:-1 group-title="VTR", Nat Geo
+http://45.232.210.1:8062/play/a09a/index.m3u8
+#EXTINF:-1 group-title="VTR", Nick Jr
+http://45.232.210.1:8062/play/a0bg/index.m3u8
+#EXTINF:-1 group-title="VTR", Nickelodeon
+http://45.232.210.1:8062/play/a098/index.m3u8
+#EXTINF:-1 group-title="VTR", RCN Novelas
+http://45.232.210.1:8062/play/a09u/index.m3u8
+#EXTINF:-1 group-title="VTR", Sin Limites
+http://45.232.210.1:8062/play/a0a9/index.m3u8
+#EXTINF:-1 group-title="VTR", Sony
+http://45.232.210.1:8062/play/a0b5/index.m3u8
+#EXTINF:-1 group-title="VTR", Space
+http://45.232.210.1:8062/play/a0b7/index.m3u8
+#EXTINF:-1 group-title="VTR", TBS
+http://45.232.210.1:8062/play/a09y/index.m3u8
+#EXTINF:-1 group-title="VTR", TCM
+http://45.232.210.1:8062/play/a09k/index.m3u8
+#EXTINF:-1 group-title="VTR", Telemundo
+http://45.232.210.1:8062/play/a096/index.m3u8
+#EXTINF:-1 group-title="VTR", TNT
+http://45.232.210.1:8062/play/a09n/index.m3u8
+#EXTINF:-1 group-title="VTR", Travel and Living
+http://45.232.210.1:8062/play/a091/index.m3u8
+#EXTINF:-1 group-title="VTR", TVE
+http://45.232.210.1:8062/play/a09s/index.m3u8
+#EXTINF:-1 group-title="VTR", TVN
+http://45.232.210.1:8062/play/a085/index.m3u8
+#EXTINF:-1 group-title="VTR", Universal
+http://45.232.210.1:8062/play/a09d/index.m3u8
+#EXTINF:-1 group-title="VTR", ViaX
+http://45.232.210.1:8062/play/a092/index.m3u8
+#EXTINF:-1 group-title="VTR", Warner
+http://45.232.210.1:8062/play/a08q/index.m3u8
+#EXTINF:-1 group-title="VTR", TNT HD
+http://45.232.210.1:8062/play/tnthd/index.m3u8
+#EXTINF:-1 group-title="VTR", CANAL 13 HD
+http://45.232.210.1:8062/play/a07g/index.m3u8
+#EXTINF:-1 group-title="VTR", MEGA HD
+http://45.232.210.1:8062/play/a07f/index.m3u8
+#EXTINF:-1 group-title="VTR", LA RED HD
+http://45.232.210.1:8062/play/a07e/index.m3u8
+#EXTINF:-1 group-title="VTR", NTV
+http://45.232.210.1:8062/play/a0cl/index.m3u8
+#EXTINF:-1 group-title="VTR", TVEDUCA
+http://45.232.210.1:8062/play/a0c9/index.m3u8
+#EXTINF:-1 group-title="VTR", UCV
+http://45.232.210.1:8062/play/a07k/index.m3u8
+#EXTINF:-1 group-title="VTR", Zona Latina
+http://45.232.210.1:8062/play/a09h/index.m3u8
 
-#EXTINF:-1 group-title="Claro-COL", Cartoon Network
-http://190.27.172.226:25000/play/a00w
-#EXTINF:-1 group-title="Claro-COL", Cartoon Network HD
-http://190.27.172.226:25000/play/a0b6
 
