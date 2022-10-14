@@ -98,8 +98,6 @@ http://201.222.44.28:1/play/a07w
 #EXTINF:-1 tvg-chno="134" tvg-id="217dtv.cl" tvg-name="217dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1920px-FX_International_logo.svg.png",FX
 http://190.83.119.67:8000/play/a0qa/index.m3u8
 
-http://45.232.210.1:47000/play/a0aw
-
 #EXTINF:-1 tvg-chno="135" tvg-id="518dtv.cl" tvg-name="518dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1920px-SpaceLogo.svg.png",Space
 http://45.232.210.1:47000/play/a06g
 
@@ -150,6 +148,8 @@ http://45.162.135.1:1080/play/a07k
 http://edge2-cvapp.anevia.com/live/live/Film_Arts/SA_Live_WebVTT_FTA/Film_Arts.m3u8
 
 #EXTINF:-1 tvg-chno="155" tvg-id="507dtv.co" tvg-name="507dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",Cinecanal
+http://190.27.172.226:25000/play/a0b3
+
 http://45.232.210.1:47000/play/a05c
 
 #EXTINF:-1 tvg-chno="156" tvg-id="1509dtv.cl" tvg-name="1509dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1920px-Cinemax_%28Yellow%29.svg.png",Cinemax
@@ -166,8 +166,6 @@ http://45.232.210.1:58000/play/a06j
 http://45.232.210.1:47000/play/espn3hd
 
 #EXTINF:-1 tvg-chno="164" tvg-id="624dtv.co" tvg-name="624dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",ESPN 4
-http://190.27.172.226:25000/play/a02s
-
 http://45.224.23.209:8000/play/a048/index.m3u8
 
 #EXTINF:-1 tvg-chno="165" tvg-id="1620dtv.cl" tvg-name="1620dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png",ESPN Extra
