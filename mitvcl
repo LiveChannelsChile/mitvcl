@@ -72,7 +72,7 @@ http://45.232.210.1:47000/play/a06f
 http://45.232.210.1:47000/play/aehd
 
 #EXTINF:-1 tvg-chno="126" tvg-id="216dtv.cl" tvg-name="216dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1920px-TBS_logo_2016.svg.png",TBS
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/150.m3u8
+http://190.60.37.66:8015/play/a08u/index.m3u8
 
 #EXTINF:-1 tvg-chno="127" tvg-id="215dtv.cl" tvg-name="215dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png",Comedy Central
 http://45.232.210.1:47000/play/comedycentralhd
@@ -96,7 +96,7 @@ http://179.57.172.189:8000/play/a0jg/index.m3u8
 http://201.222.44.28:1/play/a07w
 
 #EXTINF:-1 tvg-chno="134" tvg-id="217dtv.cl" tvg-name="217dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1920px-FX_International_logo.svg.png",FX
-http://190.83.119.67:8000/play/a0qa/index.m3u8
+http://45.232.210.1:8061/play/a0aw
 
 #EXTINF:-1 tvg-chno="135" tvg-id="518dtv.cl" tvg-name="518dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1920px-SpaceLogo.svg.png",Space
 http://45.232.210.1:47000/play/a06g
@@ -148,7 +148,7 @@ http://45.162.135.1:1080/play/a07k
 http://edge2-cvapp.anevia.com/live/live/Film_Arts/SA_Live_WebVTT_FTA/Film_Arts.m3u8
 
 #EXTINF:-1 tvg-chno="155" tvg-id="507dtv.co" tvg-name="507dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",Cinecanal
-http://45.232.210.1:47000/play/a05c
+http://45.232.210.1:8061/play/a05c
 
 #EXTINF:-1 tvg-chno="156" tvg-id="1509dtv.cl" tvg-name="1509dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1920px-Cinemax_%28Yellow%29.svg.png",Cinemax
 http://45.232.210.1:47000/play/cinemaxhd
