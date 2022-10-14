@@ -72,6 +72,8 @@ http://45.232.210.1:47000/play/a06f
 http://45.232.210.1:47000/play/aehd
 
 #EXTINF:-1 tvg-chno="126" tvg-id="216dtv.cl" tvg-name="216dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1920px-TBS_logo_2016.svg.png",TBS
+http://190.83.119.67:8000/play/a0pj/index.m3u8
+
 http://190.60.37.66:8015/play/a08u/index.m3u8
 
 #EXTINF:-1 tvg-chno="127" tvg-id="215dtv.cl" tvg-name="215dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png",Comedy Central
@@ -130,8 +132,6 @@ http://45.162.135.1:1080/play/a0ad
 http://160.20.164.171:8001/play/a039/index.m3u8
 
 #EXTINF:-1 tvg-chno="149" tvg-id="Multipremier.mx" tvg-name="Multipremier.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1280px-Multipremier_logo.svg.png",Multipremier
-http://190.83.119.67:8000/play/a0tm/index.m3u8
-
 http://190.61.102.67:31589/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-chno="150" tvg-id="" tvg-name="" tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.615120486_CloverChannel.png.5b98947815588c78b3c43fe77e580fe9.png",Clover Channel
