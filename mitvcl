@@ -360,6 +360,8 @@ http://45.162.135.1:1080/play/a07o
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/41.m3u8
 
 #EXTINF:-1 tvg-chno="305" tvg-id="231dtv.cl" tvg-name="231dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1024px-Telemundo_logo_2018.svg.png",Telemundo Internacional
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/154.m3u8
+
 http://45.162.135.1:1080/play/a07i
 
 #EXTINF:-1 tvg-chno="306" tvg-id="760dtv.cl" tvg-name="760dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png",Univision
