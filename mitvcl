@@ -72,8 +72,6 @@ http://45.232.210.1:47000/play/a06f
 http://45.232.210.1:47000/play/aehd
 
 #EXTINF:-1 tvg-chno="126" tvg-id="216dtv.cl" tvg-name="216dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1920px-TBS_logo_2016.svg.png",TBS
-http://190.83.119.67:8000/play/a0pj/index.m3u8
-
 http://190.60.37.66:8015/play/a08u/index.m3u8
 
 #EXTINF:-1 tvg-chno="127" tvg-id="215dtv.cl" tvg-name="215dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png",Comedy Central
@@ -371,7 +369,7 @@ http://45.162.135.1:1080/play/a0b3
 #EXTINF:-1 tvg-chno="321" tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_02/large.2.png.ee7314e2d55fc99f91cede718077b31d.png",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="322" tvg-id="" tvg-name="" tvg-logo="https://d2ucqd3jt48qxz.cloudfront.net/img/footer-logo.png",Orbe 21
+#EXTINF:-1 tvg-chno="322" tvg-id="351dtv.cl" tvg-name="351dtv.cl" tvg-logo="https://d2ucqd3jt48qxz.cloudfront.net/img/footer-logo.png",Orbe 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 
 
@@ -400,10 +398,10 @@ http://45.162.135.1:1080/play/a0b5
 #EXTINF:-1 tvg-chno="363" tvg-id="1573dtv.cl" tvg-name="1573dtv.cl" tvg-logo="https://universalplus.com/files/channels/172050409.png",Universal Comedy
 http://45.162.135.1:1080/play/a09v
 
-#EXTINF:-1 tvg-chno="364" tvg-id="" tvg-name="" tvg-logo="https://universalplus.com/files/channels/780277389.png",Universal Crime
+#EXTINF:-1 tvg-chno="364" tvg-id="UniversalCrime.mx" tvg-name="UniversalCrime.mx" tvg-logo="https://universalplus.com/files/channels/780277389.png",Universal Crime
 http://45.162.135.1:1080/play/a09u
 
-#EXTINF:-1 tvg-chno="365" tvg-id="" tvg-name="" tvg-logo="https://universalplus.com/files/channels/120254749.png",Universal Reality
+#EXTINF:-1 tvg-chno="365" tvg-id="UniversalReality.mx" tvg-name="UniversalReality.mx" tvg-logo="https://universalplus.com/files/channels/120254749.png",Universal Reality
 http://45.162.135.1:1080/play/a09t
 
 
