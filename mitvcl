@@ -428,22 +428,3 @@ http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/6110
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
-
-
-#EXTINF:-1 group-title="CINE", GOLDEN
-http://bgapp.live/play/futvall-111.php?id=golden&token=blackghooooost&dos=.m3u8
-#EXTINF:-1 group-title="CINE", GOLDEN PLUS
-http://bgapp.live/play/futvall-111.php?id=goldenplus&token=blackghooooost&dos=.m3u8
-#EXTINF:-1 group-title="CINE", GOLDEN EDGE
-http://bgapp.live/play/futvall-111.php?id=goldenedge&token=blackghooooost&dos=.m3u8
-#EXTINF:-1 group-title="PREMIUM", GOLDEN PREMIER
-http://bgapp.live/play/futvall-111.php?id=goldenp&token=blackghooooost&dos=.m3u8
-
-
-
-
-
-
-
-
-
