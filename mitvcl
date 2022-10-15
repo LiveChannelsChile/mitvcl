@@ -98,8 +98,6 @@ http://201.222.44.28:1/play/a07w
 #EXTINF:-1 tvg-chno="134" tvg-id="217dtv.cl" tvg-name="217dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1920px-FX_International_logo.svg.png",FX
 http://45.162.135.1:1080/play/a07j
 
-http://45.232.210.1:8061/play/a0aw
-
 #EXTINF:-1 tvg-chno="135" tvg-id="518dtv.cl" tvg-name="518dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1920px-SpaceLogo.svg.png",Space
 http://45.232.210.1:47000/play/a06g
 
@@ -132,8 +130,6 @@ http://45.162.135.1:1080/play/a0ad
 http://160.20.164.171:8001/play/a039/index.m3u8
 
 #EXTINF:-1 tvg-chno="149" tvg-id="Multipremier.mx" tvg-name="Multipremier.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1280px-Multipremier_logo.svg.png",Multipremier
-http://45.162.135.1:1080/play/a0ac
-
 http://190.61.102.67:31589/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-chno="150" tvg-id="" tvg-name="" tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.615120486_CloverChannel.png.5b98947815588c78b3c43fe77e580fe9.png",Clover Channel
@@ -153,8 +149,6 @@ http://edge2-cvapp.anevia.com/live/live/Film_Arts/SA_Live_WebVTT_FTA/Film_Arts.m
 
 #EXTINF:-1 tvg-chno="155" tvg-id="507dtv.co" tvg-name="507dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",Cinecanal
 http://45.162.135.1:1080/play/a09f
-
-http://45.232.210.1:8061/play/a05c
 
 #EXTINF:-1 tvg-chno="156" tvg-id="1509dtv.cl" tvg-name="1509dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1920px-Cinemax_%28Yellow%29.svg.png",Cinemax
 http://45.232.210.1:47000/play/cinemaxhd
@@ -272,6 +266,8 @@ http://45.232.210.1:58000/play/a05b
 
 
 #EXTINF:-1 tvg-chno="221" tvg-id="304dtv.cl" tvg-name="304dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
+http://45.162.135.1:1080/play/a05f
+
 http://45.232.210.1:8061/play/a05i
 
 #EXTINF:-1 tvg-chno="222" tvg-id="308dtv.cl" tvg-name="308dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",Nick
@@ -434,10 +430,3 @@ http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/6110
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
-
-
-
-#EXTINF:-1,TBS 1
-http://45.162.135.1:1080/play/a06s
-#EXTINF:-1,TBS 2
-http://45.162.135.1:1080/play/a02v
