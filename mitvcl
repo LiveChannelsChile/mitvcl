@@ -247,7 +247,7 @@ http://45.232.210.1:47000/play/a0al
 http://45.232.210.1:8062/play/a091/index.m3u8
 
 #EXTINF:-1 tvg-chno="209" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1920px-HGTV_US_Logo_2015.svg.png",HGTV
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/71.m3u8
+http://190.83.119.67:8000/play/a0nx/index.m3u8
 
 #EXTINF:-1 tvg-chno="210" tvg-id="223dtv.cl" tvg-name="223dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1920px-InvestigationDiscoveryLogo2020.svg.png",Investigation Discovery
 http://45.232.210.1:47000/play/idhd
@@ -315,11 +315,11 @@ http://45.232.210.1:58000/play/mtvhd
 #EXTINF:-1 tvg-chno="262" tvg-id="272dtv.cl" tvg-name="272dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/800px-Htv_logo.svg.png",HTV
 http://45.162.135.1:1080/play/a08n
 
-#EXTINF:-1 tvg-chno="263" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo-claro-musica.svg/2560px-Logo-claro-musica.svg.png",Claro Musica
-http://190.83.119.67:8000/play/a0re/index.m3u8
+#EXTINF:-1 tvg-chno="263" tvg-id="ConcertChannel.ar" tvg-name="ConcertChannel.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Concert2015.png/revision/latest/scale-to-width-down/656?cb=20210423194157&path-prefix=es",Concert Channel
+http://45.162.135.1:1080/play/a0a9
 
-#EXTINF:-1 tvg-chno="264" tvg-id="ConcertChannel.ar" tvg-name="ConcertChannel.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Concert2015.png/revision/latest/scale-to-width-down/656?cb=20210423194157&path-prefix=es",Concert Channel
-http://190.83.119.67:8000/play/a0oq/index.m3u8
+#EXTINF:-1 tvg-chno="264" tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/869156d90e27d6c6e09dc5a8f0017838.png" group-title="MÚSICA",Zapping Music
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-chno="281" tvg-id="221dtv.cl" tvg-name="221dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg",¡Hola TV!
@@ -334,11 +334,11 @@ http://45.232.210.1:47000/play/foodnetworkhd
 #EXTINF:-1 tvg-chno="284" tvg-id="232dtv.cl" tvg-name="232dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png",El Gourmet
 http://45.232.210.1:47000/play/a074
 
-#EXTINF:-1 tvg-chno="285" tvg-id="230dtv.cl" tvg-name="230dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1280px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png",Mas Chic
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/127.m3u8
-
-#EXTINF:-1 tvg-chno="286" tvg-id="741dtv.cl" tvg-name="741dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/741.png",Sun Channel
+#EXTINF:-1 tvg-chno="285" tvg-id="741dtv.cl" tvg-name="741dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/741.png",Sun Channel
 http://45.232.210.1:47000/play/a0aj
+
+#EXTINF:-1 tvg-chno="286" tvg-id="230dtv.cl" tvg-name="230dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1280px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png",Mas Chic
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/127.m3u8
 
 #EXTINF:-1 tvg-chno="287" tvg-id="224dtvc." tvg-name="224dtvc." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png",Glitz
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/114.m3u8
