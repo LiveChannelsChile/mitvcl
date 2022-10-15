@@ -130,6 +130,8 @@ http://45.162.135.1:1080/play/a0ad
 http://160.20.164.171:8001/play/a039/index.m3u8
 
 #EXTINF:-1 tvg-chno="149" tvg-id="Multipremier.mx" tvg-name="Multipremier.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1280px-Multipremier_logo.svg.png",Multipremier
+http://45.162.135.1:1080/play/a0ac
+
 http://190.61.102.67:31589/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-chno="150" tvg-id="" tvg-name="" tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.615120486_CloverChannel.png.5b98947815588c78b3c43fe77e580fe9.png",Clover Channel
@@ -428,3 +430,34 @@ http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/6110
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
+
+
+
+#EXTINF:-1,TBS 1
+http://45.162.135.1:1080/play/a06s
+#EXTINF:-1,TBS 2
+http://45.162.135.1:1080/play/a02v
+#EXTINF:-1,UNIVERSAL CINEMA ESTE
+http://45.162.135.1:1080/play/a05b
+#EXTINF:-1,UNIVERSAL CINEMA ESTE HD
+http://45.162.135.1:1080/play/a0b5
+#EXTINF:-1,UNIVERSAL COMEDY
+http://45.162.135.1:1080/play/a08s
+#EXTINF:-1,UNIVERSAL COMEDY HD
+http://45.162.135.1:1080/play/a09v
+#EXTINF:-1,UNIVERSAL CRIME
+http://45.162.135.1:1080/play/a08r
+#EXTINF:-1,UNIVERSAL CRIME HD
+http://45.162.135.1:1080/play/a09u
+#EXTINF:-1,UNIVERSAL PREMIERE
+http://45.162.135.1:1080/play/a0am
+#EXTINF:-1,UNIVERSAL PREMIERE HD
+http://45.162.135.1:1080/play/a09r
+#EXTINF:-1,UNIVERSAL PREMIERE O
+http://45.162.135.1:1080/play/a0an
+#EXTINF:-1,UNIVERSAL PREMIERE O HD
+http://45.162.135.1:1080/play/a09s
+#EXTINF:-1,UNIVERSAL REALITY
+http://45.162.135.1:1080/play/a08q
+#EXTINF:-1,UNIVERSAL REALITY HD
+http://45.162.135.1:1080/play/a09t
