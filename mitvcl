@@ -121,7 +121,7 @@ http://45.232.210.1:8062/play/a09k/index.m3u8
 http://45.232.210.1:8062/play/a09f/index.m3u8
 
 #EXTINF:-1 tvg-chno="146" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/EURO_LOGO_FINALE.png",Eurochannel
-http://45.5.119.202:8000/play/a00c/index.m3u8
+http://190.83.119.67:8000/play/a0r6/index.m3u8
 
 #EXTINF:-1 tvg-chno="147" tvg-id="514dtv.cl" tvg-name="514dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png",Cine Latino
 http://45.162.135.1:1080/play/a0ad
@@ -290,7 +290,7 @@ http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/8986.ts
 http://160.20.164.171:8001/play/a08z/index.m3u8
 
 #EXTINF:-1 tvg-chno="229" tvg-id="TooncastLatinAmerica.pa" tvg-name="TooncastLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png",Tooncast
-http://45.5.119.202:8000/play/a00z/index.m3u8
+http://190.83.119.67:8000/play/a0s3/index.m3u8
 
 #EXTINF:-1 tvg-chno="230" tvg-id="310dtv.cl" tvg-name="310dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/1920px-TeenNick_2019_logo.svg.png",TeenNick
 http://45.162.135.1:1080/play/a07a
