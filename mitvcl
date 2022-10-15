@@ -353,17 +353,17 @@ http://45.232.210.1:8062/play/a09s/index.m3u8
 #EXTINF:-1 tvg-chno="302" tvg-id="762dtv.cl" tvg-name="762dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/497px-Antena_3_Internacional_logo_2017.svg.png",Antena 3 Internacional
 http://45.236.28.72:8000/play/a0ho/index.m3u8
 
-#EXTINF:-1 tvg-chno="303" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1024px-Telemundo_logo_2018.svg.png",Telemundo Internacional
+#EXTINF:-1 tvg-chno="303" tvg-id="StarTVE.mx" tvg-name="StarTVE.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",Star TVE
+http://45.162.135.1:1080/play/a07o
+
+#EXTINF:-1 tvg-chno="304" tvg-id="214dtv.cl" tvg-name="214dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png",A3 Series
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/41.m3u8
+
+#EXTINF:-1 tvg-chno="305" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1024px-Telemundo_logo_2018.svg.png",Telemundo Internacional
 http://45.162.135.1:1080/play/a07i
 
-#EXTINF:-1 tvg-chno="304" tvg-id="760dtv.cl" tvg-name="760dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png",Univision
+#EXTINF:-1 tvg-chno="306" tvg-id="760dtv.cl" tvg-name="760dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png",Univision
 http://45.162.135.1:1080/play/a0b3
-
-#EXTINF:-1 tvg-chno="305" tvg-id="AZMundo.mx" tvg-name="AZMundo.mx" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Az_Mundo_2014-2018.png/revision/latest/scale-to-width-down/124?cb=20220217171211&path-prefix=es",AZ Mundo
-http://45.162.135.1:1080/play/a08y
-
-#EXTINF:-1 tvg-chno="306" tvg-id="CanalEstrellas.es" tvg-name="CanalEstrellas.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/125px-Las_Estrellas.svg.png" group-title="MISCELANEOS",Las Estrellas (Latinoamérica)
-http://209.45.95.18:8000/play/a079
 
 
 #EXTINF:-1 tvg-chno="321" tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_02/large.2.png.ee7314e2d55fc99f91cede718077b31d.png",EWTN
