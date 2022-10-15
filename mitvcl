@@ -359,10 +359,8 @@ http://45.162.135.1:1080/play/a07o
 #EXTINF:-1 tvg-chno="304" tvg-id="214dtv.cl" tvg-name="214dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png",A3 Series
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/41.m3u8
 
-#EXTINF:-1 tvg-chno="305" tvg-id="231dtv.cl" tvg-name="231dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1024px-Telemundo_logo_2018.svg.png",Telemundo Internacional
+#EXTINF:-1 tvg-chno="305" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1024px-Telemundo_logo_2018.svg.png",Telemundo Internacional
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/154.m3u8
-
-http://45.162.135.1:1080/play/a07i
 
 #EXTINF:-1 tvg-chno="306" tvg-id="760dtv.cl" tvg-name="760dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png",Univision
 http://45.162.135.1:1080/play/a0b3
@@ -430,3 +428,90 @@ http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/6110
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
+
+
+#EXTINF:-1 xui-id="501" tvg-id="" tvg-name="CBS Los Angeles" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0n8cieVw9Ak1a5BdBs_xKbLpRjN7j4p3lbdw7y2gqegzQ.jpg" group-title="USA/UK",CBS Los Angeles
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd7gAk6NZIWirgfo08OZlnr6
+#EXTINF:-1 xui-id="502" tvg-id="" tvg-name="CBS New York" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0l20zDDOU3ybq_u7uAOQBkSVd5ONvPXSGSZ5PNNGN4g1g.jpg" group-title="USA/UK",CBS New York
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd5_sZtU4tDiwymKow1sk4az
+#EXTINF:-1 xui-id="503" tvg-id="" tvg-name="ABC" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0l4zRUYTtJbPtehtYpBkSrbsQ-Cf-1I5YBdmrNwpKGObg.jpg" group-title="USA/UK",ABC
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd48F8SUM6dkda7K8_laRGaO
+#EXTINF:-1 xui-id="223" tvg-id="" tvg-name="NBC Los Angeles" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0nMKzRYUtWaOqxzhULdbR6r7lq9_XjO61ZMb6UIqzYZfg.jpg" group-title="USA/UK",NBC Los Angeles
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd6BD8obhoFt7cGl_VOUEJQp
+#EXTINF:-1 xui-id="224" tvg-id="" tvg-name="NBC New York" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0m9VUumnNNEUPpRENeIfh3_SOyqlc4ZMd30yZJ1nJ2rSg.jpg" group-title="USA/UK",NBC New York
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd4NOuirVbyb1_dcE-smZBci
+#EXTINF:-1 xui-id="225" tvg-id="" tvg-name="NBC Washington" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0kT31qEgavfALWlsTT6Qm4o1Qjfuawmip-HdrP2PvoijQ.jpg" group-title="USA/UK",NBC Washington
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd7D2F0WlkkDHQ708Qn1-1vp
+#EXTINF:-1 xui-id="380" tvg-id="" tvg-name="ABC Los Angeles" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0mq1I80mZSWdeGRhc2c1TGxq1MJdo_3YuJEvBG2NwK8cQ.jpg" group-title="USA/UK",ABC Los Angeles
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd4Ae7WqkIqcswXx2jpJc7Jv
+#EXTINF:-1 xui-id="381" tvg-id="" tvg-name="ABC Miami" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0lncctmWkdHluYAW9kbPDVQ_2QIezdk68VRj6250kSGpg.jpg" group-title="USA/UK",ABC Miami
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd76WSV7RkltnPQzAITX5OQ6
+#EXTINF:-1 xui-id="382" tvg-id="" tvg-name="ABC New York" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0kHulkzURjsYva8XlHE-EL7DmhAYfKPXHIJXb-VdHzN1A.jpg" group-title="USA/UK",ABC New York
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd4RDog-lKe9Ppfzwx5g2JPJ
+#EXTINF:-1 xui-id="383" tvg-id="" tvg-name="ABC Orlando" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0nWl2It06a5ZM-XaNrRanZym_PNlNk6DQzN__luPxOezQ.jpg" group-title="USA/UK",ABC Orlando
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd5nfhHpRgl94chMu8Emybkx
+#EXTINF:-1 xui-id="384" tvg-id="" tvg-name="ABC Phoenix" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0lZeNvE0fRXSLLXte0hMzJTsB72tsC88nZo1avhfW2lsg.jpg" group-title="USA/UK",ABC Phoenix
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd7_GUEMNr5KWXs-u4e2-6lB
+#EXTINF:-1 xui-id="385" tvg-id="" tvg-name="ABC Tampa Bay" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0nLpb-VIUfm9g8PDY0J252mLP2drhF5v3_RPTkX6JmQAA.jpg" group-title="USA/UK",ABC Tampa Bay
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd5ZO_m8dE3UIWfQ2Z1ANu3g
+#EXTINF:-1 xui-id="386" tvg-id="" tvg-name="CBS Atlanta" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0kq1ulDPbGQzdFW7s7I8Wq1MkSf0rqxY4kWBFUh62xyVQ.jpg" group-title="USA/UK",CBS Atlanta
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd6sRykaWm1X6JZsKbnBsIa-
+#EXTINF:-1 xui-id="387" tvg-id="" tvg-name="CBS Dallas" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0nK85Mc96KjsvypGS7-b203a0httCHI-15atroOl3IVqg.jpg" group-title="USA/UK",CBS Dallas
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd7tfyXdWzeuscyRntLjFgeR
+#EXTINF:-1 xui-id="388" tvg-id="" tvg-name="CBS Detroit" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0kNnsgQJLt4e6rneJ4_nYtGQrf16GoQl_hnZx_JLCjmUw.jpg" group-title="USA/UK",CBS Detroit
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd7GdgUUbaRq1gTJLBtqx5qD
+#EXTINF:-1 xui-id="389" tvg-id="" tvg-name="CBS Houston" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0nzg0Egn0N6P1cq3_Ljbecbln5lDpxDjlde7hYxXlSksg.jpg" group-title="USA/UK",CBS Houston
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd5TFblZXQH2sZycS9WbTO7x
+#EXTINF:-1 xui-id="390" tvg-id="" tvg-name="CBS Los Angeles" tvg-logo="" group-title="USA/UK",CBS Los Angeles
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd7VO7AfVWiQsGuKx7m3PdsP
+#EXTINF:-1 xui-id="391" tvg-id="" tvg-name="CBS New York" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0liuGzVpUR98LtX3rer_GC5UY8WlwKAHhf4hKaiQ7EIRQ.jpg" group-title="USA/UK",CBS New York
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd6LpnKrsv6EXsmMg5VyExzL
+#EXTINF:-1 xui-id="392" tvg-id="" tvg-name="CBS Phoenix" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0mjh96CTdpSMcwfIzxiFpHejrN5TTOjsobTEqZJR-HeRA.jpg" group-title="USA/UK",CBS Phoenix
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd5IKM_RG0Wimmes3a6mEGMT
+#EXTINF:-1 xui-id="393" tvg-id="" tvg-name="FOX Austin" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0nk8R5jETw6hESVK9qeSXB7k8Ul9K2Xw44d8pbq8nWPMQ.jpg" group-title="USA/UK",FOX Austin
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd4L8xrgFEyFxOZ47doLeNEn
+#EXTINF:-1 xui-id="394" tvg-id="" tvg-name="FOX Atlanta" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0l1ZAl132fC-2rIj5_VIVU-3AbzntjbWJKxnkeME0IVLg.jpg" group-title="USA/UK",FOX Atlanta
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd64nJRoa9hri6WSZuEER_pu
+#EXTINF:-1 xui-id="395" tvg-id="" tvg-name="FOX Dallas" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0kkzNcJSByWaBw8R5EFKhpXJbTD3W1ZGWclS0GQ_0cJGg.jpg" group-title="USA/UK",FOX Dallas
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd5R2ComOxZClFGF_1J0c-cR
+#EXTINF:-1 xui-id="396" tvg-id="" tvg-name="FOX Denver" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0mpRdLnuiqUEs6d3aWExK2oGvoADFZj2suL7Pb-NCYPGw.jpg" group-title="USA/UK",FOX Denver
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd5diiW1NCXKsHnkxhjecmTf
+#EXTINF:-1 xui-id="397" tvg-id="" tvg-name="FOX Houston" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0k9yEzmprDiMvbsFypRO1CHsWL28n5R92ZfMGOPpeB77A.jpg" group-title="USA/UK",FOX Houston
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd6SqUYGUbzjR-BtIQu2LsI5
+#EXTINF:-1 xui-id="398" tvg-id="" tvg-name="FOX Los Angeles" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0kZ5l3fNgoHGIK4m93y5MtWpgYl8IW85kq2q1-i9snpDA.jpg" group-title="USA/UK",FOX Los Angeles
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd76-cjtnG8uMaW-6M5pU7LD
+#EXTINF:-1 xui-id="399" tvg-id="" tvg-name="FOX New York" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0n_pJU5FNissyxfxebyoYTqX-fPGRusOvlGiTp9JHfV3A.jpg" group-title="USA/UK",FOX New York
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd7Yy09MiSApYNHhzrZph5Zm
+#EXTINF:-1 xui-id="400" tvg-id="" tvg-name="FOX Phoenix" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0nbhmRKqg5EmEtSR2ADdbjJRYbGhjsH4u_J5NXr4zLIUQ.jpg" group-title="USA/UK",FOX Phoenix
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd525fIjs4Tobs7YQFGkZ2Jk
+#EXTINF:-1 xui-id="401" tvg-id="" tvg-name="FOX Tampa Bay" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0nengMD98jNA8dydF2Qatbrssv2kWpHYVCjXzanSUfgdA.jpg" group-title="USA/UK",FOX Tampa Bay
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd5-j3NGf-50O4TDeb-xQmew
+#EXTINF:-1 xui-id="402" tvg-id="" tvg-name="FOX Washington" tvg-logo="" group-title="USA/UK",FOX Washington
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd4Ujfv5A9vMkeqoKbpOEt1l
+#EXTINF:-1 xui-id="403" tvg-id="" tvg-name="NBC Atlanta" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0mFIJ41H4OXz8Wcl-_07y5d2B1M-JQVsip0DjCoGr4ocQ.jpg" group-title="USA/UK",NBC Atlanta
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd5Max-WQAMABvmmnHtUHZhv
+#EXTINF:-1 xui-id="404" tvg-id="" tvg-name="NBC Dallas" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0m-9GYkXWTxjyB7dWzs7rqR4cx-5OyKwyIs0j3GR786Sg.jpg" group-title="USA/UK",NBC Dallas
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd6V_VbkjgRT5239ILudtx14
+#EXTINF:-1 xui-id="405" tvg-id="" tvg-name="NBC Denver" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0npQ3JuXoxUAhlErghcAgGshx9VDmg9s_6_j3YpGT113Q.jpg" group-title="USA/UK",NBC Denver
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd4lRhu3lKDqbgsy8cbhxPTf
+#EXTINF:-1 xui-id="406" tvg-id="" tvg-name="NBC Houston" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0ngvyPXaD3Ief3LcgqVegmOlyrzcxYgh7SohRY7q30dgA.jpg" group-title="USA/UK",NBC Houston
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd5adl5EJk-LwzuqKXAsMLfA
+#EXTINF:-1 xui-id="407" tvg-id="" tvg-name="NBC Los Angeles" tvg-logo="" group-title="USA/UK",NBC Los Angeles
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd5TsMrIqL54VMQ8I4ICBTgW
+#EXTINF:-1 xui-id="408" tvg-id="" tvg-name="NBC Miami" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0msmyeX6qsb16UtpVgWffI8E6ZOeEgsmPSU99f2Vca2vw.jpg" group-title="USA/UK",NBC Miami
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd6O_X5esjd80sDAOFr3w1KX
+#EXTINF:-1 xui-id="409" tvg-id="" tvg-name="NBC New York" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0mPTrb_I_cbj1HS3UZffOZR1FUur-NTG-HEEiaQZYXFsQ.jpg" group-title="USA/UK",NBC New York
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd7pq1gObZi1-MkNUh0UOze1
+#EXTINF:-1 xui-id="410" tvg-id="" tvg-name="NBC Phoenix" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0mRC3tz8YBLyuYJyt3iBAasMF49EnevaXJL_4-mmxGS7g.jpg" group-title="USA/UK",NBC Phoenix
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd6nn7WoQibidgweRX9zj7M1
+#EXTINF:-1 xui-id="411" tvg-id="" tvg-name="NBC Washington" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0kKds63uLkcIvKPktzLLLqZgE0E-R3w7wLE9P9mgI5Okg.jpg" group-title="USA/UK",NBC Washington
+http://gratuita.mrzutv.net:8080/play/yWepXArwuky0A0D0-wUh6Pew7hg78kqqS0LvHXhFXd6BE308FmWpsH-bU8R4qZ-t
+
+
+
+
+
+
+
+
+
