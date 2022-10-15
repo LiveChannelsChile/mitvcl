@@ -424,7 +424,7 @@ http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/63
 http://181.236.192.254:8000/play/a043/index.m3u8
 
 #EXTINF:-1 tvg-chno="387" tvg-id="541dtv.cl" tvg-name="541dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png",HBO Pop
-http://190.108.95.5:8000/play/a008/index.m3u8
+http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/6110
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
