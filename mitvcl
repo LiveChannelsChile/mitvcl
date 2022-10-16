@@ -178,11 +178,11 @@ http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/42
 #EXTINF:-1 tvg-chno="168" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png",DIRECTV Sports +
 http://line.powerdino.com:80/4375a1dd43/649f75a876/628275
 
-#EXTINF:-1 tvg-chno="169" tvg-id="ClaroSports.co" tvg-name="ClaroSports.co" tvg-logo="https://i.ibb.co/NrcZYGt/Claro-sports.png",Claro Sports
-https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
+#EXTINF:-1 tvg-chno="169" tvg-id="658dtv.ec" tvg-name="658dtv.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1920px-GolTV_logo.svg.png" group-title="DEPORTES",Gol TV
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/115.m3u8
 
-#EXTINF:-1 tvg-chno="170" tvg-id="" tvg-name="ClaroSports.co" tvg-logo="https://i.ibb.co/x2RtQ79/Claro-sports-2.png",Claro Sports 2
-http://190.83.119.67:8000/play/a0on/index.m3u8
+#EXTINF:-1 tvg-chno="170" tvg-id="628dtv.cl" tvg-name="628dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png",Golf Channel
+http://45.162.135.1:1080/play/a07p
 
 #EXTINF:-1 tvg-chno="171" tvg-id="4399dtv.cl" tvg-name="4399dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png",FOX Sports 1
 http://45.232.210.1:47000/play/a07k
@@ -202,11 +202,11 @@ http://line.powerdino.com:80/4375a1dd43/649f75a876/264841
 #EXTINF:-1 tvg-chno="176" tvg-id="beINSportsXtraEspanol.us" tvg-name="beINSportsXtraEspanol.us" tvg-logo="https://beinsportsxtra.com/_next/image?url=https%3A%2F%2Fresources.beinsportsxtra.com%2Fxtra%2Flogo_bein_sport_xtra_espanol_plain_dfc8c8970b.png&w=1920&q=100",beIN Sports XTRA Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
-#EXTINF:-1 tvg-chno="177" tvg-id="658dtv.ec" tvg-name="658dtv.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1920px-GolTV_logo.svg.png" group-title="DEPORTES",Gol TV
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/115.m3u8
+#EXTINF:-1 tvg-chno="177" tvg-id="ClaroSports.co" tvg-name="ClaroSports.co" tvg-logo="https://i.ibb.co/6WwrHjw/Claro-sports.png",Claro Sports
+https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 
-#EXTINF:-1 tvg-chno="178" tvg-id="628dtv.cl" tvg-name="628dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png",Golf Channel
-http://45.162.135.1:1080/play/a07p
+#EXTINF:-1 tvg-chno="178" tvg-id="" tvg-name="ClaroSports.co" tvg-logo="https://i.ibb.co/7kGJjYG/Claro-sports-2.png",Claro Sports 2
+http://190.83.119.67:8000/play/a0on/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="181" tvg-id="tntsports.cl" tvg-name="tntsports.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_hd_blanco.png.8effa63ae6fa3bb793919341e5fc1c8d.png",TNT Sports HD
