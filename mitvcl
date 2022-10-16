@@ -386,7 +386,7 @@ http://45.232.210.1:47000/play/goldenhd
 http://megatitan.net:2052/Sebastian6919/Concha3073/1859
 
 #EXTINF:-1 tvg-chno="345" tvg-id="GoldenPremier2.mx" tvg-name="GoldenPremier2.mx" tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es",Golden Premiere 2
-http://190.113.255.26:10000/play/a01r
+http://160.20.164.171:8001/play/a07f/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="361" tvg-id="576dtv.cl" tvg-name="576dtv.cl" tvg-logo="https://universalplus.com/files/channels/398064723.png",Universal Premiere
