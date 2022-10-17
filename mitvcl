@@ -169,8 +169,8 @@ http://45.224.23.209:8000/play/a048/index.m3u8
 #EXTINF:-1 tvg-chno="165" tvg-id="1620dtv.cl" tvg-name="1620dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png",ESPN Extra
 http://45.232.210.1:58000/play/a05e
 
-#EXTINF:-1 tvg-chno="166" tvg-id="610dtv.ar" tvg-name="610dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV Sports
-http://line.powerdino.com:80/4375a1dd43/649f75a876/265160
+#EXTINF:-1 tvg-chno="166" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV Sports
+https://bit.ly/3S65do3
 
 #EXTINF:-1 tvg-chno="167" tvg-id="612directv.cl" tvg-name="612directv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1920px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",DIRECTV Sports 2
 http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/42
@@ -178,11 +178,11 @@ http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/42
 #EXTINF:-1 tvg-chno="168" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png",DIRECTV Sports +
 http://line.powerdino.com:80/4375a1dd43/649f75a876/628275
 
-#EXTINF:-1 tvg-chno="169" tvg-id="ClaroSports.co" tvg-name="ClaroSports.co" tvg-logo="https://i.ibb.co/6WwrHjw/Claro-sports.png",Claro Sports
-https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
+#EXTINF:-1 tvg-chno="169" tvg-id="" tvg-name="DIRECTV Sports Fight" tvg-logo="https://seeklogo.com/images/D/directv-sports-fight-logo-BBD16A544F-seeklogo.com.png",DIRECTV Sports Fight
+https://bit.ly/3ENWJ1Q
 
-#EXTINF:-1 tvg-chno="170" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/7kGJjYG/Claro-sports-2.png",Claro Sports 2
-http://190.83.119.67:8000/play/a0on/index.m3u8
+#EXTINF:-1 tvg-chno="170" tvg-id="ClaroSports.co" tvg-name="ClaroSports.co" tvg-logo="https://i.imgur.com/fbKQZ1X.png",Claro Sports
+https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 
 #EXTINF:-1 tvg-chno="171" tvg-id="4399dtv.cl" tvg-name="4399dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png",FOX Sports 1
 http://45.232.210.1:47000/play/a07k
@@ -196,16 +196,10 @@ http://45.232.210.1:47000/play/foxsports3hd
 #EXTINF:-1 tvg-chno="174" tvg-id="629dtv.cl" tvg-name="629dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1920px-TyC_Sports_logo.svg.png",TyC Sports
 http://179.57.172.189:8000/play/a0k4/index.m3u8
 
-#EXTINF:-1 tvg-chno="175" tvg-id="beINSportsEnEspanol.us" tvg-name="beINSportsEnEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png",beIN Sports Ñ
-http://line.powerdino.com:80/4375a1dd43/649f75a876/264841
-
-#EXTINF:-1 tvg-chno="176" tvg-id="beINSportsXtraEspanol.us" tvg-name="beINSportsXtraEspanol.us" tvg-logo="https://beinsportsxtra.com/_next/image?url=https%3A%2F%2Fresources.beinsportsxtra.com%2Fxtra%2Flogo_bein_sport_xtra_espanol_plain_dfc8c8970b.png&w=1920&q=100",beIN Sports XTRA Ñ
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-
-#EXTINF:-1 tvg-chno="177" tvg-id="658dtv.ec" tvg-name="658dtv.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1920px-GolTV_logo.svg.png" group-title="DEPORTES",Gol TV
+#EXTINF:-1 tvg-chno="175" tvg-id="658dtv.ec" tvg-name="658dtv.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1920px-GolTV_logo.svg.png" group-title="DEPORTES",Gol TV
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/115.m3u8
 
-#EXTINF:-1 tvg-chno="178" tvg-id="628dtv.cl" tvg-name="628dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png",Golf Channel
+#EXTINF:-1 tvg-chno="176" tvg-id="628dtv.cl" tvg-name="628dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png",Golf Channel
 http://45.162.135.1:1080/play/a07p
 
 
@@ -353,16 +347,10 @@ http://45.232.210.1:8062/play/a09s/index.m3u8
 #EXTINF:-1 tvg-chno="302" tvg-id="762dtv.cl" tvg-name="762dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/497px-Antena_3_Internacional_logo_2017.svg.png",Antena 3 Internacional
 http://45.236.28.72:8000/play/a0ho/index.m3u8
 
-#EXTINF:-1 tvg-chno="303" tvg-id="StarTVE.mx" tvg-name="StarTVE.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",Star TVE
-http://45.162.135.1:1080/play/a07o
-
-#EXTINF:-1 tvg-chno="304" tvg-id="214dtv.cl" tvg-name="214dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png",A3 Series
-http://186.3.255.100:8855/play/a0t2/index.m3u8
-
-#EXTINF:-1 tvg-chno="305" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1024px-Telemundo_logo_2018.svg.png",Telemundo Internacional
+#EXTINF:-1 tvg-chno="303" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1024px-Telemundo_logo_2018.svg.png",Telemundo Internacional
 http://45.162.135.1:1080/play/a07i
 
-#EXTINF:-1 tvg-chno="306" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png",Univision
+#EXTINF:-1 tvg-chno="304" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png",Univision
 http://45.162.135.1:1080/play/a0b3
 
 
