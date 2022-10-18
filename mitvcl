@@ -312,7 +312,7 @@ http://45.162.135.1:1080/play/a08n
 #EXTINF:-1 tvg-chno="263" tvg-id="ConcertChannel.ar" tvg-name="ConcertChannel.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Concert2015.png/revision/latest/scale-to-width-down/656?cb=20210423194157&path-prefix=es",Concert Channel
 http://45.162.135.1:1080/play/a0a9
 
-#EXTINF:-1 tvg-chno="106" tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/869156d90e27d6c6e09dc5a8f0017838.png",Zapping Music
+#EXTINF:-1 tvg-chno="264" tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/869156d90e27d6c6e09dc5a8f0017838.png",Zapping Music
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
 
 
