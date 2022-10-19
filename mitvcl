@@ -22,7 +22,7 @@ http://45.232.210.1:47000/play/a08g
 #EXTINF:-1 tvg-chno="107" tvg-id="chv.cl" tvg-name="chv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/151.png",Chilevision
 http://45.232.210.1:47000/play/a08n
 
-#EXTINF:-1 tvg-chno="108" tvg-id="152directv.cl" tvg-name="152directv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logotipo_de_Canal_13.png",Canal 13
+#EXTINF:-1 tvg-chno="108" tvg-id="152directv.cl" tvg-name="152directv.cl" tvg-logo="https://i.ibb.co/zbtcsjp/Emblema-del-Canal-13-Chile.png",Canal 13
 http://45.232.210.1:47000/play/a07a
 
 #EXTINF:-1 tvg-chno="109" tvg-id="ZonaLatina.cl" tvg-name="ZonaLatina.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.Zona_Latina_White_2021.png.a50b98547cde92d001e216570c44a6eb.png",Zona Latina
@@ -197,7 +197,7 @@ http://45.232.210.1:47000/play/foxsports3hd
 http://45.162.135.1:1080/play/a048
 
 #EXTINF:-1 tvg-chno="175" tvg-id="658dtv.ec" tvg-name="658dtv.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1920px-GolTV_logo.svg.png" group-title="DEPORTES",Gol TV
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/115.m3u8
+http://45.224.23.209:8000/play/a081/index.m3u8
 
 #EXTINF:-1 tvg-chno="176" tvg-id="628dtv.cl" tvg-name="628dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png",Golf Channel
 http://45.162.135.1:1080/play/a07p
@@ -250,7 +250,7 @@ http://45.232.210.1:47000/play/idhd
 http://45.232.210.1:8062/play/a0bh/index.m3u8
 
 #EXTINF:-1 tvg-chno="212" tvg-id="DiscoveryScienceLatinAmerica.pa" tvg-name="DiscoveryScienceLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/800px-Science_Channel_logo.svg.png",Discovery Science
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/77.m3u8
+http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/13622
 
 #EXTINF:-1 tvg-chno="213" tvg-id="DiscoveryTheater.mx" tvg-name="DiscoveryTheater.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1920px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater
 http://45.232.210.1:47000/play/a0am
@@ -272,7 +272,7 @@ http://45.232.210.1:48000/play/disneyhd
 http://45.232.210.1:47000/play/a0ak
 
 #EXTINF:-1 tvg-chno="225" tvg-id="334dtv.cl" tvg-name="334dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png",Cartoonito
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/58.m3u8
+http://45.162.135.1:1080/play/a06j
 
 #EXTINF:-1 tvg-chno="226" tvg-id="309dtv.cl" tvg-name="309dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png",Nick Jr.
 http://45.232.210.1:8062/play/a0bg/index.m3u8
@@ -297,7 +297,7 @@ http://46.19.226.152:4000/play/a070
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 
 #EXTINF:-1 tvg-chno="243" tvg-id="704dtv.cl" tvg-name="704dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1280px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",CNN en Espanol
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/67.m3u8
+http://45.232.210.1:8062/play/a083/index.m3u8
 
 #EXTINF:-1 tvg-chno="244" tvg-id="EuronewsEspanol.mx" tvg-name="EuronewsEspanol.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1920px-Euronews_2016_logo.svg.png",Euronews Espanol
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
@@ -329,10 +329,10 @@ http://45.232.210.1:47000/play/foodnetworkhd
 http://45.232.210.1:47000/play/a074
 
 #EXTINF:-1 tvg-chno="285" tvg-id="230dtv.cl" tvg-name="230dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1280px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png",Mas Chic
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/127.m3u8
+http://181.189.243.254:8000/play/a0nu/index.m3u8
 
 #EXTINF:-1 tvg-chno="286" tvg-id="224dtvc." tvg-name="224dtvc." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png",Glitz
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/114.m3u8
+https://bit.ly/3yP5tB7
 
 #EXTINF:-1 tvg-chno="287" tvg-id="225dtv.cl" tvg-name="225dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1920px-Pasiones_Tv_logo.svg.png",Pasiones
 http://45.232.210.1:58000/play/pasioneshd
