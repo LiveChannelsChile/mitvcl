@@ -418,11 +418,6 @@ http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/6110
 http://45.232.210.1:47000/play/a0fb
 
 
-#EXTINF:-1 tvg-id="CNNInternational(English).mx" tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cnn.png" group-title="INFORMACIÓN",CNN International
-https://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo03.php?key=SrRegio&c=186&f=.m3u8
-#EXTINF:-1 tvg-id="CNNEnEspanol.mx" tvg-name="CNN En Español" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cnne.png" group-title="INFORMACIÓN",CNN En Español
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o7.png" group-title="PRV", CNN Internacional
-http://190.83.119.67:8000/play/a0o7/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ps.png" group-title="PRV", CNNE
+http://190.83.119.67:8000/play/a0ps/index.m3u8
 
