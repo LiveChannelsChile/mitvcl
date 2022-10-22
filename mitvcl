@@ -213,7 +213,7 @@ http://iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/6818.ts
 http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-chno="184" tvg-id="1638dtv.cl" tvg-name="1638dtv.cl" tvg-logo="http://www.teletraktv.cl/wp-content/uploads/2019/04/cropped-MOSCA-TELETRAK-DIAGONAL_00300-3.png",Teletrak
-https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+https://mdstrm.com/live-stream-playlist/62616df888feb366839a3eb5.m3u8
 
 
 #EXTINF:-1 tvg-chno="201" tvg-id="732dtv.cl" tvg-name="732dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png",Discovery Channel
@@ -291,7 +291,7 @@ http://45.162.135.1:1080/play/a07a
 
 
 #EXTINF:-1 tvg-chno="241" tvg-id="706dtv.cl" tvg-name="706dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-CNN.png",CNN International
-http://46.19.226.152:4000/play/a070
+ http://190.83.119.67:8000/play/a0o7/index.m3u8
 
 #EXTINF:-1 tvg-chno="242" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1920px-Euronews_2016_logo.svg.png",Euronews English
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
