@@ -22,7 +22,7 @@ http://45.232.210.1:47000/play/a08g
 #EXTINF:-1 tvg-chno="107" tvg-id="chv.cl" tvg-name="chv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/151.png",Chilevision
 http://45.232.210.1:47000/play/a08n
 
-#EXTINF:-1 tvg-chno="108" tvg-id="152directv.cl" tvg-name="152directv.cl" tvg-logo="https://e7.pngegg.com/pngimages/892/533/png-clipart-chile-canal-13-logo-television-channel-grupo-antena-3-television-text.png",Canal 13
+#EXTINF:-1 tvg-chno="108" tvg-id="152directv.cl" tvg-name="152directv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Logotipo_de_Canal_13_Chile_%282010%E2%80%932018%29.svg/120px-Logotipo_de_Canal_13_Chile_%282010%E2%80%932018%29.svg.png",Canal 13
 http://45.232.210.1:47000/play/a07a
 
 #EXTINF:-1 tvg-chno="109" tvg-id="ZonaLatina.cl" tvg-name="ZonaLatina.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.Zona_Latina_White_2021.png.a50b98547cde92d001e216570c44a6eb.png",Zona Latina
