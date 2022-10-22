@@ -418,9 +418,50 @@ http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/6110
 http://45.232.210.1:47000/play/a0fb
 
 
-#EXTINF:-1 group-title="Lista 24", CNNSPA 24
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/503.m3u8
 
-#EXTINF:-1 group-title="Lista 24", CNN ESPAÑOL 24
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/684.m3u8
-
+#EXTINF:-1 group-title="Lista 24", ABC NEW YORK
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/728.m3u8
+#EXTINF:-1 group-title="Lista 24", PBS HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/773.m3u8
+#EXTINF:-1 group-title="Lista 24", CW HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/732.m3u8
+#EXTINF:-1 group-title="Lista 24", NBC NEW YORK
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/601.m3u8
+#EXTINF:-1 group-title="Lista 24", NBC5CHICAGO
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/602.m3u8
+#EXTINF:-1 group-title="Lista 24", NBCMIAMI
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/603.m3u8
+#EXTINF:-1 group-title="Lista 24", NBCNY
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/604.m3u8
+#EXTINF:-1 group-title="Lista 24", FOX11LA
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/533.m3u8
+#EXTINF:-1 group-title="Lista 24", FOX2CHICAGO
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/534.m3u8
+#EXTINF:-1 group-title="Lista 24", FOX2DETROIT
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/535.m3u8
+#EXTINF:-1 group-title="Lista 24", FOX2SANFRANCISCO
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/536.m3u8
+#EXTINF:-1 group-title="Lista 24", FOX32CHICAGO
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/537.m3u8
+#EXTINF:-1 group-title="Lista 24", FOX4
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/538.m3u8
+#EXTINF:-1 group-title="Lista 24", FOX5NEWYORK
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/539.m3u8
+#EXTINF:-1 group-title="Lista 24", FOX7MIAMI
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/540.m3u8
+#EXTINF:-1 group-title="Lista 24", CBS11HOUSTON
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/491.m3u8
+#EXTINF:-1 group-title="Lista 24", CBS2CHICAGO
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/492.m3u8
+#EXTINF:-1 group-title="Lista 24", CBS4TEXAS
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/493.m3u8
+#EXTINF:-1 group-title="Lista 24", CBSKPIX
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/494.m3u8
+#EXTINF:-1 group-title="Lista 24", CBSLA
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/495.m3u8
+#EXTINF:-1 group-title="Lista 24", CBSMIAMI
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/496.m3u8
+#EXTINF:-1 group-title="Lista 24", CBSNEWYORK
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/497.m3u8
+#EXTINF:-1 group-title="Lista 24", CBSNY
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/498.m3u8
