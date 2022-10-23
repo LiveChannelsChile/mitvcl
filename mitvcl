@@ -124,9 +124,9 @@ http://45.232.210.1:8062/play/a09f/index.m3u8
 http://190.83.119.67:8000/play/a0r6/index.m3u8
 
 #EXTINF:-1 tvg-chno="147" tvg-id="514dtv.cl" tvg-name="514dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png",Cine Latino
-http://190.83.119.67:8000/play/a0tl/index.m3u8
+http://190.61.101.9:8000/play/a02h/index.m3u8
 
-#EXTINF:-1 tvg-chno="148" tvg-id="Multipremier.mx" tvg-name="Multipremier.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1280px-Multipremier_logo.svg.png",Multipremier
+#EXTIhttp://160.20.164.171:8001/play/a021/index.m3u8NF:-1 tvg-chno="148" tvg-id="Multipremier.mx" tvg-name="Multipremier.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1280px-Multipremier_logo.svg.png",Multipremier
 http://190.83.119.67:8000/play/a0tm/index.m3u8
 
 #EXTINF:-1 tvg-chno="149" tvg-id="Multicinema.mx" tvg-name="Multicinema.mx" tvg-logo="https://telmex.com/documents/23521/66016/MC.png/d9bec0a2-f0da-3612-e56b-5f005b9251b0?t=1648247587000",Multicinema
@@ -310,7 +310,7 @@ http://45.232.210.1:58000/play/mtvhd
 http://190.83.119.67:8000/play/a0rg/index.m3u8
 
 #EXTINF:-1 tvg-chno="263" tvg-id="ConcertChannel.ar" tvg-name="ConcertChannel.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Concert2015.png/revision/latest/scale-to-width-down/656?cb=20210423194157&path-prefix=es",Concert Channel
-http://190.83.119.67:8000/play/a0oq/index.m3u8
+https://normie.me/concert
 
 #EXTINF:-1 tvg-chno="264" tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/869156d90e27d6c6e09dc5a8f0017838.png",Zapping Music
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
@@ -351,7 +351,7 @@ http://190.83.119.67:8000/play/a0nv/index.m3u8
 http://190.83.119.67:8000/play/a0q9/index.m3u8
 
 #EXTINF:-1 tvg-chno="304" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png",Univision
-http://190.83.119.67:8000/play/a0v0/index.m3u8
+http://190.61.102.67:8000/play/a05d
 
 
 #EXTINF:-1 tvg-chno="321" tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_02/large.2.png.ee7314e2d55fc99f91cede718077b31d.png",EWTN
@@ -378,19 +378,19 @@ http://160.20.164.171:8001/play/a07f/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="361" tvg-id="576dtv.cl" tvg-name="576dtv.cl" tvg-logo="https://universalplus.com/files/channels/398064723.png",Universal Premiere
-http://190.83.119.67:8000/play/a0ui/index.m3u8
+http://190.61.102.67:8000/play/a067
 
 #EXTINF:-1 tvg-chno="362" tvg-id="1572dtv.cl" tvg-name="1572dtv.cl" tvg-logo="https://universalplus.com/files/channels/731381553.png",Universal Cinema
-http://190.83.119.67:8000/play/a0v2/index.m3u8
+http://190.61.102.67:8000/play/a05f
 
 #EXTINF:-1 tvg-chno="363" tvg-id="1573dtv.cl" tvg-name="1573dtv.cl" tvg-logo="https://universalplus.com/files/channels/172050409.png",Universal Comedy
-http://190.83.119.67:8000/play/a0t1/index.m3u8
+http://190.61.102.67:8000/play/a06b
 
 #EXTINF:-1 tvg-chno="364" tvg-id="" tvg-name="" tvg-logo="https://universalplus.com/files/channels/780277389.png",Universal Crime
-http://190.83.119.67:8000/play/a0t0/index.m3u8
+http://190.61.102.67:8000/play/a06a
 
 #EXTINF:-1 tvg-chno="365" tvg-id="" tvg-name="" tvg-logo="https://universalplus.com/files/channels/120254749.png",Universal Reality
-http://190.83.119.67:8000/play/a0sz/index.m3u8
+http://190.61.102.67:8000/play/a069
 
 
 #EXTINF:-1 tvg-chno="381" tvg-id="1481dtv.cl" tvg-name="1481dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png",HBO
