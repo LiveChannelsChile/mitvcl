@@ -260,8 +260,6 @@ http://45.232.210.1:58000/play/a05b
 
 
 #EXTINF:-1 tvg-chno="221" tvg-id="304dtv.cl" tvg-name="304dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
-http://160.20.164.171:8001/play/a003
-
 http://190.83.119.67:8000/play/a0op/index.m3u8
 
 http://45.232.210.1:8061/play/a05i
