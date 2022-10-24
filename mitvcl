@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-chno="101" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png",Telecanal
 https://unlimited1-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="102" tvg-id="lared.cl" tvg-name="lared.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Emblema_de_La_Red.png",La Red
+#EXTINF:-1 tvg-chno="102" tvg-id="148red.cl" tvg-name="148red.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Emblema_de_La_Red.png",La Red
 http://45.232.210.1:47000/play/laredhd
 
 #EXTINF:-1 tvg-chno="103" tvg-id="TVPlus.cl" tvg-name="TVPlus.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",TV+
@@ -13,16 +13,16 @@ http://45.232.210.1:47000/play/a058
 #EXTINF:-1 tvg-chno="104" tvg-id="" tvg-name="" tvg-logo="https://ucvtv.cl/imagenes/logo-ucv-200.png",UCV
 https://marine2.miplay.cl/ucv3/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="105" tvg-id="149dtv.cl" tvg-name="149dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/TVN2020.svg/1920px-TVN2020.svg.png",TVN
+#EXTINF:-1 tvg-chno="105" tvg-id="149tvn.cl" tvg-name="149tvn.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/TVN2020.svg/1920px-TVN2020.svg.png",TVN
 http://45.232.210.1:47000/play/a06r
 
-#EXTINF:-1 tvg-chno="106" tvg-id="mega.cl" tvg-name="mega.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Mega_Chile_2020.png",Mega
+#EXTINF:-1 tvg-chno="106" tvg-id="150mega.cl" tvg-name="150mega.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Mega_Chile_2020.png",Mega
 http://45.232.210.1:47000/play/a08g
 
-#EXTINF:-1 tvg-chno="107" tvg-id="chv.cl" tvg-name="chv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/151.png",Chilevision
+#EXTINF:-1 tvg-chno="107" tvg-id="151chv.cl" tvg-name="151chv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/151.png",Chilevision
 http://45.232.210.1:47000/play/a08n
 
-#EXTINF:-1 tvg-chno="108" tvg-id="152directv.cl" tvg-name="152directv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Logotipo_de_Canal_13_Chile_%282010%E2%80%932018%29.svg/2359px-Logotipo_de_Canal_13_Chile_%282010%E2%80%932018%29.svg.png",Canal 13
+#EXTINF:-1 tvg-chno="108" tvg-id="152c13.cl" tvg-name="152c13.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Logotipo_de_Canal_13_Chile_%282010%E2%80%932018%29.svg/2359px-Logotipo_de_Canal_13_Chile_%282010%E2%80%932018%29.svg.png",Canal 13
 http://45.232.210.1:8061/play/a07a
 
 #EXTINF:-1 tvg-chno="109" tvg-id="ZonaLatina.cl" tvg-name="ZonaLatina.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.Zona_Latina_White_2021.png.a50b98547cde92d001e216570c44a6eb.png",Zona Latina
@@ -34,13 +34,13 @@ http://45.232.210.1:8062/play/a092/index.m3u8
 #EXTINF:-1 tvg-chno="111" tvg-id="RecTV.cl" tvg-name="RecTV.cl" tvg-logo="https://static.13.cl/7/sites/all/themes/rec_v2/images/logo-white2_2018.png?202201131402",REC TV
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/52.ts
 
-#EXTINF:-1 tvg-chno="112" tvg-id="1156dtv.cl" tvg-name="1156dtv.cl" tvg-logo="https://static.13.cl/7/sites/all/themes/cable/resources/images/logo-13c_2018.png",13C
+#EXTINF:-1 tvg-chno="112" tvg-id="13c.cl" tvg-name="13c.cl" tvg-logo="https://static.13.cl/7/sites/all/themes/cable/resources/images/logo-13c_2018.png",13C
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/46.ts
 
 #EXTINF:-1 tvg-chno="113" tvg-id="707dtv.cl" tvg-name="707dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/512px-CNN_Chile_logo_2017.svg.png",CNN Chile
 http://45.232.210.1:47000/play/cnnchilehd
 
-#EXTINF:-1 tvg-chno="114" tvg-id="24horas.cl" tvg-name="24horas.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_24HorasTVN.svg/1920px-Logo_24HorasTVN.svg.png",Canal 24 Horas
+#EXTINF:-1 tvg-chno="114" tvg-id="15324hr.cl" tvg-name="15324hr.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_24HorasTVN.svg/1920px-Logo_24HorasTVN.svg.png",Canal 24 Horas
 http://45.232.210.1:47000/play/a07d
 
 #EXTINF:-1 tvg-chno="115" tvg-id="CanalDiputados.cl" tvg-name="CanalDiputados.cl" tvg-logo="https://www.camara.cl/img/escudo2.jpg",Camara TV
@@ -95,13 +95,13 @@ http://45.160.12.253:8000/play/101
 #EXTINF:-1 tvg-chno="133" tvg-id="228dtv.cl" tvg-name="228dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png",Lifetime
 http://45.160.12.253:8000/play/100
 
-#EXTINF:-1 tvg-chno="134" tvg-id="217dtv.cl" tvg-name="217dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1920px-FX_International_logo.svg.png",FX
+#EXTINF:-1 tvg-chno="134" tvg-id="217fx.cl" tvg-name="217fx.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1920px-FX_International_logo.svg.png",FX
 http://190.83.119.67:8000/play/a0qa/index.m3u8
 
 #EXTINF:-1 tvg-chno="135" tvg-id="518dtv.cl" tvg-name="518dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1920px-SpaceLogo.svg.png",Space
 http://45.232.210.1:47000/play/a06g
 
-#EXTINF:-1 tvg-chno="136" tvg-id="1513dtv.cl" tvg-name="1513dtv.cl" tvg-logo="https://www.canaldhe.com/wp-content/uploads/2019/09/Logotipo-DHE-124x66-px.png",DHE
+#EXTINF:-1 tvg-chno="136" tvg-id="1741dhehd.cl" tvg-name="1741dhehd.cl" tvg-logo="https://www.canaldhe.com/wp-content/uploads/2019/09/Logotipo-DHE-124x66-px.png",DHE
 http://45.232.210.1:47000/play/a0dz
 
 
@@ -175,7 +175,7 @@ https://bit.ly/3S65do3
 #EXTINF:-1 tvg-chno="167" tvg-id="612directv.cl" tvg-name="612directv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1920px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",DIRECTV Sports 2
 http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/42
 
-#EXTINF:-1 tvg-chno="168" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png",DIRECTV Sports +
+#EXTINF:-1 tvg-chno="168" tvg-id="179dts+.cl" tvg-name="179dts+.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png",DIRECTV Sports +
 http://line.powerdino.com:80/4375a1dd43/649f75a876/628275
 
 #EXTINF:-1 tvg-chno="169" tvg-id="" tvg-name="DIRECTV Sports Fight" tvg-logo="https://seeklogo.com/images/D/directv-sports-fight-logo-BBD16A544F-seeklogo.com.png",DIRECTV Sports Fight
@@ -203,7 +203,7 @@ http://45.224.23.209:8000/play/a081/index.m3u8
 http://190.83.119.67:8000/play/a0qg/index.m3u8
 
 
-#EXTINF:-1 tvg-chno="181" tvg-id="tntsports.cl" tvg-name="tntsports.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_hd_blanco.png.8effa63ae6fa3bb793919341e5fc1c8d.png",TNT Sports HD
+#EXTINF:-1 tvg-chno="181" tvg-id="1631tntshd.cl" tvg-name="1631tntshd.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_hd_blanco.png.8effa63ae6fa3bb793919341e5fc1c8d.png",TNT Sports HD
 http://45.232.210.1:47000/play/cdfhd
 
 #EXTINF:-1 tvg-chno="182" tvg-id="tntsports2.cl" tvg-name="tntsports2.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_2_blanco.png.431ff1b3ae8a01b855d8206073766f17.png",TNT Sports 2
@@ -240,7 +240,7 @@ http://45.232.210.1:47000/play/a0al
 #EXTINF:-1 tvg-chno="208" tvg-id="740dtv.cl" tvg-name="740dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1920px-TLC_Logo.svg.png",TLC
 http://45.232.210.1:8062/play/a091/index.m3u8
 
-#EXTINF:-1 tvg-chno="209" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1920px-HGTV_US_Logo_2015.svg.png",HGTV
+#EXTINF:-1 tvg-chno="209" tvg-id="1493hgtvhd.cl" tvg-name="1493hgtvhd.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1920px-HGTV_US_Logo_2015.svg.png",HGTV
 http://190.83.119.67:8000/play/a0nx/index.m3u8
 
 #EXTINF:-1 tvg-chno="210" tvg-id="223dtv.cl" tvg-name="223dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1920px-InvestigationDiscoveryLogo2020.svg.png",Investigation Discovery
@@ -367,7 +367,7 @@ https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-id="517dtv.cl" tvg-name="517dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png",Golden Edge
 http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/13628
 
-#EXTINF:-1 tvg-chno="343" tvg-id="1126gldnhd.cl" tvg-name="1503dtv.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es",Golden Plus
+#EXTINF:-1 tvg-chno="343" tvg-id="1126gldnhd.cl" tvg-name="1126gldnhd.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es",Golden Plus
 http://45.232.210.1:47000/play/goldenhd
 
 #EXTINF:-1 tvg-chno="344" tvg-id="GoldenPremier.co" tvg-name="GoldenPremier.co" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest/scale-to-width-down/350?cb=20201202010915&path-prefix=es",Golden Premier
