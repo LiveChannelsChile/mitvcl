@@ -136,7 +136,7 @@ http://160.20.164.171:8001/play/a039/index.m3u8
 http://190.131.247.82:8000/play/a05v
 
 #EXTINF:-1 tvg-chno="151" tvg-id="" tvg-name="" tvg-logo="https://www.kanalddrama.com/assets/img/logo_bottom2.png",Kanal D Drama
-http://209.45.95.18:8000/play/a053
+http://45.232.211.195:1080/play/a05k
 
 #EXTINF:-1 tvg-chno="152" tvg-id="210dtv.cl" tvg-name="210dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1920px-AMC_logo_2019.svg.png",AMC
 http://45.232.210.1:47000/play/a056
@@ -397,6 +397,8 @@ http://190.61.102.67:8000/play/a069
 http://45.232.210.1:8062/play/a0b3/index.m3u8
 
 #EXTINF:-1 tvg-chno="382" tvg-id="525dtv.cl" tvg-name="525dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/1920px-HBO2_logo.svg.png",HBO 2
+http://181.143.231.99:9000/play/a03z
+
 http://200.24.141.3:4000/play/a0p5/index.m3u8
 
 http://160.20.164.171:8001/play/a070
