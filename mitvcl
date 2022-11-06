@@ -416,3 +416,13 @@ http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/6110
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
+
+
+#EXTINF:-1,ETC
+http://45.167.194.11:8000/play/a00n
+
+#EXTINF:-1,Rectv
+http://45.167.194.11:8000/play/a00z
+
+#EXTINF:-1,13 Cable
+http://45.167.194.11:8000/play/a010
