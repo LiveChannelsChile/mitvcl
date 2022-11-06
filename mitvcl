@@ -397,11 +397,7 @@ http://190.61.102.67:8000/play/a069
 http://45.232.210.1:8062/play/a0b3/index.m3u8
 
 #EXTINF:-1 tvg-chno="382" tvg-id="525dtv.cl" tvg-name="525dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/1920px-HBO2_logo.svg.png",HBO 2
-http://181.143.231.99:9000/play/a03z
-
 http://200.24.141.3:4000/play/a0p5/index.m3u8
-
-http://160.20.164.171:8001/play/a070
 
 #EXTINF:-1 tvg-chno="383" tvg-id="526dtv.cl" tvg-name="526dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1920px-Logohboplus2019.svg.png",HBO Plus
 http://131.196.194.2:8000/play/a0cy/index.m3u8
