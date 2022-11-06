@@ -416,3 +416,13 @@ http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/6110
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
+
+
+#EXTINF:-1 tvg-chno="411" tvg-id="RecTV.cl" tvg-name="RecTV.cl" tvg-logo="https://static.13.cl/7/sites/all/themes/rec_v2/images/logo-white2_2018.png?202201131402",REC TV
+http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/52.ts
+
+#EXTINF:-1 tvg-chno="412" tvg-id="1156dtv.cl" tvg-name="1156dtv.cl" tvg-logo="https://static.13.cl/7/sites/all/themes/cable/resources/images/logo-13c_2018.png",13C
+http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/46.ts
+
+#EXTINF:-1 tvg-chno="418" tvg-id="etctv.cl" tvg-name="etctv.cl" tvg-logo="https://static.etc.cl/_common/images/logoetc_2015.png",ETC
+http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/1513.ts
