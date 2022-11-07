@@ -418,7 +418,7 @@ http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/6110
 http://45.232.210.1:47000/play/a0fb
 
 
-#EXTINF:-1 tvg-chno="401, Playboy
+#EXTINF:-1 tvg-chno="401", Playboy
 http://45.232.211.196:1080/play/a055
 
 #EXTINF:-1 tvg-chno="402", Venus
@@ -427,3 +427,9 @@ http://45.232.210.1:8062/play/a0ca/index.m3u8
 #EXTINF:-1 tvg-chno="403", Sextreme
 http://170.83.242.155:5350/play/a0tt
 
+#EXTINF:-1,Penthouse
+http://95.169.222.98:8800/udp/239.100.12.2:8888
+#EXTINF:-1,Passion XXX
+http://95.169.222.98:8800/udp/239.100.12.3:8888
+#EXTINF:-1,Passion XXX2
+http://95.169.222.98:8800/udp/239.100.12.47:8888
