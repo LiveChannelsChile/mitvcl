@@ -419,7 +419,7 @@ http://45.232.210.1:47000/play/a0fb
 
 
 #EXTINF:-1,Playboy HD
-http://206.62.165.54:8000/play/a0hr
+http://45.232.211.196:1080/play/a055
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ow.png", Playboy
 http://190.83.119.67:8000/play/a0ow/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rn.png", VENUS
