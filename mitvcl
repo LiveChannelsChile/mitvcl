@@ -423,18 +423,3 @@ http://45.232.211.196:1080/play/a055
 
 #EXTINF:-1 tvg-chno="402", 402
 http://45.232.210.1:8062/play/a0ca/index.m3u8
-
-#EXTINF:-1 tvg-chno="403", 403
-http://200.59.213.33:8000/play/a01o/index.m3u8
-
-
-#EXTINF:-1 tvg-id="directvsports2.ec",DEPORTES | DIRECTV Sports 2
-http://51.222.241.122:8000/play/a03s
-#EXTINF:-1,DEPORTES | DirecTV Sports
-http://51.222.241.122:8000/play/a03r
-#EXTINF:-1 tvg-id="directtvsportplus.ar",Deportes HD | DirecTV Sports + HD
-http://51.222.241.122:8000/play/a050
-#EXTINF:-1 tvg-id="directvsports1.ec",Deportes HD | DirecTV Sports 1 HD
-http://51.222.241.122:8000/play/a04y
-#EXTINF:-1 tvg-id="directvsports2.ec",Deportes HD | DirecTV Sports 2 HD
-http://51.222.241.122:8000/play/a04z
