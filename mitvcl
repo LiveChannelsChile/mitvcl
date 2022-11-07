@@ -418,9 +418,21 @@ http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/6110
 http://45.232.210.1:47000/play/a0fb
 
 
+#EXTINF:-1,Playboy HD
+http://206.62.165.54:8000/play/a0hr
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ow.png", Playboy
 http://190.83.119.67:8000/play/a0ow/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rn.png", VENUS
-http://190.83.119.67:8000/play/a0rn/index.m3u8
-#EXTINF:-1, Venus
 http://45.232.210.1:8062/play/a0ca/index.m3u8
+#EXTINF:-1,Venus
+http://206.62.165.54:8000/play/a0pt
+
+#EXTINF:-1,13 Cable
+http://45.167.194.11:8000/play/a010
+#EXTINF:-1,Rectv
+http://45.167.194.11:8000/play/a00z
+#EXTINF:-1,ETC
+http://45.167.194.11:8000/play/a00n
+#EXTINF:-1,PAKA PAKA
+http://45.167.194.11:8000/play/a00f
+
