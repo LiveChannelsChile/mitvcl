@@ -170,7 +170,7 @@ http://160.20.164.171:8001/play/a04r
 http://45.232.210.1:58000/play/a05e
 
 #EXTINF:-1 tvg-chno="166" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV Sports
-https://normie.me/dtvspcl
+https://normie.me/dtvcl
 
 #EXTINF:-1 tvg-chno="167" tvg-id="612directv.cl" tvg-name="612directv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1920px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",DIRECTV Sports 2
 http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/42
@@ -179,7 +179,7 @@ http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/42
 http://line.powerdino.com:80/4375a1dd43/649f75a876/628275
 
 #EXTINF:-1 tvg-chno="169" tvg-id="" tvg-name="DIRECTV Sports Fight" tvg-logo="https://seeklogo.com/images/D/directv-sports-fight-logo-BBD16A544F-seeklogo.com.png",DIRECTV Sports Fight
-https://normie.me/dtvspfight
+https://normie.me/dtvfight
 
 #EXTINF:-1 tvg-chno="170" tvg-id="ClaroSports.co" tvg-name="ClaroSports.co" tvg-logo="https://i.imgur.com/fbKQZ1X.png",Claro Sports
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
