@@ -185,6 +185,8 @@ https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
 http://line.powerdino.com:80/4375a1dd43/649f75a876/628275
 
 #EXTINF:-1 tvg-chno="169" tvg-id="" tvg-name="DIRECTV Sports Fight" tvg-logo="https://seeklogo.com/images/D/directv-sports-fight-logo-BBD16A544F-seeklogo.com.png",DIRECTV Sports Fight
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvfigth.json
 https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd
 
 https://normie.me/dtvspfight
