@@ -32,7 +32,7 @@ http://45.232.210.1:8062/play/a09h/index.m3u8
 http://45.232.210.1:8062/play/a092/index.m3u8
 
 #EXTINF:-1 tvg-chno="111" tvg-id="RecTV.cl" tvg-name="RecTV.cl" tvg-logo="https://static.13.cl/7/sites/all/themes/rec_v2/images/logo-white2_2018.png?202201131402",REC TV
-http://38.7.204.131:8000/play/a00q/index.m3u8
+https://n9.cl/3onuu
 
 #EXTINF:-1 tvg-chno="112" tvg-id="13C.cl" tvg-name="13C.cl" tvg-logo="https://static.13.cl/7/sites/all/themes/cable/resources/images/logo-13c_2018.png",13C
 https://n9.cl/n29bv
@@ -194,7 +194,7 @@ http://45.232.210.1:47000/play/a0at
 http://45.232.210.1:47000/play/foxsports3hd
 
 #EXTINF:-1 tvg-chno="174" tvg-id="629dtv.cl" tvg-name="629dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1920px-TyC_Sports_logo.svg.png",TyC Sports
-http://200.41.79.165:8000/play/a05v/index.m3u8
+http://160.20.164.171:8001/play/a051
 
 #EXTINF:-1 tvg-chno="175" tvg-id="658dtv.ec" tvg-name="658dtv.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1920px-GolTV_logo.svg.png" group-title="DEPORTES",Gol TV
 http://160.20.164.171:8001/play/a050
