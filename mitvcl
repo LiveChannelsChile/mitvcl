@@ -22,7 +22,7 @@ http://45.232.210.1:47000/play/a08g
 #EXTINF:-1 tvg-chno="107" tvg-id="chv.cl" tvg-name="chv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/151.png",Chilevision
 http://45.232.210.1:47000/play/a08n
 
-#EXTINF:-1 tvg-chno="108" tvg-id="152directv.cl" tvg-name="152directv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Logotipo_de_Canal_13_Chile_%282010%E2%80%932018%29.svg/2359px-Logotipo_de_Canal_13_Chile_%282010%E2%80%932018%29.svg.png",Canal 13
+#EXTINF:-1 tvg-chno="108" tvg-id="1156dtv.cl" tvg-name="1156dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Logotipo_de_Canal_13_Chile_%282010%E2%80%932018%29.svg/2359px-Logotipo_de_Canal_13_Chile_%282010%E2%80%932018%29.svg.png",Canal 13
 http://45.232.210.1:8061/play/a07a
 
 #EXTINF:-1 tvg-chno="109" tvg-id="ZonaLatina.cl" tvg-name="ZonaLatina.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.Zona_Latina_White_2021.png.a50b98547cde92d001e216570c44a6eb.png",Zona Latina
@@ -34,7 +34,7 @@ http://45.232.210.1:8062/play/a092/index.m3u8
 #EXTINF:-1 tvg-chno="111" tvg-id="RecTV.cl" tvg-name="RecTV.cl" tvg-logo="https://static.13.cl/7/sites/all/themes/rec_v2/images/logo-white2_2018.png?202201131402",REC TV
 https://normie.me/rec
 
-#EXTINF:-1 tvg-chno="112" tvg-id="1156dtv.cl" tvg-name="1156dtv.cl" tvg-logo="https://static.13.cl/7/sites/all/themes/cable/resources/images/logo-13c_2018.png",13C
+#EXTINF:-1 tvg-chno="112" tvg-id="13C.cl" tvg-name="13C.cl" tvg-logo="https://static.13.cl/7/sites/all/themes/cable/resources/images/logo-13c_2018.png",13C
 https://normie.me/13c
 
 #EXTINF:-1 tvg-chno="113" tvg-id="707dtv.cl" tvg-name="707dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/512px-CNN_Chile_logo_2017.svg.png",CNN Chile
@@ -43,7 +43,7 @@ http://45.232.210.1:47000/play/cnnchilehd
 #EXTINF:-1 tvg-chno="114" tvg-id="24horas.cl" tvg-name="24horas.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_24HorasTVN.svg/1920px-Logo_24HorasTVN.svg.png",Canal 24 Horas
 http://45.232.210.1:47000/play/a07d
 
-#EXTINF:-1 tvg-chno="115" tvg-id="CanalDiputados.cl" tvg-name="CanalDiputados.cl" tvg-logo="https://www.camara.cl/img/escudo2.jpg",Camara TV
+#EXTINF:-1 tvg-chno="115" tvg-id="155dtv.cl" tvg-name="155dtv.cl" tvg-logo="https://www.camara.cl/img/escudo2.jpg",Camara TV
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="116" tvg-id="TVSenado.cl" tvg-name="TVSenado.cl" tvg-logo="https://tv.senado.cl/tvsenado/site/artic/20160901/imag/foto_0000000920160901163145.png",TV Senado
