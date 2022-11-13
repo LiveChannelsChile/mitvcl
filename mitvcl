@@ -418,5 +418,11 @@ http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/6110
 http://45.232.210.1:47000/play/a0fb
 
 
-#EXTINF:-1 tvg-chno="36",TNT SPORTS 2
-http://45.181.121.57:8111/play/234
+#EXTINF:-1 group-title="CINE", 120 MX Family HD
+http://170.79.235.29:8000/play/120
+#EXTINF:-1 group-title="CINE", 121 MX Classic HD
+http://170.79.235.29:8000/play/121
+#EXTINF:-1 group-title="CINE", 122 MX Prime HD
+http://170.79.235.29:8000/play/122
+#EXTINF:-1 group-title="CINE", 123 MX Old HD
+http://170.79.235.29:8000/play/123
