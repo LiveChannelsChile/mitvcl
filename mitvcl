@@ -426,3 +426,8 @@ http://170.79.235.29:8000/play/121
 http://170.79.235.29:8000/play/122
 #EXTINF:-1 group-title="CINE", 123 MX Old HD
 http://170.79.235.29:8000/play/123
+
+#EXTINF:-1 group-title="VTR", CDF PREMIUM
+http://45.232.210.1:8062/play/a08a/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", 234 TNT Sports 2
+http://170.79.235.29:8000/play/234
