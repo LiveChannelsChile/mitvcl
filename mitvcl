@@ -250,7 +250,7 @@ http://45.232.210.1:47000/play/idhd
 http://45.232.210.1:8062/play/a0bh/index.m3u8
 
 #EXTINF:-1 tvg-chno="212" tvg-id="DiscoveryScienceLatinAmerica.pa" tvg-name="DiscoveryScienceLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/800px-Science_Channel_logo.svg.png",Discovery Science
-http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/13622
+https://n9.cl/5qagd
 
 #EXTINF:-1 tvg-chno="213" tvg-id="DiscoveryTheater.mx" tvg-name="DiscoveryTheater.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1920px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater
 http://45.232.210.1:47000/play/a0am
@@ -365,7 +365,7 @@ https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="342" tvg-id="517dtv.cl" tvg-name="517dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png",Golden Edge
-http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/13628
+https://n9.cl/k9p6nx
 
 #EXTINF:-1 tvg-chno="343" tvg-id="1503dtv.cl" tvg-name="1503dtv.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es",Golden Plus
 http://45.232.210.1:47000/play/goldenhd
