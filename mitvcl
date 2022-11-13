@@ -416,8 +416,3 @@ https://n9.cl/fxunq
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
-
-#EXTINF:-1 group-title="MUSICA", 268 VideRola
-http://190.61.102.67:31589/play/a04c/index.m3u8
-#EXTINF:-1 group-title="MUSICA", 276 Teleritmo
-http://190.61.102.67:31589/play/a03u/index.m3u8
