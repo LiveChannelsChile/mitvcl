@@ -130,7 +130,7 @@ http://190.61.101.9:8000/play/a02h/index.m3u8
 http://160.20.164.171:8001/play/a09k
 
 #EXTINF:-1 tvg-chno="149" tvg-id="Multicinema.mx" tvg-name="Multicinema.mx" tvg-logo="https://telmex.com/documents/23521/66016/MC.png/d9bec0a2-f0da-3612-e56b-5f005b9251b0?t=1648247587000",Multicinema
-http://190.61.102.67:444/play/a00l
+http://190.61.102.67:31589/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-chno="150" tvg-id="" tvg-name="" tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.615120486_CloverChannel.png.5b98947815588c78b3c43fe77e580fe9.png",Clover Channel
 http://190.131.247.82:8000/play/a05v
