@@ -418,5 +418,5 @@ http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/6110
 http://45.232.210.1:47000/play/a0fb
 
 
-EXTINF:-1 tvg-chno="36" tvg-id="beINSportsEnEspanol.us" tvg-name="beINSportsEnEspanol.us" tvg-logo="https://us-static.beinstatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%27301836.png" group-title="DEPORTES",beIN Sports Ñ
+#EXTINF:-1 tvg-chno="36" tvg-id="beINSportsEnEspanol.us" tvg-name="beINSportsEnEspanol.us" tvg-logo="https://us-static.beinstatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%27301836.png",beIN Sports Ñ
 http://51.222.241.122:8000/play/a04e
