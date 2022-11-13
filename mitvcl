@@ -32,7 +32,7 @@ http://45.232.210.1:8062/play/a09h/index.m3u8
 http://45.232.210.1:8062/play/a092/index.m3u8
 
 #EXTINF:-1 tvg-chno="111" tvg-id="RecTV.cl" tvg-name="RecTV.cl" tvg-logo="https://static.13.cl/7/sites/all/themes/rec_v2/images/logo-white2_2018.png?202201131402",REC TV
-https://n9.cl/3onuu
+http://38.7.204.131:8000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-chno="112" tvg-id="13C.cl" tvg-name="13C.cl" tvg-logo="https://static.13.cl/7/sites/all/themes/cable/resources/images/logo-13c_2018.png",13C
 https://n9.cl/n29bv
@@ -416,37 +416,3 @@ https://n9.cl/fxunq
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
-
-
-#EXTINF:-1 tvg-chno="401", 401
-http://45.232.211.196:1080/play/a055
-#EXTINF:-1 tvg-chno="402", 402
-http://45.232.210.1:8062/play/a0ca/index.m3u8
-
-
-EXTINF:-1,13C
-http://38.7.204.131:8000/play/a009/index.m3u8
-#EXTINF:-1,REC TV
-http://38.7.204.131:8000/play/a00q/index.m3u8
-#EXTINF:-1,ETC TV
-http://38.7.204.131:8000/play/a00i/index.m3u8
-#EXTINF:-1, TNT SPORTS 2
-http://45.232.210.1:8062/play/a08a/index.m3u8
-#EXTINF:-1 group-title="CINE", 120 MX Family HD
-http://170.79.235.29:8000/play/120
-#EXTINF:-1 group-title="CINE", 121 MX Classic HD
-http://170.79.235.29:8000/play/121
-#EXTINF:-1 group-title="CINE", 122 MX Prime HD
-http://170.79.235.29:8000/play/122
-#EXTINF:-1 group-title="CINE", 123 MX Old HD
-http://170.79.235.29:8000/play/123
-#EXTINF:-1,PAKA PAKA
-http://45.167.194.11:8000/play/a00f
-#EXTINF:-1,12348 funbox
-http://160.20.165.246:8000/play/a005/index.m3u8
-#EXTINF:-1,12355 LOVE NATURE
-http://160.20.165.246:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="",Smithsonian Channel
-http://megatitan.net:2052/Sebastian6919/Concha3073/423366
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="ARTS" tvg-logo="",ARTS
-http://190.61.102.67:31589/play/a04j/index.m3u8
