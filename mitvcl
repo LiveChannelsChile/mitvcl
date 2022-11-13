@@ -418,18 +418,28 @@ https://n9.cl/fxunq
 http://45.232.210.1:47000/play/a0fb
 
 
-#EXTINF:-1 group-title="VTR", Fox Sports
-http://45.232.210.1:8062/play/a08s/index.m3u8
-
-#EXTINF:-1 group-title="VTR", Fox Sports 2
-http://45.232.210.1:8062/play/a094/index.m3u8
-
-#EXTINF:-1 group-title="VTR", Fox Sports 3
-http://45.232.210.1:8062/play/a095/index.m3u8
-
-#EXTINF:-1 group-title="VTR", Fox Sports Premium
-http://45.232.210.1:8062/play/a08b/index.m3u8
-
-#EXTINF:-1 group-title="VTR", Max Prime
-http://45.232.210.1:8062/play/a08h/index.m3u8
-
+#EXTINF:-1 group-title="LOCALES", 101 Uno
+http://190.61.102.67:31589/play/a04p/index.m3u8
+#EXTINF:-1 group-title="LOCALES", 102 Dos
+http://190.61.102.67:31589/play/a00g/index.m3u8
+#EXTINF:-1 group-title="LOCALES", 103 Imagen
+http://190.61.102.67:31589/play/a00h/index.m3u8
+#EXTINF:-1 group-title="LOCALES", 105 Cinco
+http://190.61.102.67:31589/play/a038/index.m3u8
+#EXTINF:-1 group-title="LOCALES", 106 Multimedios
+http://190.61.102.67:31589/play/a039/index.m3u8
+#EXTINF:-1 group-title="LOCALES", 107 Siete
+http://190.61.102.67:31589/play/a00i/index.m3u8
+#EXTINF:-1 group-title="LOCALES", 111 ONCE
+http://190.61.102.67:31589/play/a03a/index.m3u8
+#EXTINF:-1 group-title="LOCALES", 114 Canal 14
+http://190.61.102.67:31589/play/a044/index.m3u8
+#EXTINF:-1 group-title="LOCALES", 120 UNAM
+http://190.61.102.67:31589/play/a045/index.m3u8
+#EXTINF:-1 group-title="LOCALES", 122 Canal22
+http://190.61.102.67:31589/play/a00j/index.m3u8
+#EXTINF:-1 group-title="LOCALES", 306 IngenioTV
+http://190.61.102.67:31589/play/a04i/index.m3u8
+#EXTINF:-1 group-title="LOCALES", 145 Congreso
+#EXTINF:-1 group-title="INFORMACIÓN", 360 Judicial
+http://190.61.102.67:31589/play/a04n/index.m3u8
