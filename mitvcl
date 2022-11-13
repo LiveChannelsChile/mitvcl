@@ -130,7 +130,7 @@ http://190.61.101.9:8000/play/a02h/index.m3u8
 http://160.20.164.171:8001/play/a09k
 
 #EXTINF:-1 tvg-chno="149" tvg-id="Multicinema.mx" tvg-name="Multicinema.mx" tvg-logo="https://telmex.com/documents/23521/66016/MC.png/d9bec0a2-f0da-3612-e56b-5f005b9251b0?t=1648247587000",Multicinema
-http://160.20.164.171:8001/play/a039/index.m3u8
+http://190.61.102.67:444/play/a00l
 
 #EXTINF:-1 tvg-chno="150" tvg-id="" tvg-name="" tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.615120486_CloverChannel.png.5b98947815588c78b3c43fe77e580fe9.png",Clover Channel
 http://190.131.247.82:8000/play/a05v
@@ -317,7 +317,7 @@ https://normie.me/much
 
 
 #EXTINF:-1 tvg-chno="281" tvg-id="221dtv.cl" tvg-name="221dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg",¡Hola TV!
-http://181.189.243.254:8000/play/a0st/index.m3u8
+http://190.61.102.67:444/play/a063
 
 #EXTINF:-1 tvg-chno="282" tvg-id="222dtv.cl" tvg-name="222dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png",E!
 http://45.232.210.1:8061/play/a0ff
@@ -329,7 +329,7 @@ http://45.232.210.1:47000/play/foodnetworkhd
 http://45.232.210.1:47000/play/a074
 
 #EXTINF:-1 tvg-chno="285" tvg-id="230dtv.cl" tvg-name="230dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1280px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png",Mas Chic
-http://181.189.243.254:8000/play/a0nu/index.m3u8
+http://190.61.102.67:444/play/a00a
 
 #EXTINF:-1 tvg-chno="286" tvg-id="224dtvc." tvg-name="224dtvc." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png",Glitz
 https://bit.ly/3yP5tB7
