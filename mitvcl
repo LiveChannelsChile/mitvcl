@@ -130,7 +130,7 @@ http://190.61.101.9:8000/play/a02h/index.m3u8
 http://190.61.102.67:31589/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-chno="149" tvg-id="Multipremier.mx" tvg-name="Multipremier.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1280px-Multipremier_logo.svg.png",Multipremier
-http://160.20.164.171:8001/play/a09k
+http://190.92.40.230:8000/play/a072/index.m3u8
 
 #EXTINF:-1 tvg-chno="150" tvg-id="" tvg-name="" tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.615120486_CloverChannel.png.5b98947815588c78b3c43fe77e580fe9.png",Clover Channel
 http://190.131.247.82:8000/play/a05v
@@ -416,11 +416,3 @@ http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/6110
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
-
-
-#EXTINF:-1,13C
-http://38.7.204.131:8000/play/a009/index.m3u8
-#EXTINF:-1,REC TV
-http://38.7.204.131:8000/play/a00q/index.m3u8
-#EXTINF:-1,ETC TV
-http://38.7.204.131:8000/play/a00i/index.m3u8
