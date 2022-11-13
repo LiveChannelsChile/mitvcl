@@ -416,3 +416,20 @@ https://n9.cl/fxunq
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
+
+
+#EXTINF:-1 group-title="VTR", Fox Sports
+http://45.232.210.1:8062/play/a08s/index.m3u8
+
+#EXTINF:-1 group-title="VTR", Fox Sports 2
+http://45.232.210.1:8062/play/a094/index.m3u8
+
+#EXTINF:-1 group-title="VTR", Fox Sports 3
+http://45.232.210.1:8062/play/a095/index.m3u8
+
+#EXTINF:-1 group-title="VTR", Fox Sports Premium
+http://45.232.210.1:8062/play/a08b/index.m3u8
+
+#EXTINF:-1 group-title="VTR", Max Prime
+http://45.232.210.1:8062/play/a08h/index.m3u8
+
