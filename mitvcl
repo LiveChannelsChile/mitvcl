@@ -416,3 +416,26 @@ https://n9.cl/fxunq
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
+
+
+#EXTINF:-1, 1
+http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/13601
+#EXTINF:-1, 2
+http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/13602
+#EXTINF:-1, 3
+http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/13603
+#EXTINF:-1, 4
+http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/13604
+#EXTINF:-1, 5
+http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/13605
+#EXTINF:-1, 6
+http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/13606
+#EXTINF:-1, 7
+http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/13607
+#EXTINF:-1, 8
+http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/13608
+#EXTINF:-1, 9
+http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/13609
+#EXTINF:-1, 10
+http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/13610
+
