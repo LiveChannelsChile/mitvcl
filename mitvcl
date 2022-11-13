@@ -416,3 +416,13 @@ http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/6110
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
+
+
+#EXTINF:-1,MX Classic
+http://45.167.194.11:8001/play/a01p
+#EXTINF:-1,MX Family
+http://45.167.194.11:8001/play/a01x
+#EXTINF:-1,MX Old
+http://45.167.194.11:8001/play/a01o
+#EXTINF:-1,MX Prime
+http://45.167.194.11:8001/play/a01v
