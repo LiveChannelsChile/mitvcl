@@ -32,10 +32,10 @@ http://45.232.210.1:8062/play/a09h/index.m3u8
 http://45.232.210.1:8062/play/a092/index.m3u8
 
 #EXTINF:-1 tvg-chno="111" tvg-id="RecTV.cl" tvg-name="RecTV.cl" tvg-logo="https://static.13.cl/7/sites/all/themes/rec_v2/images/logo-white2_2018.png?202201131402",REC TV
-https://normie.me/rec
+https://n9.cl/fkupxe
 
 #EXTINF:-1 tvg-chno="112" tvg-id="13C.cl" tvg-name="13C.cl" tvg-logo="https://static.13.cl/7/sites/all/themes/cable/resources/images/logo-13c_2018.png",13C
-https://normie.me/13c
+https://n9.cl/nug3r
 
 #EXTINF:-1 tvg-chno="113" tvg-id="707dtv.cl" tvg-name="707dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/512px-CNN_Chile_logo_2017.svg.png",CNN Chile
 http://45.232.210.1:47000/play/cnnchilehd
@@ -53,7 +53,7 @@ https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?s=tvsenado-hd
 http://45.232.210.1:47000/play/a057
 
 #EXTINF:-1 tvg-chno="118" tvg-id="etctv.cl" tvg-name="etctv.cl" tvg-logo="https://static.etc.cl/_common/images/logoetc_2015.png",ETC
-https://normie.me/etc
+https://n9.cl/wbhbk
 
 
 #EXTINF:-1 tvg-chno="121" tvg-id="1206dtv.cl" tvg-name="1206dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel
@@ -170,7 +170,7 @@ http://160.20.164.171:8001/play/a04r
 http://45.232.210.1:58000/play/a05e
 
 #EXTINF:-1 tvg-chno="166" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV Sports
-https://normie.me/dtvspcl
+https://n9.cl/chl8a
 
 #EXTINF:-1 tvg-chno="167" tvg-id="612directv.cl" tvg-name="612directv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1920px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",DIRECTV Sports 2
 http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/42
@@ -179,7 +179,7 @@ http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/42
 http://line.powerdino.com:80/4375a1dd43/649f75a876/628275
 
 #EXTINF:-1 tvg-chno="169" tvg-id="" tvg-name="DIRECTV Sports Fight" tvg-logo="https://seeklogo.com/images/D/directv-sports-fight-logo-BBD16A544F-seeklogo.com.png",DIRECTV Sports Fight
-https://normie.me/dtvspfight
+https://n9.cl/vkks6x
 
 #EXTINF:-1 tvg-chno="170" tvg-id="ClaroSports.co" tvg-name="ClaroSports.co" tvg-logo="https://i.imgur.com/fbKQZ1X.png",Claro Sports
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
@@ -208,8 +208,6 @@ http://45.232.210.1:47000/play/cdfhd
 
 #EXTINF:-1 tvg-chno="182" tvg-id="tntsports2.cl" tvg-name="tntsports2.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_2_blanco.png.431ff1b3ae8a01b855d8206073766f17.png",TNT Sports 2
 https://n9.cl/yk1bw
-
-http://200.41.79.165:8000/play/a059/index.m3u8
 
 #EXTINF:-1 tvg-chno="183" tvg-id="tntsports3.cl" tvg-name="tntsports3.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_3_blanco.png.d74baab65acb6c906a59f093dbba0fb9.png",TNT Sports 3
 http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -312,10 +310,10 @@ http://45.232.210.1:58000/play/mtvhd
 http://190.83.119.67:8000/play/a0rg/index.m3u8
 
 #EXTINF:-1 tvg-chno="263" tvg-id="ConcertChannel.ar" tvg-name="ConcertChannel.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Concert2015.png/revision/latest/scale-to-width-down/656?cb=20210423194157&path-prefix=es",Concert Channel
-https://normie.me/concert
+https://n9.cl/frio7
 
 #EXTINF:-1 tvg-chno="264" tvg-id="MuchMusicLatinAmerica.pa" tvg-name="MuchMusicLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MuchMusicLA_%282007%29.svg/1024px-MuchMusicLA_%282007%29.svg.png" group-title="MÚSICA",Much Music
-https://normie.me/much
+https://n9.cl/3j8pr
 
 
 #EXTINF:-1 tvg-chno="281" tvg-id="221dtv.cl" tvg-name="221dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg",¡Hola TV!
@@ -411,7 +409,7 @@ http://45.232.210.1:58000/play/a0fa
 http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/63
 
 #EXTINF:-1 tvg-chno="386" tvg-id="540dtv.cl" tvg-name="540dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png",HBO Mundi
-http://megatitan.net:2052/Sebastian6919/Concha3073/1807
+https://n9.cl/v5f6b7
 
 #EXTINF:-1 tvg-chno="387" tvg-id="541dtv.cl" tvg-name="541dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png",HBO Pop
 http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/6110
