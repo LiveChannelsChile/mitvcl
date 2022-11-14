@@ -416,3 +416,10 @@ https://n9.cl/fxunq
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
+
+
+#EXTINF:-1,Clover HD 1
+http://45.232.211.195:1080/play/a044
+
+#EXTINF:-1,Clover HD 2
+http://45.232.211.196:1080/play/a044
