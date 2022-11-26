@@ -35,7 +35,7 @@ http://45.232.210.1:8062/play/a092/index.m3u8
 https://n9.cl/3onuu
 
 #EXTINF:-1 tvg-chno="112" tvg-id="1156dtv.cl" tvg-name="1156dtv.cl" tvg-logo="https://static.13.cl/7/sites/all/themes/cable/resources/images/logo-13c_2018.png",13C
-https://n9.cl/n29bv
+http://200.48.19.141:10021/play/a032
 
 #EXTINF:-1 tvg-chno="113" tvg-id="707dtv.cl" tvg-name="707dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/512px-CNN_Chile_logo_2017.svg.png",CNN Chile
 http://45.232.210.1:47000/play/cnnchilehd
@@ -47,7 +47,7 @@ http://45.232.210.1:47000/play/a07d
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="116" tvg-id="TVSenado.cl" tvg-name="TVSenado.cl" tvg-logo="https://tv.senado.cl/tvsenado/site/artic/20160901/imag/foto_0000000920160901163145.png",TV Senado
-https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
+http://186.5.31.251:8000/play/a0b5/index.m3u8
 
 #EXTINF:-1 tvg-chno="117" tvg-id="146dtv.cl" tvg-name="146dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_NTV.svg/1920px-Logo_NTV.svg.png",NTV
 http://45.232.210.1:47000/play/a057
