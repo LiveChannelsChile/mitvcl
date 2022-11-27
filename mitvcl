@@ -173,7 +173,7 @@ http://45.232.210.1:58000/play/a05e
 http://200.52.154.125:8000/play/a06q/index.m3u8
 
 #EXTINF:-1 tvg-chno="167" tvg-id="beinx-es1.us" tvg-name="beinx-es1.us" tvg-logo=" https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",beIN Sports XTRA Ñ
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u88
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
 #EXTINF:-1 tvg-chno="168" tvg-id="610dtv.ar" tvg-name="610dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV Sports
 http://200.48.19.141:10021/play/a02t
@@ -309,7 +309,7 @@ http://45.232.210.1:58000/play/mtvhd
 #EXTINF:-1 tvg-chno="262" tvg-id="272dtv.cl" tvg-name="272dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/800px-Htv_logo.svg.png",HTV
 http://190.83.119.67:8000/play/a0rg/index.m3u8
 
-#EXTINF:-1 tvg-chno="263" tvg-id="" tvg-name="" tvg-logo="https://ewsat.com/img/STINGRAY_ICONCERTS.png",Stingray IConcerts
+#EXTINF:-1 tvg-chno="263" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Stingray_iConcerts_%28Pink%29.svg/revision/latest?cb=20191120222505",Stingray IConcerts
 http://170.239.188.253:50000/play/a03r/index.m3u8
 
 #EXTINF:-1 tvg-chno="264" tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/869156d90e27d6c6e09dc5a8f0017838.png",Zapping Music
