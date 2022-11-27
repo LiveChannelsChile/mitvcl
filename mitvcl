@@ -309,11 +309,11 @@ http://45.232.210.1:58000/play/mtvhd
 #EXTINF:-1 tvg-chno="262" tvg-id="272dtv.cl" tvg-name="272dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/800px-Htv_logo.svg.png",HTV
 http://190.83.119.67:8000/play/a0rg/index.m3u8
 
-#EXTINF:-1 tvg-chno="263" tvg-id="ConcertChannel.ar" tvg-name="ConcertChannel.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Concert2015.png/revision/latest/scale-to-width-down/656?cb=20210423194157&path-prefix=es",Concert Channel
-https://n9.cl/ydej1
+#EXTINF:-1 tvg-chno="263" tvg-id="" tvg-name="" tvg-logo="https://ewsat.com/img/STINGRAY_ICONCERTS.png",Stingray IConcerts
+http://170.239.188.253:50000/play/a03r/index.m3u8
 
-#EXTINF:-1 tvg-chno="264" tvg-id="MuchMusicLatinAmerica.pa" tvg-name="MuchMusicLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MuchMusicLA_%282007%29.svg/1024px-MuchMusicLA_%282007%29.svg.png" group-title="MÚSICA",Much Music
-https://n9.cl/i7ry5
+#EXTINF:-1 tvg-chno="264" tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/869156d90e27d6c6e09dc5a8f0017838.png",Zapping Music
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-chno="281" tvg-id="221dtv.cl" tvg-name="221dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg",¡Hola TV!
@@ -418,20 +418,19 @@ https://n9.cl/fxunq
 http://45.232.210.1:47000/play/a0fb
 
 
-#EXTINF:-1,CDTV
-http://45.167.194.11:8000/play/a00d
-
-#EXTINF:-1,ETC
-http://45.167.194.11:8000/play/a00n
-
-#EXTINF:-1,Rectv
-http://45.167.194.11:8000/play/a00z
-
-#EXTINF:-1,Stingray Concerts HD 1
-http://200.48.19.141:10021/play/a007
-
-#EXTINF:-1,Stingray Concerts HD 2
-http://147.135.124.6:26649/play/a04v/index.m3u8
-
-#EXTINF:-1,Stingray Concerts HD 3
-http://170.239.188.253:50000/play/a03r/index.m3u8
+#EXTINF:-1,CDO Basico
+http://186.5.31.251:8000/play/a0bb/index.m3u8
+#EXTINF:-1,CDO Premium
+http://186.5.31.251:8000/play/a0bc/index.m3u8
+#EXTINF:-1 group-title="CINE", 120 MX Family HD
+http://170.79.235.29:8000/play/120
+#EXTINF:-1 group-title="CINE", 121 MX Classic HD
+http://170.79.235.29:8000/play/121
+#EXTINF:-1 group-title="CINE", 122 MX Prime HD
+http://170.79.235.29:8000/play/122
+#EXTINF:-1 group-title="CINE", 123 MX Old HD
+http://170.79.235.29:8000/play/123
+#EXTINF:-1 group-title="MUSICA", 268 VideRola
+http://190.61.102.67:31589/play/a04c/index.m3u8
+#EXTINF:-1 group-title="MUSICA", 276 Teleritmo
+http://190.61.102.67:31589/play/a03u/index.m3u8
