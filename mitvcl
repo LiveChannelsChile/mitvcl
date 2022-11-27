@@ -31,11 +31,11 @@ http://45.232.210.1:8062/play/a09h/index.m3u8
 #EXTINF:-1 tvg-chno="110" tvg-id="viax.cl" tvg-name="viax.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png",Via X
 http://45.232.210.1:8062/play/a092/index.m3u8
 
-#EXTINF:-1 tvg-chno="111" tvg-id="RecTV.cl" tvg-name="RecTV.cl" tvg-logo="https://static.13.cl/7/sites/all/themes/rec_v2/images/logo-white2_2018.png?202201131402",REC TV
-https://n9.cl/3onuu
-
-#EXTINF:-1 tvg-chno="112" tvg-id="1156dtv.cl" tvg-name="1156dtv.cl" tvg-logo="https://static.13.cl/7/sites/all/themes/cable/resources/images/logo-13c_2018.png",13C
+#EXTINF:-1 tvg-chno="111" tvg-id="1156dtv.cl" tvg-name="1156dtv.cl" tvg-logo="https://static.13.cl/7/sites/all/themes/cable/resources/images/logo-13c_2018.png",13C
 http://200.48.19.141:10021/play/a032
+
+#EXTINF:-1 tvg-chno="112" tvg-id="RecTV.cl" tvg-name="RecTV.cl" tvg-logo="https://static.13.cl/7/sites/all/themes/rec_v2/images/logo-white2_2018.png?202201131402",REC TV
+https://n9.cl/3onuu
 
 #EXTINF:-1 tvg-chno="113" tvg-id="707dtv.cl" tvg-name="707dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/512px-CNN_Chile_logo_2017.svg.png",CNN Chile
 http://45.232.210.1:47000/play/cnnchilehd
@@ -47,7 +47,7 @@ http://45.232.210.1:47000/play/a07d
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="116" tvg-id="TVSenado.cl" tvg-name="TVSenado.cl" tvg-logo="https://tv.senado.cl/tvsenado/site/artic/20160901/imag/foto_0000000920160901163145.png",TV Senado
-http://186.5.31.251:8000/play/a0b5/index.m3u8
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?s=tvsenado-hd
 
 #EXTINF:-1 tvg-chno="117" tvg-id="146dtv.cl" tvg-name="146dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_NTV.svg/1920px-Logo_NTV.svg.png",NTV
 http://45.232.210.1:47000/play/a057
@@ -169,20 +169,20 @@ http://160.20.164.171:8001/play/a04r
 #EXTINF:-1 tvg-chno="165" tvg-id="1620dtv.cl" tvg-name="1620dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png",ESPN Extra
 http://45.232.210.1:58000/play/a05e
 
-#EXTINF:-1 tvg-chno="166" tvg-id="610dtv.ar" tvg-name="610dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV Sports
+#EXTINF:-1 tvg-chno="166" tvg-id="beinsportsspanish.us" tvg-name="beinsportsspanish.us" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png",beIN Sports Ñ
+http://200.52.154.125:8000/play/a06q/index.m3u8
+
+#EXTINF:-1 tvg-chno="167" tvg-id="beinx-es1.us" tvg-name="beinx-es1.us" tvg-logo=" https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",beIN Sports XTRA Ñ
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u88
+
+#EXTINF:-1 tvg-chno="168" tvg-id="610dtv.ar" tvg-name="610dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV Sports
 http://200.48.19.141:10021/play/a02t
 
-#EXTINF:-1 tvg-chno="167" tvg-id="612directv.cl" tvg-name="612directv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1920px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",DIRECTV Sports 2
+#EXTINF:-1 tvg-chno="169" tvg-id="612directv.cl" tvg-name="612directv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1920px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",DIRECTV Sports 2
 https://n9.cl/5zmqu
 
-#EXTINF:-1 tvg-chno="168" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png",DIRECTV Sports +
+#EXTINF:-1 tvg-chno="170" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png",DIRECTV Sports +
 https://n9.cl/b3ms2
-
-#EXTINF:-1 tvg-chno="169" tvg-id="" tvg-name="DIRECTV Sports Fight" tvg-logo="https://seeklogo.com/images/D/directv-sports-fight-logo-BBD16A544F-seeklogo.com.png",DIRECTV Sports Fight
-https://n9.cl/2tso6
-
-#EXTINF:-1 tvg-chno="170" tvg-id="ClaroSports.co" tvg-name="ClaroSports.co" tvg-logo="https://i.imgur.com/fbKQZ1X.png",Claro Sports
-https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 
 #EXTINF:-1 tvg-chno="171" tvg-id="4399dtv.cl" tvg-name="4399dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png",FOX Sports 1
 http://45.232.210.1:47000/play/a07k
@@ -416,27 +416,3 @@ https://n9.cl/fxunq
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
-
-
-#EXTINF:-1 tvg-chno="1" tvg-id="TVSenado.cl" tvg-name="TVSenado.cl" tvg-logo="https://tv.senado.cl/tvsenado/site/artic/20160901/imag/foto_0000000920160901163145.png",TVS
-https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?s=tvsenado-hd
-#EXTINF:-1 tvg-chno="3" tvg-id="beinsportsspanish.us" tvg-name="beinsportsspanish.us" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png",beIN Sports Ñ
-http://200.52.154.125:8000/play/a06q/index.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-id="beinx-es1.us" tvg-name="beinx-es1.us" tvg-logo=" https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",beIN Sports XTRA Ñ
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-#EXTINF:-1,CDO Basico
-http://186.5.31.251:8000/play/a0bb/index.m3u8
-#EXTINF:-1,CDO Premium
-http://186.5.31.251:8000/play/a0bc/index.m3u8
-#EXTINF:-1 group-title="CINE", 120 MX Family HD
-http://170.79.235.29:8000/play/120
-#EXTINF:-1 group-title="CINE", 121 MX Classic HD
-http://170.79.235.29:8000/play/121
-#EXTINF:-1 group-title="CINE", 122 MX Prime HD
-http://170.79.235.29:8000/play/122
-#EXTINF:-1 group-title="CINE", 123 MX Old HD
-http://170.79.235.29:8000/play/123
-#EXTINF:-1 group-title="MUSICA", 268 VideRola
-http://190.61.102.67:31589/play/a04c/index.m3u8
-#EXTINF:-1 group-title="MUSICA", 276 Teleritmo
-http://190.61.102.67:31589/play/a03u/index.m3u8
