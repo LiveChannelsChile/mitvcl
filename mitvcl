@@ -418,6 +418,12 @@ https://n9.cl/fxunq
 http://45.232.210.1:47000/play/a0fb
 
 
+#EXTINF:-1 tvg-chno="1" tvg-id="TVSenado.cl" tvg-name="TVSenado.cl" tvg-logo="https://tv.senado.cl/tvsenado/site/artic/20160901/imag/foto_0000000920160901163145.png",TVS
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?s=tvsenado-hd
+#EXTINF:-1 tvg-chno="3" tvg-id="beinsportsspanish.us" tvg-name="beinsportsspanish.us" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png",beIN Sports Ñ
+http://200.52.154.125:8000/play/a06q/index.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-id="beinx-es1.us" tvg-name="beinx-es1.us" tvg-logo=" https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",beIN Sports XTRA Ñ
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1,CDO Basico
 http://186.5.31.251:8000/play/a0bb/index.m3u8
 #EXTINF:-1,CDO Premium
