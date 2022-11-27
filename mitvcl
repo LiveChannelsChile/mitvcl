@@ -418,5 +418,20 @@ https://n9.cl/fxunq
 http://45.232.210.1:47000/play/a0fb
 
 
-#EXTINF:-1,13 C
-http://200.48.19.141:10021/play/a032
+#EXTINF:-1,CDTV
+http://45.167.194.11:8000/play/a00d
+
+#EXTINF:-1,ETC
+http://45.167.194.11:8000/play/a00n
+
+#EXTINF:-1,Rectv
+http://45.167.194.11:8000/play/a00z
+
+#EXTINF:-1,Stingray Concerts HD 1
+http://200.48.19.141:10021/play/a007
+
+#EXTINF:-1,Stingray Concerts HD 2
+http://147.135.124.6:26649/play/a04v/index.m3u8
+
+#EXTINF:-1,Stingray Concerts HD 3
+http://170.239.188.253:50000/play/a03r/index.m3u8
