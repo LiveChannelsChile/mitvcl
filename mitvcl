@@ -416,9 +416,3 @@ https://n9.cl/fxunq
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
-
-
-#EXTINF:-1,Discovery Science op1
-http://45.189.117.32:7579/play/a0ra/index.m3u8
-#EXTINF:-1,Discovery Science op2
-http://45.189.117.32:7579/play/a0r8/index.m3u8
