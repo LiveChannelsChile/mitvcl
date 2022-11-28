@@ -49,8 +49,7 @@ http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
 #EXTINF:-1 tvg-chno="116" tvg-id="TVSenado.cl" tvg-name="TVSenado.cl" tvg-logo="https://tv.senado.cl/tvsenado/site/artic/20160901/imag/foto_0000000920160901163145.png",TV Senado
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?s=tvsenado-hd
 
-#EXTINF:-1 tvg-chno="117" tvg-id="146dtv.cl" tvg-name="146dtv.cl" tvg-logo="https://static.wikia.nocookie.net/31minutos/images/6/69/NTV_Chile_2021.svg/revision/latest?cb=20210808135431",NTV
-http://45.232.210.1:47000/play/a057
+
 
 #EXTINF:-1 tvg-chno="118" tvg-id="etctv.cl" tvg-name="etctv.cl" tvg-logo="https://static.etc.cl/_common/images/logoetc_2015.png",ETC
 http://8.243.108.57:8001/play/a01g/index.m3u8
@@ -175,8 +174,7 @@ http://200.52.154.125:8000/play/a06q/index.m3u8
 #EXTINF:-1 tvg-chno="167" tvg-id="beinx-es1.us" tvg-name="beinx-es1.us" tvg-logo=" https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",beIN Sports XTRA Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
-#EXTINF:-1 tvg-chno="168" tvg-id="610dtv.cl" tvg-name="610dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV Sports
-http://200.48.19.141:10021/play/a02t
+
 
 #EXTINF:-1 tvg-chno="169" tvg-id="612directv.cl" tvg-name="612directv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1920px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",DIRECTV Sports 2
 http://200.52.154.125:8000/play/a06o/index.m3u8
