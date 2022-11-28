@@ -179,10 +179,10 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 http://200.48.19.141:10021/play/a02t
 
 #EXTINF:-1 tvg-chno="169" tvg-id="612directv.cl" tvg-name="612directv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1920px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",DIRECTV Sports 2
-http://200.52.154.125:8000/play/a06o/index.m3u8
+https://n9.cl/5zmqu
 
 #EXTINF:-1 tvg-chno="170" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png",DIRECTV Sports +
-http://200.52.154.125:8000/play/a06p/index.m3u8
+https://n9.cl/b3ms2
 
 #EXTINF:-1 tvg-chno="171" tvg-id="4399dtv.cl" tvg-name="4399dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png",FOX Sports 1
 http://45.232.210.1:47000/play/a07k
@@ -416,3 +416,9 @@ https://n9.cl/fxunq
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
+
+
+#EXTINF:-1,Discovery Science op1
+http://45.189.117.32:7579/play/a0ra/index.m3u8
+#EXTINF:-1,Discovery Science op2
+http://45.189.117.32:7579/play/a0r8/index.m3u8
