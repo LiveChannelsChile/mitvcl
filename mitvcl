@@ -13,7 +13,7 @@ http://45.232.210.1:47000/play/a058
 #EXTINF:-1 tvg-chno="104" tvg-id="" tvg-name="" tvg-logo="https://ucvtv.cl/imagenes/logo-ucv-200.png",UCV
 https://marine2.miplay.cl/ucv3/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="105" tvg-id="149dtv.cl" tvg-name="149dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/TVN2020.svg/1920px-TVN2020.svg.png",TVN
+#EXTINF:-1 tvg-chno="105" tvg-id="149dtv.cl" tvg-name="149dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg/1200px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg.png",TVN
 http://45.232.210.1:47000/play/a06r
 
 #EXTINF:-1 tvg-chno="106" tvg-id="mega.cl" tvg-name="mega.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Mega_Chile_2020.png",Mega
