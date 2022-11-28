@@ -47,7 +47,7 @@ http://45.232.210.1:47000/play/a07d
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="116" tvg-id="TVSenado.cl" tvg-name="TVSenado.cl" tvg-logo="https://tv.senado.cl/tvsenado/site/artic/20160901/imag/foto_0000000920160901163145.png",TV Senado
-https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?s=tvsenado-hd
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="117" tvg-id="146dtv.cl" tvg-name="146dtv.cl" tvg-logo="https://estaticos.tvn.cl/skins/web-assets/images/ntv/BANNER-ADULTO-MOBILE.png",NTV
 http://45.232.210.1:47000/play/a057
@@ -416,3 +416,15 @@ https://n9.cl/fxunq
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
+
+
+#EXTINF:-1,Golden
+http://45.189.117.32:7579/play/a0r9/index.m3u8
+#EXTINF:-1,Golden Edge
+http://8.243.108.57:8001/play/a01o/index.m3u8
+#EXTINF:-1,Golden Plus HD
+http://45.189.117.32:7579/play/a0rv/index.m3u8
+#EXTINF:-1,Golden Premiere HD
+http://45.174.84.154:8000/play/a00g/index.m3u8
+#EXTINF:-1,Golden Premiere 2 HD
+http://45.174.84.154:8000/play/a00h/index.m3u8
