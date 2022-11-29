@@ -332,7 +332,7 @@ http://45.232.210.1:47000/play/a074
 http://190.61.102.67:444/play/a00a
 
 #EXTINF:-1 tvg-chno="286" tvg-id="224dtvc." tvg-name="224dtvc." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png",Glitz
-http://8.243.108.57:8001/play/a01h/index.m3u8
+http://190.27.172.226:25000/play/95
 
 #EXTINF:-1 tvg-chno="287" tvg-id="225dtv.cl" tvg-name="225dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1920px-Pasiones_Tv_logo.svg.png",Pasiones
 http://45.232.210.1:58000/play/pasioneshd
