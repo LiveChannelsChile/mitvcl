@@ -417,10 +417,5 @@ https://n9.cl/fxunq
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
 
-
-#EXTINF:-1 tvg-chno="1168" tvg-id="ClaroSports.co" tvg-name="ClaroSports.co" tvg-logo="https://i.ibb.co/6WwrHjw/Claro-sports.png",Claro Sports
-https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
-#EXTINF:-1 tvg-chno="1169" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/7kGJjYG/Claro-sports-2.png",Claro Sports 2
-http://190.61.102.67:444/play/a012
-#EXTINF:-1 tvg-chno="1170" tvg-id="" tvg-name="" tvg-logo="",Latin America Sport
-http://190.61.102.67:444/play/a027
+#EXTINF:-1 group-title="VTR", ATRES SERIES HD
+http://45.232.211.196:1080/play/a04n
