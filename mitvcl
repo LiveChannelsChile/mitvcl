@@ -176,7 +176,7 @@ http://200.52.154.125:8000/play/a06q/index.m3u8
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
 #EXTINF:-1 tvg-chno="168" tvg-id="610dtv.cl" tvg-name="610dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV Sports
-
+http://line.powerdino.com/4375a1dd43/649f75a876/265160
 
 #EXTINF:-1 tvg-chno="169" tvg-id="612directv.cl" tvg-name="612directv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1920px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",DIRECTV Sports 2
 https://n9.cl/5zmqu
@@ -418,9 +418,9 @@ https://n9.cl/fxunq
 http://45.232.210.1:47000/play/a0fb
 
 
-#EXTINF:-1,Discovery Science
-http://190.61.102.67:444/play/a00e
-#EXTINF:-1,Claro Sports 2 HD
-http://190.61.102.67:444/play/a012
-#EXTINF:-1,Claro Sports 2 SD
-http://190.61.102.67:444/play/a024
+#EXTINF:-1,ESPN 4
+http://190.61.102.67:444/play/a06r
+#EXTINF:-1,ESPN 4 HD
+http://190.61.102.67:444/play/a079
+#EXTINF:-1,HBO Plus HD
+http://190.61.102.67:444/play/a017
