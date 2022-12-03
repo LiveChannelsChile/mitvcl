@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-chno="101" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png",Telecanal
-https://unlimited1-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8
+http://45.167.194.11:8000/play/a00c
 
 #EXTINF:-1 tvg-chno="102" tvg-id="lared.cl" tvg-name="lared.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Emblema_de_La_Red.png",La Red
 http://45.232.210.1:47000/play/laredhd
@@ -418,7 +418,8 @@ https://n9.cl/fxunq
 http://45.232.210.1:47000/play/a0fb
 
 
-#EXTINF:-1,Atres Series
-http://190.61.102.67:444/play/a00h
-#EXTINF:-1,Star TVE HD
-http://190.61.102.67:444/play/a04z
+#EXTINF:-1,Film & arts HD
+http://190.61.102.67:444/play/a04q
+
+#EXTINF:-1,La liga
+http://190.61.102.67:444/play/a07h
