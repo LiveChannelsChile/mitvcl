@@ -331,8 +331,8 @@ http://45.232.210.1:47000/play/a074
 #EXTINF:-1 tvg-chno="285" tvg-id="230dtv.cl" tvg-name="230dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1280px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png",Mas Chic
 http://190.61.102.67:444/play/a00a
 
-#EXTINF:-1 tvg-chno="286" tvg-id="224dtvc." tvg-name="224dtvc." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png",Glitz
-
+#EXTINF:-1 tvg-chno="286" tvg-id="" tvg-name="" tvg-logo="https://www.wobi.com/wp-content/uploads/2021/07/logo_wobi_mantenimiento.png?_t=1648544213",WOBI
+http://186.5.31.251:8000/play/a0aa/index.m3u8
 
 #EXTINF:-1 tvg-chno="287" tvg-id="225dtv.cl" tvg-name="225dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1920px-Pasiones_Tv_logo.svg.png",Pasiones
 http://45.232.210.1:58000/play/pasioneshd
