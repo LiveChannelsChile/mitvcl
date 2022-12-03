@@ -173,7 +173,7 @@ http://45.232.210.1:58000/play/a05e
 http://200.52.154.125:8000/play/a06q/index.m3u8
 
 #EXTINF:-1 tvg-chno="167" tvg-id="beinx-es1.us" tvg-name="beinx-es1.us" tvg-logo=" https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",beIN Sports XTRA Ñ
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+http://131.196.194.2:8000/play/a0h9/index.m3u8
 
 #EXTINF:-1 tvg-chno="168" tvg-id="610dtv.cl" tvg-name="610dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV Sports
 
