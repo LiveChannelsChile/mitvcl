@@ -353,6 +353,12 @@ http://190.83.119.67:8000/play/a0q9/index.m3u8
 #EXTINF:-1 tvg-chno="304" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png",Univision
 http://190.61.102.67:8000/play/a05d
 
+#EXTINF:-1 tvg-chno="305" tvg-id="StarTVE.mx" tvg-name="StarTVE.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",Star TVE
+http://190.61.102.67:444/play/a04z
+
+#EXTINF:-1 tvg-chno="306" tvg-id="AtreseriesInternacional.es" tvg-name="AtreseriesInternacional.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png",A3 Series
+http://45.232.211.196:1080/play/a04n
+
 
 #EXTINF:-1 tvg-chno="321" tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_02/large.2.png.ee7314e2d55fc99f91cede718077b31d.png",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
@@ -417,5 +423,6 @@ https://n9.cl/fxunq
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
 
-#EXTINF:-1 group-title="VTR", ATRES SERIES HD
-http://45.232.211.196:1080/play/a04n
+
+#EXTINF:-1 group-title="VTR", ESPN 4 HD
+http://45.232.211.196:1080/play/a051
