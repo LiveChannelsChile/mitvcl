@@ -422,3 +422,23 @@ http://45.232.211.196:1080/play/a042
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
+
+
+#EXTINF:-1,TBS Very Funny HD
+http://200.48.19.140:10021/play/a03x
+
+#EXTINF:-1,TyC Sports HD
+http://200.48.19.140:10021/play/a041
+
+#EXTINF:-1,Cine Familiar HD
+http://190.97.172.4:8000/play/a02x/index.m3u8
+#EXTINF:-1,Cine Premium HD
+http://190.97.172.4:8000/play/a03p/index.m3u8
+#EXTINF:-1,Deportes Premium HD
+http://190.97.172.4:8000/play/a03m/index.m3u8
+
+#EXTINF:-1,ETC
+http://190.97.172.4:8000/play/a01w/index.m3u8
+
+#EXTINF:-1,Pirata TV
+http://190.97.172.4:8000/play/a025/index.m3u8
