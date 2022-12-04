@@ -173,7 +173,7 @@ http://45.232.210.1:58000/play/a05e
 http://200.52.154.125:8000/play/a06q/index.m3u8
 
 #EXTINF:-1 tvg-chno="167" tvg-id="beinx-es1.us" tvg-name="beinx-es1.us" tvg-logo=" https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",beIN Sports XTRA Ñ
-http://131.196.194.2:8000/play/a0h9/index.m3u8
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
 #EXTINF:-1 tvg-chno="168" tvg-id=" " tvg-name="" tvg-logo="https://i.ibb.co/6WwrHjw/Claro-sports.png",Claro Sports
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
@@ -422,3 +422,9 @@ http://45.232.211.196:1080/play/a042
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
+
+
+#EXTINF:-1 tvg-chno="35" tvg-id="1605dtv.ar" tvg-name="1605dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/FOX_Sports_2022.svg/150px-FOX_Sports_2022.svg.png",FOX Sports
+http://line.powerdino.com/4375a1dd43/649f75a876/265168
+#EXTINF:-1 tvg-chno="41" tvg-id="TUDN.us" tvg-name="TUDN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1920px-TUDN_Logo.svg.png",TUDN
+http://smartersplayer.live:8080/XGtBvvBbkd/8g2pz9ejxe/1809
