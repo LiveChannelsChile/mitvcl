@@ -111,8 +111,8 @@ http://45.232.210.1:58000/play/a06w
 #EXTINF:-1 tvg-chno="142" tvg-id="213dtv.cl" tvg-name="213dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Series
 http://45.232.210.1:47000/play/a0bf
 
-#EXTINF:-1 tvg-chno="143" tvg-id="216dtv.cl" tvg-name="216dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1920px-TBS_logo_2016.svg.png",TBS
-http://190.83.119.67:8000/play/a0pj/index.m3u8
+#EXTINF:-1 tvg-chno="143" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1920px-TBS_logo_2016.svg.png",TBS
+http://200.48.19.140:10021/play/a03x
 
 #EXTINF:-1 tvg-chno="144" tvg-id="TCM.ar" tvg-name="TCM.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1024px-TCM_Latam_logo.svg.png",TCM
 http://45.232.210.1:8062/play/a09k/index.m3u8
@@ -194,7 +194,7 @@ http://45.232.210.1:47000/play/a0at
 http://45.232.210.1:47000/play/foxsports3hd
 
 #EXTINF:-1 tvg-chno="174" tvg-id="629dtv.cl" tvg-name="629dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1920px-TyC_Sports_logo.svg.png",TyC Sports
-http://160.20.164.171:8001/play/a051
+http://200.48.19.140:10021/play/a041
 
 #EXTINF:-1 tvg-chno="175" tvg-id="658dtv.ec" tvg-name="658dtv.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1920px-GolTV_logo.svg.png" group-title="DEPORTES",Gol TV
 http://160.20.164.171:8001/play/a050
@@ -422,23 +422,3 @@ http://45.232.211.196:1080/play/a042
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
-
-
-#EXTINF:-1,TBS Very Funny HD
-http://200.48.19.140:10021/play/a03x
-
-#EXTINF:-1,TyC Sports HD
-http://200.48.19.140:10021/play/a041
-
-#EXTINF:-1,Cine Familiar HD
-http://190.97.172.4:8000/play/a02x/index.m3u8
-#EXTINF:-1,Cine Premium HD
-http://190.97.172.4:8000/play/a03p/index.m3u8
-#EXTINF:-1,Deportes Premium HD
-http://190.97.172.4:8000/play/a03m/index.m3u8
-
-#EXTINF:-1,ETC
-http://190.97.172.4:8000/play/a01w/index.m3u8
-
-#EXTINF:-1,Pirata TV
-http://190.97.172.4:8000/play/a025/index.m3u8
