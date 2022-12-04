@@ -43,7 +43,7 @@ https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 #EXTINF:-1 tvg-chno="114" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/RSsTCzG/CHV-Noticias.png",CHV Noticias
 https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master_4.m3u8
 
-#EXTINF:6 tvg-chno="115" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/T13_2019.png/revision/latest?cb=20200321173605&path-prefix=es",T13
+#EXTINF:-1 tvg-chno="115" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/T13_2019.png/revision/latest?cb=20200321173605&path-prefix=es",T13
 https://pantera1-100GB-cl-movistar.dps.live/t13/t13.smil/t13/livestream2/l_254224_3750264000_31.ts?nimblesessionid=14802644
 
 #EXTINF:-1 tvg-chno="116" tvg-id="155dtv.cl" tvg-name="155dtv.cl" tvg-logo="https://www.camara.cl/img/escudo2.jpg",Camara TV
@@ -111,7 +111,8 @@ http://45.232.210.1:58000/play/a06w
 #EXTINF:-1 tvg-chno="142" tvg-id="213dtv.cl" tvg-name="213dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Series
 http://45.232.210.1:47000/play/a0bf
 
-
+#EXTINF:-1 tvg-chno="143" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1920px-TBS_logo_2016.svg.png",TBS
+http://200.48.19.140:10021/play/a03x
 
 #EXTINF:-1 tvg-chno="144" tvg-id="TCM.ar" tvg-name="TCM.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1024px-TCM_Latam_logo.svg.png",TCM
 http://45.232.210.1:8062/play/a09k/index.m3u8
