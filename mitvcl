@@ -181,8 +181,8 @@ https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/in
 #EXTINF:-1 tvg-chno="169" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/7kGJjYG/Claro-sports-2.png",Claro Sports 2
 http://190.61.102.67:444/play/a012
 
-#EXTINF:-1 tvg-chno="170" tvg-id="1605dtv.ar" tvg-name="1605dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/FOX_Sports_2022.svg/1280px-FOX_Sports_2022.svg.png",FOX Sports
-https://n9.cl/n4gpe
+#EXTINF:-1 tvg-chno="170" tvg-id="" tvg-name="" tvg-logo="",
+
 
 #EXTINF:-1 tvg-chno="171" tvg-id="4399dtv.cl" tvg-name="4399dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png",FOX Sports 1
 http://45.232.210.1:47000/play/a07k
@@ -331,7 +331,7 @@ http://45.232.210.1:47000/play/a074
 #EXTINF:-1 tvg-chno="285" tvg-id="230dtv.cl" tvg-name="230dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1280px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png",Mas Chic
 http://190.61.102.67:444/play/a00a
 
-#EXTINF:-1 tvg-chno="286" tvg-id="224dtvc." tvg-name="224dtvc." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png",Glitz
+#EXTINF:-1 tvg-chno="286" tvg-id="" tvg-name="" tvg-logo="",
 
 
 #EXTINF:-1 tvg-chno="287" tvg-id="225dtv.cl" tvg-name="225dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1920px-Pasiones_Tv_logo.svg.png",Pasiones
@@ -422,3 +422,15 @@ http://45.232.211.196:1080/play/a042
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
+
+
+#EXTINF:-1,ETC TV
+http://190.97.172.4:8000/play/a01w/index.m3u8
+#EXTINF:-1,Discovery Science HD
+http://190.97.172.4:8000/play/a03q/index.m3u8
+#EXTINF:-1,TNT Sports HD
+http://200.48.19.140:10021/play/a03s
+#EXTINF:-1,TNT Sports 2
+http://190.97.172.4:8000/play/a02a/index.m3u8
+#EXTINF:-1,TNT Sports 3
+http://190.97.172.4:8000/play/a02b/index.m3u8
