@@ -40,7 +40,7 @@ http://45.232.210.1:47000/play/a07d
 #EXTINF:-1tvg-chno="113" tvg-id="" tvg-name="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Meganoticias-en-vivo-Online.png",Mega Noticias
 https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 
-#EXTINF:-1tvg-chno="114" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/0jd1bWD/CHV-Noticias.png",CHV Noticias
+#EXTINF:-1tvg-chno="114" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/RSsTCzG/CHV-Noticias.png",CHV Noticias
 https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master_4.m3u8
 
 #EXTINF:-1tvg-chno="115" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/T13_2019.png/revision/latest?cb=20200321173605&path-prefix=es",T13
@@ -135,7 +135,7 @@ http://190.61.102.67:31589/play/a01e/index.m3u8
 #EXTINF:-1 tvg-chno="150" tvg-id="" tvg-name="" tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.615120486_CloverChannel.png.5b98947815588c78b3c43fe77e580fe9.png",Clover Channel
 http://45.232.211.195:1080/play/a044
 
-#EXTINF:-1 tvg-chno="151" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Kanal_D_Drama_%28Latin_America%29.png/revision/latest?cb=20200317052444&path-prefix=es",Kanal D Drama
+#EXTINF:-1 tvg-chno="151" tvg-id="" tvg-name="" tvg-logo="https://amariemagazine.com/wp-content/uploads/2021/10/Kanal-D-Drama.png",Kanal D Drama
 http://45.232.211.195:1080/play/a05k
 
 #EXTINF:-1 tvg-chno="152" tvg-id="210dtv.cl" tvg-name="210dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1920px-AMC_logo_2019.svg.png",AMC
