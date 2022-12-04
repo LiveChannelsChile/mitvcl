@@ -422,9 +422,3 @@ http://45.232.211.196:1080/play/a042
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
-
-
-#EXTINF:-1 group-title="Claro-COL", GLITZ HD
-http://190.60.39.62:8000/play/95
-#EXTINF:-1 group-title="VTR", Max Prime
-http://45.232.210.1:8062/play/a08h/index.m3u8
