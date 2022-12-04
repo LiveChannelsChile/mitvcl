@@ -31,22 +31,28 @@ http://45.232.210.1:8062/play/a09h/index.m3u8
 #EXTINF:-1 tvg-chno="110" tvg-id="viax.cl" tvg-name="viax.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png",Via X
 http://45.232.210.1:8062/play/a092/index.m3u8
 
-#EXTINF:-1 tvg-chno="111" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/XY7Lpqq/wapp.png",Wapp
-https://n9.cl/abwax
+#EXTINF:-1 tvg-chno="111" tvg-id="707dtv.cl" tvg-name="707dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/512px-CNN_Chile_logo_2017.svg.png",CNN Chile
+http://45.232.210.1:47000/play/cnnchilehd
 
 #EXTINF:-1 tvg-chno="112" tvg-id="24horas.cl" tvg-name="24horas.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_24HorasTVN.svg/1920px-Logo_24HorasTVN.svg.png",Canal 24 Horas
 http://45.232.210.1:47000/play/a07d
 
-#EXTINF:-1 tvg-chno="113" tvg-id="707dtv.cl" tvg-name="707dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/512px-CNN_Chile_logo_2017.svg.png",CNN Chile
-http://45.232.210.1:47000/play/cnnchilehd
+#EXTINF:-1 tvg-chno="113" tvg-id="" tvg-name="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Meganoticias-en-vivo-Online.png",Mega Noticias
+https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 
-#EXTINF:-1 tvg-chno="114" tvg-id="155dtv.cl" tvg-name="155dtv.cl" tvg-logo="https://www.camara.cl/img/escudo2.jpg",Camara TV
+#EXTINF:-1 tvg-chno="114" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/RSsTCzG/CHV-Noticias.png",CHV Noticias
+https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master_4.m3u8
+
+#EXTINF:-1 tvg-chno="115" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/T13_2019.png/revision/latest?cb=20200321173605&path-prefix=es",T13
+https://unlimited1-cl-isp.dps.live/t13/t13.smil/t13/livestream1/chunks.m3u8?nimblesessionid=335057773
+
+#EXTINF:-1 tvg-chno="116" tvg-id="155dtv.cl" tvg-name="155dtv.cl" tvg-logo="https://www.camara.cl/img/escudo2.jpg",Camara TV
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="115" tvg-id="TVSenado.cl" tvg-name="TVSenado.cl" tvg-logo="https://tv.senado.cl/tvsenado/site/artic/20160901/imag/foto_0000000920160901163145.png",TV Senado
+#EXTINF:-1 tvg-chno="117" tvg-id="TVSenado.cl" tvg-name="TVSenado.cl" tvg-logo="https://tv.senado.cl/tvsenado/site/artic/20160901/imag/foto_0000000920160901163145.png",TV Senado
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="116" tvg-id="146dtv.cl" tvg-name="146dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logotipo_alternativo_de_NTV.png",NTV
+#EXTINF:-1 tvg-chno="118" tvg-id="146dtv.cl" tvg-name="146dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logotipo_alternativo_de_NTV.png",NTV
 http://45.232.210.1:47000/play/a057
 
 
@@ -175,8 +181,8 @@ https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/in
 #EXTINF:-1 tvg-chno="169" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/7kGJjYG/Claro-sports-2.png",Claro Sports 2
 http://190.61.102.67:444/play/a012
 
-#EXTINF:-1 tvg-chno="170" tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/318/331/png-clipart-red-bull-logo-red-bull-tv-television-logo-red-bull-media-house-red-bull-carnivoran-photography.png",Redbull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-chno="170" tvg-id="" tvg-name="" tvg-logo="",
+
 
 #EXTINF:-1 tvg-chno="171" tvg-id="4399dtv.cl" tvg-name="4399dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png",FOX Sports 1
 http://45.232.210.1:47000/play/a07k
