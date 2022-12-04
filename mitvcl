@@ -424,7 +424,5 @@ http://45.232.211.196:1080/play/a042
 http://45.232.210.1:47000/play/a0fb
 
 
-#EXTINF:-1,ETC TV
-http://190.97.172.4:8000/play/a01w/30322511.m3u8
-#EXTINF:-1,Discovery Science HD
-http://190.97.172.4:8000/play/a03q/79060934.m3u8
+#EXTINF:-1,TUDN
+https://channel-tdn-cdn.blim.com/manifest.mpd
