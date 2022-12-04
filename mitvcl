@@ -44,7 +44,7 @@ https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master_4.m3u8
 
 #EXTINF:-1tvg-chno="115" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/T13_2019.png/revision/latest?cb=20200321173605&path-prefix=es",T13
-https://pantera1-100gb-cl-movistar.dps.live/t13/t13.smil/t13/livestream2/chunks.m3u8?nimblesessionid=13644913
+https://unlimited1-cl-isp.dps.live/t13/t13.smil/t13/livestream2/chunks.m3u8?nimblesessionid=334127219
 
 #EXTINF:-1 tvg-chno="116" tvg-id="155dtv.cl" tvg-name="155dtv.cl" tvg-logo="https://www.camara.cl/img/escudo2.jpg",Camara TV
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
@@ -422,3 +422,7 @@ https://n9.cl/fxunq
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
+
+
+#EXTINF:-1, HBO POP HD
+http://45.232.211.196:1080/play/a042
