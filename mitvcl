@@ -16,7 +16,7 @@ https://marine2.miplay.cl/ucv3/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-chno="105" tvg-id="149dtv.cl" tvg-name="149dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg/1200px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg.png",TVN
 http://45.232.210.1:47000/play/a06r
 
-#EXTINF:-1 tvg-chno="106" tvg-id="mega.cl" tvg-name="mega.cl" tvg-logo="https://news.google.com/api/attachments/CAUqEAgAKgcICjC5n5ELMKTppQMww9fm3ixqCWltYWdlL3BuZw",Mega
+#EXTINF:-1 tvg-chno="106" tvg-id="mega.cl" tvg-name="mega.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/1200px-Mega_Chile_2020.png",Mega
 http://45.232.210.1:47000/play/a08g
 
 #EXTINF:-1 tvg-chno="107" tvg-id="chv.cl" tvg-name="chv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/151.png",Chilevision
@@ -37,7 +37,7 @@ http://45.232.210.1:47000/play/cnnchilehd
 #EXTINF:-1 tvg-chno="112" tvg-id="24horas.cl" tvg-name="24horas.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_24HorasTVN.svg/1920px-Logo_24HorasTVN.svg.png",Canal 24 Horas
 http://45.232.210.1:47000/play/a07d
 
-#EXTINF:-1 tvg-chno="113" tvg-id="" tvg-name="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Meganoticias-en-vivo-Online.png",Mega Noticias
+#EXTINF:-1 tvg-chno="113" tvg-id="" tvg-name="" tvg-logo="https://news.google.com/api/attachments/CAUqEAgAKgcICjC5n5ELMKTppQMww9fm3ixqCWltYWdlL3BuZw",Mega Noticias
 https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 
 #EXTINF:-1 tvg-chno="114" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/RSsTCzG/CHV-Noticias.png",CHV Noticias
@@ -126,7 +126,7 @@ http://190.83.119.67:8000/play/a0r6/index.m3u8
 #EXTINF:-1 tvg-chno="147" tvg-id="514dtv.cl" tvg-name="514dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png",Cine Latino
 http://190.61.102.67:31589/play/a05v/index.m3u8
 
-#EXTINF:-1 tvg-chno="148" tvg-id="Multicinema.mx" tvg-name="Multicinema.mx" tvg-logo="https://telmex.com/documents/23521/66016/MC.png/d9bec0a2-f0da-3612-e56b-5f005b9251b0?t=1648247587000",Multicinema
+#EXTINF:-1 tvg-chno="148" tvg-id="Multicinema.mx" tvg-name="Multicinema.mx" tvg-logo="https://i.ibb.co/2jQNg9n/MC-removebg-preview.png",Multicinema
 http://190.61.102.67:31589/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-chno="149" tvg-id="Multipremier.mx" tvg-name="Multipremier.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1280px-Multipremier_logo.svg.png",Multipremier
