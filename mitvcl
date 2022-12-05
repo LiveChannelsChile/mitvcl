@@ -44,7 +44,7 @@ https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master_4.m3u8
 
 #EXTINF:-1 tvg-chno="115" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/T13_2019.png/revision/latest?cb=20200321173605&path-prefix=es",T13
-https://pantera1-100GB-cl-movistar.dps.live/t13/t13.smil/t13/livestream2/l_254224_3750264000_31.ts?nimblesessionid=14802644
+https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="116" tvg-id="155dtv.cl" tvg-name="155dtv.cl" tvg-logo="https://www.camara.cl/img/escudo2.jpg",Camara TV
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
