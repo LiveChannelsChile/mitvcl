@@ -259,8 +259,8 @@ http://45.232.210.1:47000/play/a0am
 http://45.232.210.1:58000/play/a05b
 
 
-#EXTINF:-1 tvg-chno="221" tvg-id="304dtv.cl" tvg-name="304dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
-http://190.61.102.67:444/play/a014
+#EXTINF:-1 tvg-chno="221" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
+http://200.48.19.140:10021/play/a01m
 
 #EXTINF:-1 tvg-chno="222" tvg-id="308dtv.cl" tvg-name="308dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",Nick
 http://45.232.210.1:8061/play/a0fg
@@ -278,7 +278,7 @@ http://190.83.119.67:8000/play/a0pa/index.m3u8
 http://45.232.210.1:8062/play/a0bg/index.m3u8
 
 #EXTINF:-1 tvg-chno="227" tvg-id="315dtv.cl" tvg-name="315dtv.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Disney_Junior_2020.png/revision/latest/scale-to-width-down/1200?cb=20210617173806&path-prefix=es",Disney Junior
-http://181.176.148.142:8000/play/a02c
+http://200.48.19.140:10021/play/a016
 
 #EXTINF:-1 tvg-chno="228" tvg-id="1317dtv.cl" tvg-name="1317dtv.cl" tvg-logo="https://1.bp.blogspot.com/-QY72YPUZ_-A/X8_CSWEtfxI/AAAAAAAA7kg/S8H7gAJczlImH4fE131WrPpb_VRz2Md4ACLcBGAsYHQ/s500/babytv-2017.png",BabyTV
 http://160.20.164.171:8001/play/a08z/index.m3u8
@@ -354,7 +354,7 @@ http://190.83.119.67:8000/play/a0q9/index.m3u8
 http://190.61.102.67:8000/play/a05d
 
 #EXTINF:-1 tvg-chno="305" tvg-id="StarTVE.mx" tvg-name="StarTVE.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",Star TVE
-http://190.61.102.67:444/play/a04z
+http://200.48.19.140:10021/play/a01p
 
 #EXTINF:-1 tvg-chno="306" tvg-id="AtreseriesInternacional.es" tvg-name="AtreseriesInternacional.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png",A3 Series
 http://45.232.211.196:1080/play/a04n
@@ -415,7 +415,7 @@ http://45.232.210.1:58000/play/a0fa
 https://n9.cl/10ko1u
 
 #EXTINF:-1 tvg-chno="386" tvg-id="540dtv.cl" tvg-name="540dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png",HBO Mundi
-https://n9.cl/v5f6b7
+http://200.48.19.140:10021/play/a044
 
 #EXTINF:-1 tvg-chno="387" tvg-id="541dtv.cl" tvg-name="541dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png",HBO Pop
 http://45.232.211.196:1080/play/a042
@@ -424,9 +424,6 @@ http://45.232.211.196:1080/play/a042
 http://45.232.210.1:47000/play/a0fb
 
 
-#EXTINF:-1,Cartoon Network HD
-http://200.48.19.140:10021/play/a01m
-#EXTINF:-1,Disney Junior HD
-http://200.48.19.140:10021/play/a016
-#EXTINF:-1,HBO MUNDI
-http://200.48.19.140:10021/play/a044
+#EXTINF:-1,GolTV HD
+http://200.48.19.140:10021/play/a006
+
