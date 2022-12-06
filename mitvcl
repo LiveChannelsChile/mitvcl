@@ -422,3 +422,11 @@ http://45.232.211.196:1080/play/a042
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
+
+
+#EXTINF:-1,Cartoon Network HD
+http://200.48.19.140:10021/play/a01m
+#EXTINF:-1,Disney Junior HD
+http://200.48.19.140:10021/play/a016
+#EXTINF:-1,HBO MUNDI
+http://200.48.19.140:10021/play/a044
