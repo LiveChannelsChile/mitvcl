@@ -260,7 +260,7 @@ http://45.232.210.1:58000/play/a05b
 
 
 #EXTINF:-1 tvg-chno="221" tvg-id="304dtv.cl" tvg-name="304dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
-http://190.61.102.67:444/play/a014
+http://190.61.102.67:8000/play/a014
 
 #EXTINF:-1 tvg-chno="222" tvg-id="308dtv.cl" tvg-name="308dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",Nick
 http://45.232.210.1:8061/play/a0fg
@@ -406,7 +406,7 @@ http://45.232.210.1:8062/play/a0b3/index.m3u8
 http://45.232.211.196:1080/play/a05q
 
 #EXTINF:-1 tvg-chno="383" tvg-id="526dtv.cl" tvg-name="526dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1920px-Logohboplus2019.svg.png",HBO Plus
-http://45.232.211.196:1080/play/a00j
+http://45.232.210.1:8062/play/a08g/index.m3u8
 
 #EXTINF:-1 tvg-chno="384" tvg-id="1534dtv.cl" tvg-name="1534dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1280px-HBO_Family.svg.png",HBO Family
 http://45.232.210.1:58000/play/a0fa
