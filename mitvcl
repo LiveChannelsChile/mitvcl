@@ -410,3 +410,28 @@ https://n9.cl/fxunq
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
+
+#EXTINF:-1,HBO MUNDI
+http://190.216.105.66:6020/play/a0dg/index.m3u8
+#EXTINF:-1,HBO 2 HD
+http://190.187.247.206:8000/play/a09m/index.m3u8
+#EXTINF:-1 group-title="-",440 HBO 2.
+http://179.57.172.189:9181/play/a0jk/index.m3u8
+#EXTINF:-1,SyFy 1
+http://200.106.124.248:8000/play/a0kt/index.m3u8
+#EXTINF:-1,SyFy 2
+http://190.216.105.66:6020/play/a0bq/index.m3u8
+#EXTINF:-1,SyFy 3
+http://190.187.247.206:8000/play/a00n/index.m3u8
+#EXTINF:-1,SyFy 4
+http://190.115.15.177:58003/play/a0c4/index.m3u8
+#EXTINF:-1 group-title="-",407 SyFy.
+http://179.57.172.189:9181/play/a0jg/index.m3u8
+#EXTINF:-1,LIFE TIME
+http://177.234.254.38:8000/play/a07c/index.m3u8
+#EXTINF:-1 group-title="-",226 Lifetime
+http://179.57.172.189:9181/play/a0lc/index.m3u8
+#EXTINF:-1,LIFE TIME 2
+http://190.115.15.177:58003/play/a03u/index.m3u8
+#EXTINF:-1,Lifetime 3
+http://200.106.124.248:8000/play/a0ks/index.m3u8
