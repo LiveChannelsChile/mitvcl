@@ -278,7 +278,7 @@ http://200.48.19.140:10021/play/a016
 http://160.20.164.171:8001/play/a08z/index.m3u8
 
 #EXTINF:-1 tvg-chno="229" tvg-id="TooncastLatinAmerica.pa" tvg-name="TooncastLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png",Tooncast
-http://190.83.119.67:8000/play/a0s3/index.m3u8
+http://167.250.222.35:16000/play/a066/index.m3u8
 
 #EXTINF:-1 tvg-chno="230" tvg-id="310dtv.cl" tvg-name="310dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/1920px-TeenNick_2019_logo.svg.png",TeenNick
 http://190.83.119.67:8000/play/a0q1/index.m3u8
