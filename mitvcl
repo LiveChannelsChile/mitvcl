@@ -87,7 +87,7 @@ http://45.232.210.1:47000/play/a0ap
 http://45.232.210.1:47000/play/studiouniversalhd
 
 #EXTINF:-1 tvg-chno="131" tvg-id="1506dtv.cl" tvg-name="1506dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png",Sony Movies
-http://167.250.222.35:16000/play/a04h/index.m3u8
+http://190.61.102.67:444/play/a04w
 
 #EXTINF:-1 tvg-chno="132" tvg-id="219dtv.cl" tvg-name="219dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1920px-SYFY.svg.png",SyFy
 http://200.106.124.248:8000/play/a0kt/index.m3u8
@@ -281,7 +281,7 @@ http://160.20.164.171:8001/play/a08z/index.m3u8
 http://167.250.222.35:16000/play/a066/index.m3u8
 
 #EXTINF:-1 tvg-chno="230" tvg-id="310dtv.cl" tvg-name="310dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/1920px-TeenNick_2019_logo.svg.png",TeenNick
-http://190.83.119.67:8000/play/a0q1/index.m3u8
+http://190.61.102.67:444/play/a04l
 
 
 #EXTINF:-1 tvg-chno="241" tvg-id="706dtv.cl" tvg-name="706dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-CNN.png",CNN International
@@ -336,7 +336,7 @@ http://45.232.210.1:8062/play/a09s/index.m3u8
 http://190.61.102.67:444/play/a00b
 
 #EXTINF:-1 tvg-chno="303" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1024px-Telemundo_logo_2018.svg.png",Telemundo Internacional
-http://167.250.222.35:16000/play/a04e/index.m3u8
+http://190.61.102.67:444/play/a04t
 
 #EXTINF:-1 tvg-chno="304" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png",Univision
 http://160.20.164.171:8001/play/a018
