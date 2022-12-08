@@ -87,7 +87,7 @@ http://45.232.210.1:47000/play/a0ap
 http://45.232.210.1:47000/play/studiouniversalhd
 
 #EXTINF:-1 tvg-chno="131" tvg-id="1506dtv.cl" tvg-name="1506dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png",Sony Movies
-http://190.61.102.67:444/play/a04w
+http://167.250.222.35:16000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-chno="132" tvg-id="219dtv.cl" tvg-name="219dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1920px-SYFY.svg.png",SyFy
 http://190.61.102.67:444/play/a04n
@@ -266,7 +266,7 @@ http://45.232.210.1:48000/play/disneyhd
 http://45.232.210.1:47000/play/a0ak
 
 #EXTINF:-1 tvg-chno="225" tvg-id="334dtv.cl" tvg-name="334dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png",Cartoonito
-http://190.61.102.67:444/play/a03u
+http://167.250.222.35:16000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-chno="226" tvg-id="309dtv.cl" tvg-name="309dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png",Nick Jr.
 http://45.232.210.1:8062/play/a0bg/index.m3u8
@@ -336,7 +336,7 @@ http://45.232.210.1:8062/play/a09s/index.m3u8
 http://190.61.102.67:444/play/a00b
 
 #EXTINF:-1 tvg-chno="303" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1024px-Telemundo_logo_2018.svg.png",Telemundo Internacional
-http://190.61.102.67:444/play/a04t
+http://167.250.222.35:16000/play/a04e/index.m3u8
 
 #EXTINF:-1 tvg-chno="304" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png",Univision
 http://160.20.164.171:8001/play/a018
