@@ -387,8 +387,8 @@ http://190.61.102.67:8000/play/a06a
 http://190.61.102.67:8000/play/a069
 
 
-#EXTINF:-1 tvg-chno="381" tvg-id="1481dtv.cl" tvg-name="1481dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png",HBO
-http://45.232.210.1:8062/play/a0b3/index.m3u8
+#EXTINF:-1 tvg-chno="381" tvg-id="1524dtv.co" tvg-name="1524dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png",HBO LA
+http://190.187.247.206:8000/play/a09o/index.m3u8
 
 #EXTINF:-1 tvg-chno="382" tvg-id="525dtv.cl" tvg-name="525dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/1920px-HBO2_logo.svg.png",HBO 2
 http://190.187.247.206:8000/play/a09m/index.m3u8
@@ -411,6 +411,9 @@ https://n9.cl/fxunq
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
 
-
-#EXTINF:-1,#EXTINF:-1 tvg-chno="401" tvg-id="1524dtv.co" tvg-name="1524dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png",HBO LA
-http://190.187.247.206:8000/play/a09o/index.m3u8
+#EXTINF:-1,HBO POP HD
+http://200.48.19.140:10021/play/a00v
+#EXTINF:-1,HBO Pop HD 2
+http://190.97.172.4:8000/play/a00z/index.m3u8
+#EXTINF:-1,HBO POP HD 3
+http://209.45.80.116:8072/play/a07a/index.m3u8
