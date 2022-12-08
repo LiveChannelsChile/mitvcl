@@ -406,14 +406,7 @@ https://n9.cl/10ko1u
 https://n9.cl/v5f6b7
 
 #EXTINF:-1 tvg-chno="387" tvg-id="541dtv.cl" tvg-name="541dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png",HBO Pop
-https://n9.cl/fxunq
+http://200.48.19.140:10021/play/a00v
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
-
-#EXTINF:-1,HBO POP HD
-http://200.48.19.140:10021/play/a00v
-#EXTINF:-1,HBO Pop HD 2
-http://190.97.172.4:8000/play/a00z/index.m3u8
-#EXTINF:-1,HBO POP HD 3
-http://209.45.80.116:8072/play/a07a/index.m3u8
