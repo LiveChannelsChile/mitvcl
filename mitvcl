@@ -301,7 +301,7 @@ https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 http://45.232.210.1:58000/play/mtvhd
 
 #EXTINF:-1 tvg-chno="262" tvg-id="272dtv.cl" tvg-name="272dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/800px-Htv_logo.svg.png",HTV
-http://190.83.119.67:8000/play/a0rg/index.m3u8
+http://190.216.105.66:6020/play/a0d5/index.m3u8
 
 #EXTINF:-1 tvg-chno="263" tvg-id="" tvg-name="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/entertainment_products/logos/stingray-iconcerts-logo.png",Stingray IConcerts
 http://200.48.19.141:10021/play/a007
@@ -410,3 +410,7 @@ https://n9.cl/fxunq
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
+
+
+#EXTINF:-1,#EXTINF:-1 tvg-chno="401" tvg-id="1524dtv.co" tvg-name="1524dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png",HBO LA
+http://190.187.247.206:8000/play/a09o/index.m3u8
