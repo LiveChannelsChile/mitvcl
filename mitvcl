@@ -90,10 +90,10 @@ http://45.232.210.1:47000/play/studiouniversalhd
 http://167.250.222.35:16000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-chno="132" tvg-id="219dtv.cl" tvg-name="219dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1920px-SYFY.svg.png",SyFy
-http://190.61.102.67:444/play/a04n
+http://200.106.124.248:8000/play/a0kt/index.m3u8
 
 #EXTINF:-1 tvg-chno="133" tvg-id="228dtv.cl" tvg-name="228dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png",Lifetime
-http://190.61.102.67:444/play/a045
+http://200.106.124.248:8000/play/a0ks/index.m3u8
 
 #EXTINF:-1 tvg-chno="134" tvg-id="217dtv.cl" tvg-name="217dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1920px-FX_International_logo.svg.png",FX
 http://45.232.210.1:47000/play/a0aw
@@ -390,8 +390,8 @@ http://190.61.102.67:8000/play/a069
 #EXTINF:-1 tvg-chno="381" tvg-id="1481dtv.cl" tvg-name="1481dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png",HBO
 http://45.232.210.1:8062/play/a0b3/index.m3u8
 
-#EXTINF:-1 tvg-chno="382" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/1920px-HBO2_logo.svg.png",HBO 2
-http://190.61.102.67:444/play/a016
+#EXTINF:-1 tvg-chno="382" tvg-id="525dtv.cl" tvg-name="525dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/1920px-HBO2_logo.svg.png",HBO 2
+http://190.187.247.206:8000/play/a09m/index.m3u8
 
 #EXTINF:-1 tvg-chno="383" tvg-id="526dtv.cl" tvg-name="526dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1920px-Logohboplus2019.svg.png",HBO Plus
 http://45.232.210.1:8062/play/a08g/index.m3u8
@@ -410,28 +410,3 @@ https://n9.cl/fxunq
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
-
-#EXTINF:-1,HBO MUNDI
-http://190.216.105.66:6020/play/a0dg/index.m3u8
-#EXTINF:-1,HBO 2 HD
-http://190.187.247.206:8000/play/a09m/index.m3u8
-#EXTINF:-1 group-title="-",440 HBO 2.
-http://179.57.172.189:9181/play/a0jk/index.m3u8
-#EXTINF:-1,SyFy 1
-http://200.106.124.248:8000/play/a0kt/index.m3u8
-#EXTINF:-1,SyFy 2
-http://190.216.105.66:6020/play/a0bq/index.m3u8
-#EXTINF:-1,SyFy 3
-http://190.187.247.206:8000/play/a00n/index.m3u8
-#EXTINF:-1,SyFy 4
-http://190.115.15.177:58003/play/a0c4/index.m3u8
-#EXTINF:-1 group-title="-",407 SyFy.
-http://179.57.172.189:9181/play/a0jg/index.m3u8
-#EXTINF:-1,LIFE TIME
-http://177.234.254.38:8000/play/a07c/index.m3u8
-#EXTINF:-1 group-title="-",226 Lifetime
-http://179.57.172.189:9181/play/a0lc/index.m3u8
-#EXTINF:-1,LIFE TIME 2
-http://190.115.15.177:58003/play/a03u/index.m3u8
-#EXTINF:-1,Lifetime 3
-http://200.106.124.248:8000/play/a0ks/index.m3u8
