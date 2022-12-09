@@ -92,8 +92,8 @@ http://190.61.102.67:444/play/a04w
 #EXTINF:-1 tvg-chno="132" tvg-id="219dtv.cl" tvg-name="219dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1920px-SYFY.svg.png",SyFy
 http://190.187.247.206:8000/play/a00n/index.m3u8
 
-#EXTINF:-1 tvg-chno="133" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1920px-TBS_logo_2016.svg.png",TBS
-http://200.48.19.140:10021/play/a03x
+#EXTINF:-1 tvg-chno="133" tvg-id="228dtv.cl" tvg-name="228dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png",Lifetime
+http://168.194.171.33:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-chno="134" tvg-id="217dtv.cl" tvg-name="217dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1920px-FX_International_logo.svg.png",FX
 http://45.232.210.1:47000/play/a0aw
@@ -111,8 +111,8 @@ http://45.232.210.1:58000/play/a06w
 #EXTINF:-1 tvg-chno="142" tvg-id="213dtv.cl" tvg-name="213dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Series
 http://45.232.210.1:47000/play/a0bf
 
-#EXTINF:-1 tvg-chno="143" tvg-id="228dtv.cl" tvg-name="228dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png",Lifetime
-http://168.194.171.33:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-chno="143" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1920px-TBS_logo_2016.svg.png",TBS
+http://200.48.19.140:10021/play/a03x
 
 #EXTINF:-1 tvg-chno="144" tvg-id="TCM.ar" tvg-name="TCM.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1024px-TCM_Latam_logo.svg.png",TCM
 http://45.232.210.1:8062/play/a09k/index.m3u8
@@ -303,8 +303,7 @@ http://45.232.210.1:58000/play/mtvhd
 #EXTINF:-1 tvg-chno="262" tvg-id="272dtv.cl" tvg-name="272dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/800px-Htv_logo.svg.png",HTV
 http://190.216.105.66:6020/play/a0d5/index.m3u8
 
-#EXTINF:-1 tvg-chno="263" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e1/Stingray_iConcerts_RGB_Blue.png",Stingray IConcerts
-http://200.48.19.141:10021/play/a007
+
 
 #EXTINF:-1 tvg-chno="264" tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/869156d90e27d6c6e09dc5a8f0017838.png",Zapping Music
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
@@ -410,3 +409,6 @@ http://200.48.19.140:10021/play/a00v
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
+
+#EXTINF:-1,TBS
+http://168.194.171.33:8000/play/a01r/index.m3u8
