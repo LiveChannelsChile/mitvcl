@@ -416,3 +416,19 @@ http://200.48.19.140:10021/play/a00v
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
+
+
+#EXTINF:-1,Discovery Science - 7
+http://45.162.132.145:8850/play/a022/index.m3u8
+#EXTINF:-1,ETC TV
+http://45.162.132.145:8850/play/a03p/index.m3u8
+#EXTINF:-1,Glitz* - 15
+http://45.162.132.145:8850/play/a030/index.m3u8
+#EXTINF:-1,REC TV - 27
+http://45.162.132.145:8850/play/a01v/index.m3u8
+#EXTINF:-1 tvg-id="20",TNT SPORTS 2 - 33
+http://45.162.132.145:8850/play/a02v/index.m3u8
+#EXTINF:-1,TNT SPORTS 2 - 34
+http://45.162.132.145:8850/play/a02l/index.m3u8
+#EXTINF:-1,TNT SPORTS 3 - 35
+http://45.162.132.145:8850/play/a02g/index.m3u8
