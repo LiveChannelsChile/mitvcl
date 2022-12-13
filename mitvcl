@@ -14,13 +14,13 @@ http://45.232.210.1:47000/play/a058
 https://marine2.miplay.cl/ucv3/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-id="149dtv.cl" tvg-name="149dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg/1200px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg.png",TVN
-http://45.232.210.1:47000/play/a06r
+http://190.97.172.4:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-chno="106" tvg-id="mega.cl" tvg-name="mega.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/1200px-Mega_Chile_2020.png",Mega
-http://45.232.210.1:47000/play/a08g
+http://190.97.172.4:8000/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-chno="107" tvg-id="chv.cl" tvg-name="chv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/151.png",Chilevision
-http://45.232.210.1:47000/play/a08n
+http://190.97.172.4:8000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-chno="108" tvg-id="152dtv.cl" tvg-name="152dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png",Canal 13
 http://45.232.210.1:8061/play/a07a
@@ -244,7 +244,7 @@ http://45.232.210.1:47000/play/idhd
 http://45.232.210.1:8062/play/a0bh/index.m3u8
 
 #EXTINF:-1 tvg-chno="212" tvg-id="DiscoveryScienceLatinAmerica.pa" tvg-name="DiscoveryScienceLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/800px-Science_Channel_logo.svg.png",Discovery Science
-https://n9.cl/5qagd
+http://190.61.102.67:444/play/a00e
 
 #EXTINF:-1 tvg-chno="213" tvg-id="DiscoveryTheater.mx" tvg-name="DiscoveryTheater.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1920px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater
 http://45.232.210.1:47000/play/a0am
@@ -326,7 +326,7 @@ http://45.232.210.1:47000/play/a074
 http://45.232.210.1:58000/play/pasioneshd
 
 #EXTINF:-1 tvg-chno="286" tvg-id="741dtv.cl" tvg-name="741dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/500px-Sun_Channel_Logo_2022.webp.png",Sun Channel
-http://45.232.210.1:47000/play/a0aj
+http://190.97.172.4:8000/play/a01e/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="301" tvg-id="TVEIntAmerica.es" tvg-name="TVEIntAmerica.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/702px-Logo_TVE-Internacional.svg.png",TVE Internacional
@@ -410,10 +410,3 @@ http://200.48.19.140:10021/play/a00v
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
-
-#EXTINF:-1,MEGA HD
-http://190.97.172.4:8000/play/a015/index.m3u8
-#EXTINF:-1,TVN HD
-http://190.97.172.4:8000/play/a01j/index.m3u8
-#EXTINF:-1,CHV HD
-http://190.97.172.4:8000/play/a006/index.m3u8
