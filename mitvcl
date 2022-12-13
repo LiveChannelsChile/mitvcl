@@ -410,3 +410,10 @@ http://200.48.19.140:10021/play/a00v
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
+
+#EXTINF:-1,MEGA HD
+http://190.97.172.4:8000/play/a015/index.m3u8
+#EXTINF:-1,TVN HD
+http://190.97.172.4:8000/play/a01j/index.m3u8
+#EXTINF:-1,CHV HD
+http://190.97.172.4:8000/play/a006/index.m3u8
