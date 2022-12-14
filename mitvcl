@@ -133,10 +133,10 @@ http://190.61.102.67:31589/play/a01d/index.m3u8
 http://190.61.102.67:31589/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-chno="150" tvg-id="" tvg-name="" tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.615120486_CloverChannel.png.5b98947815588c78b3c43fe77e580fe9.png",Clover Channel
-http://200.48.19.140:10021/play/a00w
+http://190.97.172.4:8000/play/a00c/index.m3u8
 
 #EXTINF:-1 tvg-chno="151" tvg-id="" tvg-name="" tvg-logo="https://www.kanalddrama.com/assets/img/logo_bottom2.png",Kanal D Drama
-http://200.48.19.140:10021/play/a01l
+http://190.97.172.4:8000/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-chno="152" tvg-id="210dtv.cl" tvg-name="210dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1920px-AMC_logo_2019.svg.png",AMC
 http://45.232.210.1:47000/play/a056
@@ -272,7 +272,7 @@ http://167.250.222.35:16000/play/a02c/index.m3u8
 http://45.232.210.1:8062/play/a0bg/index.m3u8
 
 #EXTINF:-1 tvg-chno="227" tvg-id="315dtv.cl" tvg-name="315dtv.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Disney_Junior_2020.png/revision/latest/scale-to-width-down/1200?cb=20210617173806&path-prefix=es",Disney Junior
-http://45.238.21.106:6688/play/a01c/index.m3u8
+http://190.97.172.4:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-chno="228" tvg-id="1317dtv.cl" tvg-name="1317dtv.cl" tvg-logo="https://1.bp.blogspot.com/-QY72YPUZ_-A/X8_CSWEtfxI/AAAAAAAA7kg/S8H7gAJczlImH4fE131WrPpb_VRz2Md4ACLcBGAsYHQ/s500/babytv-2017.png",BabyTV
 http://160.20.164.171:8001/play/a08z/index.m3u8
