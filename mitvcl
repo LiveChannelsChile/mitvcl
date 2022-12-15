@@ -133,10 +133,10 @@ http://190.61.102.67:31589/play/a01d/index.m3u8
 http://190.61.102.67:31589/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-chno="150" tvg-id="" tvg-name="" tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.615120486_CloverChannel.png.5b98947815588c78b3c43fe77e580fe9.png",Clover Channel
-http://190.97.172.4:8000/play/a00c/index.m3u8
+http://45.232.211.196:1080/play/a044
 
 #EXTINF:-1 tvg-chno="151" tvg-id="" tvg-name="" tvg-logo="https://www.kanalddrama.com/assets/img/logo_bottom2.png",Kanal D Drama
-http://190.97.172.4:8000/play/a012/index.m3u8
+http://45.232.211.196:1080/play/a05k
 
 #EXTINF:-1 tvg-chno="152" tvg-id="210dtv.cl" tvg-name="210dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1920px-AMC_logo_2019.svg.png",AMC
 http://45.232.210.1:47000/play/a056
@@ -406,7 +406,7 @@ https://n9.cl/10ko1u
 https://n9.cl/v5f6b7
 
 #EXTINF:-1 tvg-chno="387" tvg-id="541dtv.cl" tvg-name="541dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png",HBO Pop
-http://190.97.172.4:8000/play/a00z/index.m3u8
+https://n9.cl/fxunq
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
