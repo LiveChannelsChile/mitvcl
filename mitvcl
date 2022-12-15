@@ -414,9 +414,17 @@ http://45.232.210.1:47000/play/a0fb
 
 #EXTINF:-1 tvg-chno="5" tvg-id="149dtv.cl" tvg-name="149dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/TVN2020.svg/1920px-TVN2020.svg.png",TVN
 http://45.232.210.1:47000/play/a06r
-
 #EXTINF:-1 tvg-chno="6" tvg-id="mega.cl" tvg-name="mega.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Mega_Chile_2020.png",Mega
 http://45.232.210.1:47000/play/a08g
-
 #EXTINF:-1 tvg-chno="7" tvg-id="chv.cl" tvg-name="chv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/151.png",Chilevision
 http://45.232.210.1:47000/play/a08n
+#EXTINF:-1,TVN HD
+http://170.247.204.18:8000/play/a06r/index.m3u8
+#EXTINF:-1,CHV HD
+http://170.247.204.18:8000/play/a08n/index.m3u8
+#EXTINF:-1,MEGA HD
+http://170.247.204.18:8000/play/a08g/index.m3u8
+#EXTINF:-1,Kanal D Drama HD
+http://170.247.204.18:8000/play/a0es/index.m3u8
+#EXTINF:-1,Clover HD
+http://170.247.204.18:8000/play/a0f4/index.m3u8
