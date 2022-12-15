@@ -14,13 +14,13 @@ http://45.232.210.1:47000/play/a058
 https://marine2.miplay.cl/ucv3/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-id="149dtv.cl" tvg-name="149dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg/1200px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg.png",TVN
-http://190.97.172.4:8000/play/a01j/index.m3u8
+http://45.232.210.1:8062/play/a085/index.m3u8
 
 #EXTINF:-1 tvg-chno="106" tvg-id="mega.cl" tvg-name="mega.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/1200px-Mega_Chile_2020.png",Mega
-http://190.97.172.4:8000/play/a015/index.m3u8
+http://45.232.210.1:8062/play/a07f/index.m3u8
 
 #EXTINF:-1 tvg-chno="107" tvg-id="chv.cl" tvg-name="chv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/151.png",Chilevision
-http://190.97.172.4:8000/play/a006/index.m3u8
+http://45.232.210.1:8062/play/a085/index.m3u8
 
 #EXTINF:-1 tvg-chno="108" tvg-id="152dtv.cl" tvg-name="152dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png",Canal 13
 http://45.232.210.1:8061/play/a07a
