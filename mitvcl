@@ -433,4 +433,5 @@ http://200.24.132.99:8000/play/a00f
 http://200.24.132.99:8000/play/a00j
 #EXTINF:-1,Disney JR 3
 http://160.20.164.171:8001/play/a006/index.m3u8
-
+#EXTINF:-1,Disney JR 4
+http://190.216.105.66:6020/play/a097/index.m3u8
