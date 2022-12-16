@@ -133,10 +133,10 @@ http://190.61.102.67:31589/play/a01d/index.m3u8
 http://190.61.102.67:31589/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-chno="150" tvg-id="" tvg-name="" tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.615120486_CloverChannel.png.5b98947815588c78b3c43fe77e580fe9.png",Clover Channel
-http://45.232.211.196:1080/play/a044
+http://45.233.169.25:8000/play/a00m
 
 #EXTINF:-1 tvg-chno="151" tvg-id="" tvg-name="" tvg-logo="https://www.kanalddrama.com/assets/img/logo_bottom2.png",Kanal D Drama
-http://45.232.211.196:1080/play/a05k
+http://179.0.98.34:8000/play/a03z/index.m3u8
 
 #EXTINF:-1 tvg-chno="152" tvg-id="210dtv.cl" tvg-name="210dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1920px-AMC_logo_2019.svg.png",AMC
 http://45.232.210.1:47000/play/a056
@@ -278,7 +278,7 @@ http://167.250.222.35:16000/play/a02c/index.m3u8
 http://45.232.210.1:8062/play/a0bg/index.m3u8
 
 #EXTINF:-1 tvg-chno="227" tvg-id="315dtv.cl" tvg-name="315dtv.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Disney_Junior_2020.png/revision/latest/scale-to-width-down/1200?cb=20210617173806&path-prefix=es",Disney Junior
-http://160.20.164.171:8001/play/a006
+http://45.233.169.25:8000/play/a010
 
 #EXTINF:-1 tvg-chno="228" tvg-id="1317dtv.cl" tvg-name="1317dtv.cl" tvg-logo="https://1.bp.blogspot.com/-QY72YPUZ_-A/X8_CSWEtfxI/AAAAAAAA7kg/S8H7gAJczlImH4fE131WrPpb_VRz2Md4ACLcBGAsYHQ/s500/babytv-2017.png",BabyTV
 http://160.20.164.171:8001/play/a08z/index.m3u8
@@ -412,26 +412,7 @@ https://n9.cl/10ko1u
 https://n9.cl/v5f6b7
 
 #EXTINF:-1 tvg-chno="387" tvg-id="541dtv.cl" tvg-name="541dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png",HBO Pop
-https://n9.cl/fxunq
+http://45.233.169.25:8000/play/a01f
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
-
-#EXTINF:-1,Disney Junior HD
-http://45.233.169.25:8000/play/a010
-#EXTINF:-1,Disney Jr
-http://45.233.169.25:8000/play/a00z
-#EXTINF:-1,Stingray Concerts HD
-http://200.48.19.140:10021/play/a007
-#EXTINF:-1,Disney Junior HD 2
-http://200.48.19.140:10021/play/a016
-#EXTINF:-1,Disney Jr 2
-http://200.24.132.99:8000/play/a01u
-#EXTINF:-1,ECTV HD
-http://200.24.132.99:8000/play/a00f
-#EXTINF:-1,ECTV SD
-http://200.24.132.99:8000/play/a00j
-#EXTINF:-1,Disney JR 3
-http://160.20.164.171:8001/play/a006/index.m3u8
-#EXTINF:-1,Disney JR 4
-http://190.216.105.66:6020/play/a097/index.m3u8
