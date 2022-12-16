@@ -170,7 +170,7 @@ http://160.20.164.171:8001/play/a04r
 http://45.232.210.1:58000/play/a05e
 
 #EXTINF:-1 tvg-chno="166" tvg-id="beinsportsspanish.us" tvg-name="beinsportsspanish.us" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png",beIN Sports Ñ
-http://200.52.154.125:8000/play/a06q/index.m3u8
+http://line.powerdino.com/4375a1dd43/649f75a876/264841
 
 #EXTINF:-1 tvg-chno="167" tvg-id="beinx-es1.us" tvg-name="beinx-es1.us" tvg-logo=" https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",beIN Sports XTRA Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
@@ -416,11 +416,3 @@ http://45.233.169.25:8000/play/a01f
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
-
-
-#EXTINF:-1,EUROSPORT1HD
-http://79.116.17.196:8000/play/a0j7
-#EXTINF:-1,EUROSPORT2HD
-http://79.116.17.196:8000/play/a0ju
-#EXTINF:-1,EUROSPORT3HD
-http://79.116.17.196:8000/play/a0jl
