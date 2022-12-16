@@ -13,8 +13,7 @@ http://45.232.210.1:47000/play/a058
 #EXTINF:-1 tvg-chno="104" tvg-id="" tvg-name="" tvg-logo="https://ucvtv.cl/imagenes/logo-ucv-200.png",UCV
 https://marine2.miplay.cl/ucv3/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="105" tvg-id="149dtv.cl" tvg-name="149dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/TVN2020.svg/1920px-TVN2020.svg.png",TVN
-http://45.232.210.1:47000/play/a06r
+
 
 #EXTINF:-1 tvg-chno="106" tvg-id="mega.cl" tvg-name="mega.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Mega_Chile_2020.png",Mega
 http://45.232.210.1:47000/play/a08g
@@ -351,7 +350,7 @@ http://160.20.164.171:8001/play/a018
 http://190.61.102.67:444/play/a04z
 
 #EXTINF:-1 tvg-chno="306" tvg-id="AtreseriesInternacional.es" tvg-name="AtreseriesInternacional.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png",A3 Series
-http://45.232.211.196:1080/play/a04n 
+http://190.61.102.67:444/play/a00h
 
 
 #EXTINF:-1 tvg-chno="321" tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_02/large.2.png.ee7314e2d55fc99f91cede718077b31d.png",EWTN
@@ -412,7 +411,7 @@ https://n9.cl/10ko1u
 https://n9.cl/v5f6b7
 
 #EXTINF:-1 tvg-chno="387" tvg-id="541dtv.cl" tvg-name="541dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png",HBO Pop
-http://45.233.169.25:8000/play/a01f
+https://n9.cl/fxunq
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
