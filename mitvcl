@@ -332,7 +332,7 @@ http://45.232.210.1:47000/play/a074
 http://45.232.210.1:58000/play/pasioneshd
 
 #EXTINF:-1 tvg-chno="286" tvg-id="741dtv.cl" tvg-name="741dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/500px-Sun_Channel_Logo_2022.webp.png",Sun Channel
-http://160.20.164.171:8001/play/a02v
+http://45.232.210.1:47000/play/a0aj
 
 
 #EXTINF:-1 tvg-chno="301" tvg-id="TVEIntAmerica.es" tvg-name="TVEIntAmerica.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/702px-Logo_TVE-Internacional.svg.png",TVE Internacional
