@@ -169,20 +169,20 @@ http://160.20.164.171:8001/play/a04r
 #EXTINF:-1 tvg-chno="165" tvg-id="1620dtv.cl" tvg-name="1620dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png",ESPN Extra
 http://45.232.210.1:58000/play/a05e
 
-#EXTINF:-1 tvg-chno="166" tvg-id="beinsportsspanish.us" tvg-name="beinsportsspanish.us" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png",beIN Sports Ñ
-http://200.52.154.125:8000/play/a06q/index.m3u8
+#EXTINF:-1 tvg-chno="166" tvg-id="" tvg-name="s" tvg-logo="",
 
-#EXTINF:-1 tvg-chno="167" tvg-id="beinx-es1.us" tvg-name="beinx-es1.us" tvg-logo=" https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",beIN Sports XTRA Ñ
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
-#EXTINF:-1 tvg-chno="168" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/6WwrHjw/Claro-sports.png",Claro Sports
+#EXTINF:-1 tvg-chno="167" tvg-id="" tvg-name="" tvg-logo="",
+
+
+#EXTINF:-1 tvg-chno="168" tvg-id=" " tvg-name="" tvg-logo="",
+
+
+#EXTINF:-1 tvg-chno="169" tvg-id="" tvg-name="" tvg-logo="",
+
+
+#EXTINF:-1 tvg-chno="170" tvg-id=" " tvg-name="" tvg-logo="https://i.ibb.co/6WwrHjw/Claro-sports.png",Claro Sports
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
-
-#EXTINF:-1 tvg-chno="169" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/7kGJjYG/Claro-sports-2.png",Claro Sports 2
-http://190.61.102.67:444/play/a012
-
-#EXTINF:-1 tvg-chno="170" tvg-id="mpluslaliga.es" tvg-name="mpluslaliga.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png",LaLiga TV
-http://79.116.17.196:8000/play/a0it
 
 #EXTINF:-1 tvg-chno="171" tvg-id="4399dtv.cl" tvg-name="4399dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png",FOX Sports 1
 http://45.232.210.1:47000/play/a07k
@@ -342,7 +342,7 @@ http://45.232.210.1:8062/play/a09s/index.m3u8
 http://190.61.102.67:444/play/a00b
 
 #EXTINF:-1 tvg-chno="303" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1024px-Telemundo_logo_2018.svg.png",Telemundo Internacional
-http://179.0.98.34:8000/play/a051/index.m3u8
+http://190.61.102.67:444/play/a04t
 
 #EXTINF:-1 tvg-chno="304" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png",Univision
 http://160.20.164.171:8001/play/a018
