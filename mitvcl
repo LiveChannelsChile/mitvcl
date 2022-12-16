@@ -133,7 +133,7 @@ http://190.61.102.67:31589/play/a01d/index.m3u8
 http://190.61.102.67:31589/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-chno="150" tvg-id="" tvg-name="" tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.615120486_CloverChannel.png.5b98947815588c78b3c43fe77e580fe9.png",Clover Channel
-http://45.233.169.25:8000/play/a00m
+http://179.0.98.34:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-chno="151" tvg-id="" tvg-name="" tvg-logo="https://www.kanalddrama.com/assets/img/logo_bottom2.png",Kanal D Drama
 http://179.0.98.34:8000/play/a03z/index.m3u8
@@ -182,7 +182,7 @@ https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/in
 http://190.61.102.67:444/play/a012
 
 #EXTINF:-1 tvg-chno="170" tvg-id="mpluslaliga.es" tvg-name="mpluslaliga.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png",LaLiga TV
-http://200.52.154.125:8000/play/a06f/index.m3u8
+http://79.116.17.196:8000/play/a0it
 
 #EXTINF:-1 tvg-chno="171" tvg-id="4399dtv.cl" tvg-name="4399dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png",FOX Sports 1
 http://45.232.210.1:47000/play/a07k
