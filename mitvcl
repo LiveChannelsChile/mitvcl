@@ -416,3 +416,9 @@ http://45.233.169.25:8000/play/a01f
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
+
+
+#EXTINF:-1,DAZN 1 HD
+http://103.161.34.36:8001/play/a03p
+#EXTINF:-1,DAZN 2 HD
+http://103.161.34.36:8001/play/a03q
