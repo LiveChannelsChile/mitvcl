@@ -309,8 +309,8 @@ http://45.232.210.1:58000/play/mtvhd
 #EXTINF:-1 tvg-chno="262" tvg-id="272dtv.cl" tvg-name="272dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/800px-Htv_logo.svg.png",HTV
 http://190.61.102.67:444/play/a02a
 
-#EXTINF:-1 tvg-chno="263" tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.MusicTopLogo.png.58a8c29eaa20aa0e5c15952328901ff9.png",MusicTop
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="263" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/1200px-Exa_TV_logo.svg.png",Exa TV
+http://190.61.102.67:31589/play/a06e/index.m3u8
 
 #EXTINF:-1 tvg-chno="264" tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/869156d90e27d6c6e09dc5a8f0017838.png",Zapping Music
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
