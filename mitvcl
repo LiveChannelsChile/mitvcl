@@ -170,7 +170,7 @@ http://160.20.164.171:8001/play/a04r
 http://45.232.210.1:58000/play/a05e
 
 #EXTINF:-1 tvg-chno="166" tvg-id="beinsportsspanish.us" tvg-name="beinsportsspanish.us" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png",beIN Sports Ñ
-https://n9.cl/th7an
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487.ts
 
 #EXTINF:-1 tvg-chno="167" tvg-id="beinx-es1.us" tvg-name="beinx-es1.us" tvg-logo=" https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",beIN Sports XTRA Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
