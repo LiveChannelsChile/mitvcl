@@ -309,8 +309,8 @@ http://45.232.210.1:58000/play/mtvhd
 #EXTINF:-1 tvg-chno="262" tvg-id="272dtv.cl" tvg-name="272dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/800px-Htv_logo.svg.png",HTV
 http://190.61.102.67:444/play/a02a
 
-#EXTINF:-1 tvg-chno="263" tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.MusicTopLogo.png.58a8c29eaa20aa0e5c15952328901ff9.png",MusicTop
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="263" tvg-id="" tvg-name="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/entertainment_products/logos/stingray-iconcerts-logo.png",Stingray iConcerts
+http://170.239.188.253:50000/play/a03r/index.m3u8
 
 #EXTINF:-1 tvg-chno="264" tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/869156d90e27d6c6e09dc5a8f0017838.png",Zapping Music
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
@@ -424,22 +424,22 @@ http://179.0.98.34:8000/play/a02r/index.m3u8
 http://45.232.210.1:47000/play/a0fb
 
 
-#EXTINF:-1,Concert Channel
-http://45.179.164.9:8000/play/a05y/index.m3u8
-#EXTINF:-1,Concert Channel 2
-http://190.115.15.177:58003/play/a02o/index.m3u8
-#EXTINF:-1,Concert Channel 3
-http://45.228.234.185:8000/play/a02r/index.m3u8
-#EXTINF:-1,Concert Channel 4
-http://190.83.119.67:8000/play/a0ub/index.m3u8
-#EXTINF:-1,Stingray Concerts HD
-http://200.48.19.140:10021/play/a007
-#EXTINF:-1,Stingray Concerts HD 2
-http://200.48.19.139:10021/play/a007
-#EXTINF:-1,Stingray Concerts HD 3
-http://200.48.19.138:10021/play/a007
-#EXTINF:-1,Stingray Concerts HD 4
-http://170.239.188.253:50000/play/a03r/index.m3u8
+#EXTINF:-1,GOLDEN EDGE
+http://200.69.85.98:8000/udp/239.0.6.19:1234
 
 
+#EXTINF:-1 tvg-id="WABCDT.us" group-title="USA LOCAL", ABC NY
+https://v-ny.mybtv.net/live/554.m3u8
+#EXTINF:-1 group-title="Lista 24", CBS NEW YORK
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/497.ts
+#EXTINF:-1 tvg-id="WNBCDT.us" group-title="USA LOCAL", NBC NY
+https://v-ny.mybtv.net/live/548.m3u8
+#EXTINF:-1 tvg-id="WNETDT.us" group-title="USA LOCAL", PBS WNET 13 NY
+https://v-ny.mybtv.net/live/567.m3u8
+#EXTINF:-1 tvg-id="WFOXDT.us" group-title="USA LOCAL", FOX NY
+https://v-ny.mybtv.net/live/550.m3u8
+#EXTINF:-1 tvg-id="WDCW.us" group-title="USA LOCAL", The CW NY
+https://v-ny.mybtv.net/live/562.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA LOCAL", My Network TV
+https://v-ny.mybtv.net/live/559.m3u8
 
