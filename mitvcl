@@ -345,7 +345,7 @@ http://45.232.210.1:47000/play/a0aj
 http://45.232.210.1:8062/play/a09s/index.m3u8
 
 #EXTINF:-1 tvg-chno="302" tvg-id="762dtv.cl" tvg-name="762dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/497px-Antena_3_Internacional_logo_2017.svg.png",Antena 3 Internacional
-http://190.61.102.67:444/play/a00b
+http://177.234.230.226:8010/play/a00l/index.m3u8
 
 #EXTINF:-1 tvg-chno="303" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1024px-Telemundo_logo_2018.svg.png",Telemundo Internacional
 http://160.20.164.171:8001/play/a01v
