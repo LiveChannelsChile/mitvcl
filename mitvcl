@@ -422,3 +422,24 @@ http://179.0.98.34:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
+
+
+#EXTINF:-1,Concert Channel
+http://45.179.164.9:8000/play/a05y/index.m3u8
+#EXTINF:-1,Concert Channel 2
+http://190.115.15.177:58003/play/a02o/index.m3u8
+#EXTINF:-1,Concert Channel 3
+http://45.228.234.185:8000/play/a02r/index.m3u8
+#EXTINF:-1,Concert Channel 4
+http://190.83.119.67:8000/play/a0ub/index.m3u8
+#EXTINF:-1,Stingray Concerts HD
+http://200.48.19.140:10021/play/a007
+#EXTINF:-1,Stingray Concerts HD 2
+http://200.48.19.139:10021/play/a007
+#EXTINF:-1,Stingray Concerts HD 3
+http://200.48.19.138:10021/play/a007
+#EXTINF:-1,Stingray Concerts HD 4
+http://170.239.188.253:50000/play/a03r/index.m3u8
+
+
+
