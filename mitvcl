@@ -432,7 +432,7 @@ https://v-ny.mybtv.net/live/548.m3u8
 https://v-ny.mybtv.net/live/550.m3u8
 #EXTINF:-1 tvg-chno="1007" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/800px-ABC-2021-LOGO.svg.png",ABC
 https://v-ny.mybtv.net/live/554.m3u8
-#EXTINF:-1 tvg-chno="1009" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png",My Network TV
+#EXTINF:-1 tvg-chno="1009" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png",MyNetworkTV
 https://v-ny.mybtv.net/live/559.m3u8
 #EXTINF:-1 tvg-chno="1011" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/800px-The_CW.svg.png",The CW
 https://v-ny.mybtv.net/live/562.m3u8
