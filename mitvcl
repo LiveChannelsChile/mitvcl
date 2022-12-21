@@ -427,7 +427,7 @@ http://45.232.210.1:47000/play/a0fb
 #EXTINF:-1 tvg-chno="1002" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/2560px-CBS_logo_%282020%29.svg.png",CBS
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/497.ts
 #EXTINF:-1 tvg-chno="1004" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/2077px-NBC_logo.svg.png",NBC
-https://v-ny.mybtv.net/live/548.m3u8
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/601.ts
 #EXTINF:-1 tvg-chno="1005" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/2560px-FOX_wordmark.svg.png",FOX
 https://v-ny.mybtv.net/live/550.m3u8
 #EXTINF:-1 tvg-chno="1007" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/800px-ABC-2021-LOGO.svg.png",ABC
