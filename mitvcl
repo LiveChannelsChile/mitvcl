@@ -142,10 +142,10 @@ http://179.0.98.34:8000/play/a03z/index.m3u8
 http://45.232.210.1:47000/play/a056
 
 #EXTINF:-1 tvg-chno="153" tvg-id="1515dtv.cl" tvg-name="1515dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png",Europa Europa
-http://167.250.222.35:16000/play/a04g/index.ts
+http://167.250.222.35:16000/play/a04g/index.m3u8
 
 #EXTINF:-1 tvg-chno="154" tvg-id="746dtv.cl" tvg-name="746dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png",Film & Arts
-http://167.250.222.35:16000/play/a04g/index.m3u8
+http://45.5.117.138:8005/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-chno="155" tvg-id="507dtv.co" tvg-name="507dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",Cinecanal
 http://45.232.210.1:47000/play/a05c
@@ -440,3 +440,13 @@ https://v-ny.mybtv.net/live/562.m3u8
 https://v-ny.mybtv.net/live/567.m3u8
 #EXTINF:-1 tvg-chno="1031" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/1024px-Ion_logo.svg.png",ION
 https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1,EUROPA EUROPA 1
+http://45.181.122.100:8002/play/a01j
+#EXTINF:-1,Europa HD
+http://45.190.185.210:8000/play/a0cd
+#EXTINF:-1,Europa HD 3
+http://181.175.41.170:8000/play/a0ff
+#EXTINF:-1,Europa HD 4
+http://186.121.249.26:8000/play/a036
