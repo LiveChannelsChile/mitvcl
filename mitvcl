@@ -142,10 +142,10 @@ http://179.0.98.34:8000/play/a03z/index.m3u8
 http://45.232.210.1:47000/play/a056
 
 #EXTINF:-1 tvg-chno="153" tvg-id="1515dtv.cl" tvg-name="1515dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png",Europa Europa
-http://190.61.102.67:444/play/a04v
+http://190.108.87.149:5000/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-chno="154" tvg-id="746dtv.cl" tvg-name="746dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png",Film & Arts
-http://190.61.102.67:444/play/a04q
+http://190.108.87.149:5000/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-chno="155" tvg-id="507dtv.co" tvg-name="507dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",Cinecanal
 http://45.232.210.1:47000/play/a05c
@@ -423,9 +423,11 @@ http://179.0.98.34:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
 
-#EXTINF:-1,Europa HD
-http://190.108.87.149:5000/play/a015/index.m3u8
-#EXTINF:-1,Film & arts HD
-http://190.108.87.149:5000/play/a010/index.m3u8
+
 #EXTINF:-1,Teen Nick HD
 http://186.28.229.135:8000/play/a06v/index.m3u8
+#EXTINF:-1,Teen Nick HD 2
+http://181.78.7.92:6500/play/a06q/index.m3u8
+#EXTINF:-1,Teen Nick 3
+http://179.43.94.187:8010/play/a07l
+
