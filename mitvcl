@@ -142,7 +142,7 @@ http://179.0.98.34:8000/play/a03z/index.m3u8
 http://45.232.210.1:47000/play/a056
 
 #EXTINF:-1 tvg-chno="153" tvg-id="1515dtv.cl" tvg-name="1515dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png",Europa Europa
-http://177.234.254.38:8000/play/a023/index.m3u8
+http://190.61.102.67:444/play/a04v
 
 #EXTINF:-1 tvg-chno="154" tvg-id="746dtv.cl" tvg-name="746dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png",Film & Arts
 http://45.5.117.138:8005/play/a008/index.m3u8
@@ -424,26 +424,8 @@ http://179.0.98.34:8000/play/a02r/index.m3u8
 http://45.232.210.1:47000/play/a0fb
 
 
-#EXTINF:-1 tvg-chno="1002" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/2560px-CBS_logo_%282020%29.svg.png",CBS
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/497.ts
 
-#EXTINF:-1 tvg-chno="1004" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/2077px-NBC_logo.svg.png",NBC
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/601.ts
-
-#EXTINF:-1 tvg-chno="1005" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/2560px-FOX_wordmark.svg.png",FOX
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/539.ts
-
-#EXTINF:-1 tvg-chno="1007" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/800px-ABC-2021-LOGO.svg.png",ABC
-https://v-ny.mybtv.net/live/554.m3u8
-
-#EXTINF:-1 tvg-chno="1009" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png",MyNetworkTV
-https://v-ny.mybtv.net/live/559.m3u8
-
-#EXTINF:-1 tvg-chno="1011" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/800px-The_CW.svg.png",The CW
-https://v-ny.mybtv.net/live/562.m3u8
-
-#EXTINF:-1 tvg-chno="1013" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1200px-PBS_logo.svg.png",PBS
-https://v-ny.mybtv.net/live/567.m3u8
-
-#EXTINF:-1 tvg-chno="1031" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/1024px-Ion_logo.svg.png",ION
-https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Teen Nick HD 1
+http://45.233.169.1:8000/play/a06r
+#EXTINF:-1,TeenNick HD 2
+http://45.233.169.1:8000/play/a07g
