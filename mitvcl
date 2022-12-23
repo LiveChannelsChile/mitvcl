@@ -422,3 +422,10 @@ http://179.0.98.34:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
+
+#EXTINF:-1,Europa HD
+http://190.108.87.149:5000/play/a015/index.m3u8
+#EXTINF:-1,Film & arts HD
+http://190.108.87.149:5000/play/a010/index.m3u8
+#EXTINF:-1,Teen Nick HD
+http://186.28.229.135:8000/play/a06v/index.m3u8
