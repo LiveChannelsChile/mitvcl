@@ -287,7 +287,7 @@ http://160.20.164.171:8001/play/a08z/index.m3u8
 http://167.250.222.35:16000/play/a066/index.m3u8
 
 #EXTINF:-1 tvg-chno="230" tvg-id="310dtv.cl" tvg-name="310dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/1920px-TeenNick_2019_logo.svg.png",TeenNick
-http://190.61.102.67:444/play/a04l
+http://186.28.229.135:8000/play/a06v/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="241" tvg-id="706dtv.cl" tvg-name="706dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-CNN.png",CNN International
@@ -422,12 +422,3 @@ http://179.0.98.34:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
-
-
-#EXTINF:-1,Teen Nick HD
-http://186.28.229.135:8000/play/a06v/index.m3u8
-#EXTINF:-1,Teen Nick HD 2
-http://181.78.7.92:6500/play/a06q/index.m3u8
-#EXTINF:-1,Teen Nick 3
-http://179.43.94.187:8010/play/a07l
-
