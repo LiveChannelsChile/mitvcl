@@ -351,7 +351,7 @@ http://177.234.230.226:8010/play/a00l/index.m3u8
 http://177.234.230.226:8010/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-chno="304" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png",Univision
-http://201.182.251.146:37581/play/a05q/index.m3u8
+http://200.6.227.230:7000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-chno="305" tvg-id="StarTVE.mx" tvg-name="StarTVE.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",Star TVE
 http://190.187.247.206:8000/play/a09k/index.m3u8
