@@ -422,29 +422,3 @@ http://179.0.98.34:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
-
-
-#EXTINF:-1,MEX: GOLDEN
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044506
-#EXTINF:-1,MEX: GOLDEN EDGE
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044507
-#EXTINF:-1,MEX: GOLDEN PLUS
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044508
-#EXTINF:-1,CO: DIRECTV SPORTS 2
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044626
-#EXTINF:-1,CO: DIRECTV SPORTS
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044627
-#EXTINF:-1,CO: FOX SPORTS 1
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044628
-#EXTINF:-1,CO: DIRECTV SPORTS +
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044629
-#EXTINF:-1,CL: DIRECTV SPORTS
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044667
-#EXTINF:-1,CL: 13 C
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044669
-#EXTINF:-1,CL: ETC TV
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044677
-#EXTINF:-1,CINE | GOLDEN
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059198
-#EXTINF:-1,CINE | GOLDEN EDGE
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059199
