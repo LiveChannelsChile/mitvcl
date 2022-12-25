@@ -47,7 +47,7 @@ https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master_4.m3u8
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="116" tvg-id="CanalDiputados.cl" tvg-name="CanalDiputados.cl" tvg-logo="https://www.camara.cl/img/escudo2.jpg",Cámara TV
-http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
+https://tls-cl.cdnz.cl/camara/live/media_w2106399020_DVR_4848406.m3u8
 
 #EXTINF:-1 tvg-chno="117" tvg-id="TVSenado.cl" tvg-name="TVSenado.cl" tvg-logo="https://tv.senado.cl/tvsenado/site/artic/20160901/imag/foto_0000000920160901163145.png",TV Senado
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?s=tvsenado-hd
