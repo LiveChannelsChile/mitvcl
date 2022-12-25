@@ -422,3 +422,17 @@ http://179.0.98.34:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
+
+
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Mega 2" tvg-logo="",Mega 2
+http://megatitan.net:2052/Sebastian6919/Concha3073/423311
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/ANmega2015.png" group-title="CHILE",Mega plus
+http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-id="1193" tvg-name="13 Cultura" tvg-logo="https://i2.paste.pics/c04bad5b9339444b2acb44912d04b0a7.png", 13 Cultura
+https://unlimited2-cl-isp.dps.live/13cultura/13cultura.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="979" tvg-name="13 Entretencion" tvg-logo="https://i2.paste.pics/a59418e1a9cb4068b83345be503f722c.png", 13 Entretención
+https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="1033" tvg-name="13 Prime" tvg-logo="https://i2.paste.pics/544548398fcd92bf2db73e9d0fcddf5f.png", 13 Prime
+https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png", 13 Teleseries
+https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
