@@ -93,7 +93,7 @@ http://190.61.102.67:444/play/a04w
 http://190.187.247.206:8000/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-chno="133" tvg-id="228dtv.cl" tvg-name="228dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png",Lifetime
-http://201.182.251.146:37581/play/a05b/index.m3u8
+http://45.225.95.170:8000/play/a0h8/index.m3u8
 
 #EXTINF:-1 tvg-chno="134" tvg-id="217dtv.cl" tvg-name="217dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1920px-FX_International_logo.svg.png",FX
 http://45.232.210.1:47000/play/a0aw
