@@ -424,31 +424,16 @@ http://179.0.98.34:8000/play/a02r/index.m3u8
 http://45.232.210.1:47000/play/a0fb
 
 
+#EXTINF:-1,Telecanal
+http://45.225.95.170:8000/play/a0h8/index.m3u8
+#EXTINF:-1,13 C
+http://45.225.95.170:8000/play/a0f8/index.m3u8
+#EXTINF:-1,REC TV
+http://45.225.95.170:8000/play/a0gj/index.m3u8
+#EXTINF:-1,ETC TV
+http://45.225.95.170:8000/play/a0g7/index.m3u8
 #EXTINF:-1,TV Diputados
 http://186.5.31.251:8000/play/a0b6/index.m3u8
 #EXTINF:-1,TV Senado
 http://186.5.31.251:8000/play/a0b5/index.m3u8
-#EXTINF:-1,HBO POP
-http://186.5.31.251:8000/play/a0d5/index.m3u8
-#EXTINF:-1,HBO POP 2
-http://186.5.31.251:8000/play/a06h/index.m3u8
-#EXTINF:-1,HBO MUNDI
-http://45.225.95.170:8000/play/a0in/index.m3u8
-#EXTINF:-1,HBO POP 3
-http://45.225.95.170:8000/play/a0js/index.m3u8
-#EXTINF:-1,TV DIPUTADOS 2
-http://190.110.99.102:8000/play/a00a
-#EXTINF:-1,TV SENADO 2
-http://190.110.99.102:8000/play/a002
-#EXTINF:-1,Telecanal HD
-http://45.167.194.11:8000/play/a00c
-#EXTINF:-1,Telecanal 2
-http://45.225.95.170:8000/play/a0h8/index.m3u8
-#EXTINF:-1 group-title="-",TELECANAL 3
-http://186.10.245.76:3010/play/a0ks
-#EXTINF:-1,TELECANAL 4
-http://190.110.99.102:8000/play/a00c
-#EXTINF:-1,TV DIPUTADOS 3
-http://190.110.99.102:8000/play/a00a
-#EXTINF:-1,TV SENADO 3
-http://190.110.99.102:8000/play/a002
+
