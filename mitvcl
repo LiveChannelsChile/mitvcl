@@ -424,47 +424,39 @@ http://179.0.98.34:8000/play/a02r/index.m3u8
 http://45.232.210.1:47000/play/a0fb
 
 
-#EXTINF:-1,TVES
-http://200.75.113.64:8874/play/a0iy/index.m3u8
-#EXTINF:-1,Venevisión
-http://200.75.113.64:8874/play/a0j9/index.m3u8
-#EXTINF:-1,VALE TV
+#EXTINF:-1,1 TVES
+http://45.225.95.170:8000/play/a0gn/index.m3u8
+#EXTINF:-1,2 Venevisión
+http://45.225.95.170:8000/play/a0gk/index.m3u8
+#EXTINF:-1,3 VALE TV
 http://45.225.95.170:8000/play/a0gm/index.m3u8
-#EXTINF:-1,VTV
-http://200.75.113.64:8874/play/a0iw/index.m3u8
-#EXTINF:-1,Televen
-http://200.75.113.64:8874/play/a0jb/index.m3u8
-#EXTINF:-1,VEPACO TV
-http://200.75.113.64:8874/play/a0jh/index.m3u8
-#EXTINF:-1,123 TV
-http://200.75.113.64:8874/play/a0j2/index.m3u8
-#EXTINF:-1,ALBA TV
-http://200.75.113.64:8874/play/a0j3/index.m3u8
-#EXTINF:-1,ANTV
-http://200.75.113.64:8874/play/a0j0/index.m3u8
-#EXTINF:-1,Ávila TV
-http://200.75.113.64:8874/play/a0j7/index.m3u8
-#EXTINF:-1,COLOMBEIA
-http://200.75.113.64:8874/play/a0j1/index.m3u8
-#EXTINF:-1,ConCiencia
-http://200.75.113.64:8874/play/a0j4/index.m3u8
-#EXTINF:-1,TVFANB
-http://200.75.113.64:8874/play/a0j5/index.m3u8
-#EXTINF:-1,Vive TV
-http://200.75.113.64:8874/play/a0ix/index.m3u8
-#EXTINF:-1,Canal I
-http://200.75.113.64:8874/play/a0jk/index.m3u8
-#EXTINF:-1,TV FAMILIA
+#EXTINF:-1,4 VTV
+http://45.225.95.170:8000/play/a0gq/index.m3u8
+#EXTINF:-1,5 TV FAMILIA
 http://45.225.95.170:8000/play/a0gl/index.m3u8
-#EXTINF:-1,Globovisión
-http://200.75.113.64:8874/play/a0j8/index.m3u8
-#EXTINF:-1,TELESUR
-http://200.75.113.64:8874/play/a0iz/index.m3u8
-#EXTINF:-1,ShowVen TV
-http://200.75.113.64:8874/play/a0j6/index.m3u8
-#EXTINF:-1,TLT
-http://200.75.113.64:8874/play/a0ji/index.m3u8
-#EXTINF:-1,Meridiano
-http://200.75.113.64:8874/play/a0ja/index.m3u8
-#EXTINF:-1,IVC Network
+#EXTINF:-1,6 Televen
+http://190.144.83.226:8000/play/a05u/index.m3u8
+#EXTINF:-1,7 VEPACO TV
+http://45.225.95.170:8000/play/a0gs/index.m3u8
+#EXTINF:-1,8 ANTV
+http://45.225.95.170:8000/play/a0gp/index.m3u8
+#EXTINF:-1,9 ConCiencia
+http://45.225.95.170:8000/play/a0gt/index.m3u8
+#EXTINF:-1,10 COLOMBEIA
+http://190.144.83.226:8000/play/a05k/index.m3u8
+#EXTINF:-1,11 Vive TV
+http://190.144.83.226:8000/play/a05g/index.m3u8
+#EXTINF:-1,12 TVFANB
+http://45.225.95.170:8000/play/a0gu/index.m3u8
+#EXTINF:-1,13 Canal I
+http://45.225.95.170:8000/play/a0h9/index.m3u8
+#EXTINF:-1,14 IVC Network
 http://186.5.31.251:8000/play/a0a1/index.m3u8
+#EXTINF:-1,15 Globovisión
+http://45.225.95.170:8000/play/a0i0/index.m3u8
+#EXTINF:-1,16 TELESUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1,17 Meridiano
+http://45.225.95.170:8000/play/a0gr/index.m3u8
+#EXTINF:-1,18 ShowVen TV
+http://190.144.83.226:8000/play/a05p/index.m3u8
