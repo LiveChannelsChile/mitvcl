@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-chno="101" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png",Telecanal
-https://unlimited1-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8
+http://45.225.95.170:8000/play/a0h8/index.m3u8
 
 #EXTINF:-1 tvg-chno="102" tvg-id="lared.cl" tvg-name="lared.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Emblema_de_La_Red.png",La Red
 http://45.232.210.1:47000/play/laredhd
@@ -47,10 +47,10 @@ https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master_4.m3u8
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="116" tvg-id="CanalDiputados.cl" tvg-name="CanalDiputados.cl" tvg-logo="https://www.camara.cl/img/escudo2.jpg",Cámara TV
-https://tls-cl.cdnz.cl/camara/live/playlist.m3u8
+http://186.5.31.251:8000/play/a0b6/index.m3u8
 
 #EXTINF:-1 tvg-chno="117" tvg-id="TVSenado.cl" tvg-name="TVSenado.cl" tvg-logo="https://tv.senado.cl/tvsenado/site/artic/20160901/imag/foto_0000000920160901163145.png",TV Senado
-https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?s=tvsenado-hd
+http://186.5.31.251:8000/play/a0b5/index.m3u8
 
 #EXTINF:-1 tvg-chno="118" tvg-id="146dtv.cl" tvg-name="146dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logotipo_Color_2_NTV%28Chile%29.svg/3816px-Logotipo_Color_2_NTV%28Chile%29.svg.png",NTV
 http://45.232.210.1:47000/play/a057
@@ -422,18 +422,3 @@ http://179.0.98.34:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
-
-
-#EXTINF:-1,Telecanal
-http://45.225.95.170:8000/play/a0h8/index.m3u8
-#EXTINF:-1,13 C
-http://45.225.95.170:8000/play/a0f8/index.m3u8
-#EXTINF:-1,REC TV
-http://45.225.95.170:8000/play/a0gj/index.m3u8
-#EXTINF:-1,ETC TV
-http://45.225.95.170:8000/play/a0g7/index.m3u8
-#EXTINF:-1,TV Diputados
-http://186.5.31.251:8000/play/a0b6/index.m3u8
-#EXTINF:-1,TV Senado
-http://186.5.31.251:8000/play/a0b5/index.m3u8
-
