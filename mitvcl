@@ -250,7 +250,7 @@ http://45.232.210.1:47000/play/idhd
 http://45.232.210.1:8062/play/a0bh/index.m3u8
 
 #EXTINF:-1 tvg-chno="212" tvg-id="DiscoveryScienceLatinAmerica.pa" tvg-name="DiscoveryScienceLatinAmerica.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/800px-Science_Channel_logo.svg.png",Discovery Science
-http://45.162.132.145:8850/play/a022/index.m3u8
+https://n9.cl/5qagd
 
 #EXTINF:-1 tvg-chno="213" tvg-id="DiscoveryTheater.mx" tvg-name="DiscoveryTheater.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1920px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater
 http://45.232.210.1:47000/play/a0am
@@ -422,21 +422,3 @@ http://179.0.98.34:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
-
-
-#EXTINF:-1,DISCOVERY SCIENCE HD (16:9)
-http://45.5.117.138:8005/play/a004/index.m3u8
-#EXTINF:-1,Discovery Science 2
-http://190.61.102.67:444/play/a00e
-#EXTINF:-1,Discovery Science 3
-http://45.162.132.145:8850/play/a022/index.m3u8
-#EXTINF:-1,Discovery Science 4
-https://n9.cl/5qagd
-#EXTINF:-1,Discovery Science 5
-http://45.225.95.170:8000/play/a0h6/index.m3u8
-#EXTINF:-1,Discovery Science 6
-http://45.225.95.170:8000/play/a0gy/index.m3u8
-#EXTINF:-1,Discovery Science 7
-http://45.189.117.32:7579/play/a0ra/index.m3u8
-#EXTINF:-1,Discovery Science 8
-http://45.189.117.32:7579/play/a0r8/index.m3u8
