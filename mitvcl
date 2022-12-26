@@ -422,3 +422,49 @@ http://179.0.98.34:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.232.210.1:47000/play/a0fb
+
+
+#EXTINF:-1,TVES
+http://45.225.95.170:8000/play/a0gn/index.m3u8
+#EXTINF:-1,Venevisión
+http://45.225.95.170:8000/play/a0gk/index.m3u8
+#EXTINF:-1,VALE TV
+http://45.225.95.170:8000/play/a0gm/index.m3u8
+#EXTINF:-1,VTV
+http://45.225.95.170:8000/play/a0gq/index.m3u8
+#EXTINF:-1,TV FAMILIA
+http://45.225.95.170:8000/play/a0gl/index.m3u8
+#EXTINF:-1,Televen
+http://200.75.113.64:8874/play/a0jb/index.m3u8
+#EXTINF:-1,TV EPACO
+http://45.225.95.170:8000/play/a0gs/index.m3u8
+#EXTINF:-1,ANTV
+http://45.225.95.170:8000/play/a0gp/index.m3u8
+#EXTINF:-1,Ávila TV
+http://200.75.113.64:8874/play/a0j7/index.m3u8
+#EXTINF:-1,ConCiencia
+http://45.225.95.170:8000/play/a0gt/index.m3u8
+#EXTINF:-1,Vive TV
+http://200.75.113.64:8874/play/a0ix/index.m3u8
+#EXTINF:-1,FANB
+http://45.225.95.170:8000/play/a0gu/index.m3u8
+#EXTINF:-1,Canal I
+http://45.225.95.170:8000/play/a0h9/index.m3u8
+#EXTINF:-1,Globovisión
+http://45.225.95.170:8000/play/a0i0/index.m3u8
+#EXTINF:-1,TELESUR
+http://200.75.113.64:8874/play/a0iz/index.m3u8
+#EXTINF:-1,TLT
+http://200.75.113.64:8874/play/a0jc/index.m3u8
+#EXTINF:-1,Meridiano
+http://45.225.95.170:8000/play/a0gr/index.m3u8
+#EXTINF:-1,123 TV
+http://200.75.113.64:8874/play/a0j2/index.m3u8
+#EXTINF:-1,ALBA TV
+http://200.75.113.64:8874/play/a0j3/index.m3u8
+#EXTINF:-1,COLOMBEIA
+http://200.75.113.64:8874/play/a0j1/index.m3u8
+#EXTINF:-1,ShowVen TV
+http://200.75.113.64:8874/play/a0j6/index.m3u8
+#EXTINF:-1,IVC
+http://186.5.31.251:8000/play/a0a1/index.m3u8
