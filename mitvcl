@@ -90,7 +90,7 @@ http://45.232.210.1:47000/play/studiouniversalhd
 http://190.61.102.67:444/play/a04w
 
 #EXTINF:-1 tvg-chno="132" tvg-id="219dtv.cl" tvg-name="219dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1920px-SYFY.svg.png",SyFy
-http://190.187.247.206:8000/play/a00n/index.m3u8
+http://138.186.20.102:9315/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-chno="133" tvg-id="228dtv.cl" tvg-name="228dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png",Lifetime
 http://138.186.20.102:9315/play/a004/index.m3u8
@@ -105,7 +105,7 @@ http://45.232.210.1:47000/play/a06g
 http://45.232.210.1:47000/play/a0dz
 
 
-#EXTINF:-1 tvg-chno="141" tvg-id="502dtv.cl" tvg-name="502dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png",TNT
+#EXTINF:-1 tvg-chno="141" tvg-id="502dtv.ar" tvg-name="502dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png",TNT
 http://45.232.210.1:58000/play/a06w
 
 #EXTINF:-1 tvg-chno="142" tvg-id="213dtv.cl" tvg-name="213dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Series
