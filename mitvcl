@@ -105,7 +105,7 @@ http://45.232.210.1:47000/play/a06g
 http://45.232.210.1:47000/play/a0dz
 
 
-#EXTINF:-1 tvg-chno="997" tvg-id="502dtv.ar" tvg-name="502dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png",TNT
+#EXTINF:-1 tvg-chno="141" tvg-id="502dtv.ar" tvg-name="502dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png",TNT
 http://45.232.210.1:58000/play/a06w
 
 #EXTINF:-1 tvg-chno="142" tvg-id="213dtv.cl" tvg-name="213dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Series
