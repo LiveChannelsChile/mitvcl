@@ -424,5 +424,7 @@ http://179.0.98.34:8000/play/a02r/index.m3u8
 http://45.232.210.1:47000/play/a0fb
 
 
-#EXTINF:-1 tvg-chno="385-1",HBO Signature
+#EXTINF:-1,HBO Signature
 http://45.225.95.170:8000/play/a0jj/index.m3u8
+#EXTINF:-1,HBO Mundi
+http://45.225.95.170:8000/play/a0in/index.m3u8
