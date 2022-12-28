@@ -421,10 +421,4 @@ https://n9.cl/v5f6b7
 http://179.0.98.34:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
-http://45.232.210.1:47000/play/a0fb
-
-
-#EXTINF:-1,HBO MUNDI
-http://45.225.95.170:8000/play/a0in/index.m3u8
-#EXTINF:-1,HBO Signature
-http://45.225.95.170:8000/play/a0jj/index.m3u8
+http://45.232.210.1:47000/play/a0f
