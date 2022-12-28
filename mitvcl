@@ -424,7 +424,11 @@ http://179.0.98.34:8000/play/a02r/index.m3u8
 http://45.232.210.1:47000/play/a0fb
 
 
-#EXTINF:-1,HBO MUNDI HD
-http://170.83.242.30:5001/play/a04v
-#EXTINF:-1,HBO SIGNATURE HD
-http://170.83.242.30:5001/play/a048
+#EXTINF:-1,HBO MUNDI
+http://45.189.117.32:7079/play/a0rs/index.m3u8
+#EXTINF:-1,HBO MUNDI2
+http://200.48.19.140:10021/play/a044
+#EXTINF:-1,HBO MUNDI3
+http://181.236.192.254:8000/play/a043/index.m3u8
+#EXTINF:-1,HBO MUNDI4
+http://190.61.44.134:6082/play/a0r9
