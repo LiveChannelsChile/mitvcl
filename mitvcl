@@ -426,3 +426,17 @@ http://45.232.210.1:47000/play/a0fb
 
 #EXTINF:-1,HBO Signature
 http://45.225.95.170:8000/play/a0jj/index.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD (16:9)
+http://45.5.117.138:8005/play/a004/index.m3u8
+#EXTINF:-1,Discovery Science2
+http://190.61.102.67:444/play/a00e
+#EXTINF:-1,Discovery Science3
+http://45.162.132.145:8850/play/a022/index.m3u8
+#EXTINF:-1,Discovery Science4
+https://n9.cl/5qagd
+#EXTINF:-1,Discovery Science5
+http://45.225.95.170:8000/play/a0h6/index.m3u8
+#EXTINF:-1,Discovery Science6
+http://45.225.95.170:8000/play/a0gy/index.m3u8
+#EXTINF:-1,Golden Edge
+http://8.243.108.57:8001/play/a01o/index.m3u8
