@@ -424,7 +424,19 @@ http://179.0.98.34:8000/play/a02r/index.m3u8
 http://45.232.210.1:47000/play/a0fb
 
 
-#EXTINF:-1,HBO Signature
-http://45.225.95.170:8000/play/a0jj/index.m3u8
 #EXTINF:-1,HBO Mundi
 http://45.225.95.170:8000/play/a0in/index.m3u8
+#EXTINF:-1,HBO Mundi2
+http://200.48.19.140:10021/play/a044
+#EXTINF:-1,HBO Signature
+http://45.225.95.170:8000/play/a0jj/index.m3u8
+#EXTINF:-1,HBO Signature2
+http://206.62.165.54:8000/play/a0qt
+#EXTINF:-1,HBO Signature3
+http://190.131.247.82:8000/play/a08h
+#EXTINF:-1,HBO Signature4
+http://209.45.97.109:8000/play/a0ch
+#EXTINF:-1,HBO Signature5
+http://45.233.169.1:8000/play/a08h
+#EXTINF:-1,HBO Signature6
+http://190.61.44.134:6082/play/a0rn
