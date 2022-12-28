@@ -371,7 +371,7 @@ https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="342" tvg-id="517dtv.cl" tvg-name="517dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png",Golden Edge
-https://n9.cl/k9p6nx
+http://45.176.193.20:7837/play/a02y
 
 #EXTINF:-1 tvg-chno="343" tvg-id="1503dtv.cl" tvg-name="1503dtv.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es",Golden Plus
 http://45.232.210.1:47000/play/goldenhd
@@ -424,12 +424,5 @@ http://179.0.98.34:8000/play/a02r/index.m3u8
 http://45.232.210.1:47000/play/a0fb
 
 
-#EXTINF:-1,HBO Signature
+#EXTINF:-1 tvg-chno="385-1",HBO Signature
 http://45.225.95.170:8000/play/a0jj/index.m3u8
-
-#EXTINF:-1,Golden Edge
-http://45.176.193.20:7837/play/a02y
-#EXTINF:-1,Golden Edge 2
-http://45.167.250.116:37581/play/a0j8/index.m3u8
-#EXTINF:-1,Golden Edge
-http://45.167.250.115:37581/play/a0j8/index.m3u8
