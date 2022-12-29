@@ -421,20 +421,4 @@ https://n9.cl/v5f6b7
 http://179.0.98.34:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
-http://45.225.95.170:8000/play/a0jh/index.m3u8
-
-
-#EXTINF:-1,DTV
-http://45.70.181.6:4000/play/a05d/index.m3u8
-#EXTINF:-1,HBO XTREME HD
-http://45.70.181.6:4000/play/a01l/index.m3u8
-#EXTINF:-1,HBO XTREME HD2
 http://45.224.23.211:8000/play/a060/index.m3u8
-#EXTINF:-1,HBO XTREME HD
-http://45.161.115.26:50000/play/a01q/index.m3u8
-#EXTINF:-1,HBO Family HD
-http://190.83.116.230:9010/play/a0bm/index.m3u8
-#EXTINF:-1,HBO Family HD2
-http://190.83.116.229:9010/play/a0bm/index.m3u8
-#EXTINF:-1,HBO Family HD3
-http://190.83.116.229:9010/play/a023/index.m3u8
