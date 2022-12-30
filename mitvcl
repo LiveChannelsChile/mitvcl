@@ -425,7 +425,20 @@ http://45.224.23.211:8000/play/a060/index.m3u8
 
 
 
-#EXTINF:0,HBO MUNDI
-http://160.20.164.171:8001/play/a08x/index.m3u8
-#EXTINF:0,Discovery Science
-http://160.20.164.171:8001/play/a038/index.m3u8
+#EXTINF:-1,ETC TV
+http://45.225.95.170:8000/play/a0g7/index.m3u8
+#EXTINF:-1,HBO MUNDI
+http://45.225.95.170:8000/play/a0in/index.m3u8
+
+#EXTINF:-1,Playboy
+http://45.225.95.170:8000/play/a0hy/index.m3u8
+#EXTINF:-1,Playboy
+http://45.225.95.170:8000/play/a0hu/index.m3u8
+#EXTINF:-1,Sextreme
+http://45.225.95.170:8000/play/a0fu/index.m3u8
+#EXTINF:-1,Sextreme
+http://45.225.95.170:8000/play/a0fs/index.m3u8
+#EXTINF:-1,Venus
+http://45.225.95.170:8000/play/a0ft/index.m3u8
+#EXTINF:-1,Venus
+http://45.225.95.170:8000/play/a0fr/index.m3u8
