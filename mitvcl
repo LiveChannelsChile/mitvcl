@@ -14,13 +14,13 @@ http://45.232.210.1:47000/play/a058
 https://marine2.miplay.cl/ucv3/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-id="149dtv.cl" tvg-name="149dtv.cl" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg/800px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg.png?20211010020019 ",TVN
-http://45.232.210.1:47000/play/a06r
+http://45.232.210.1:8061/play/a06r
 
 #EXTINF:-1 tvg-chno="106" tvg-id="mega.cl" tvg-name="mega.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Mega_Chile_2020.png",Mega
-http://45.232.210.1:47000/play/a08g
+http://45.232.210.1:8061/play/a08g
 
 #EXTINF:-1 tvg-chno="107" tvg-id="chv.cl" tvg-name="chv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/151.png",Chilevisión
-http://45.232.210.1:47000/play/a08n
+http://45.232.210.1:8061/play/a08n
 
 #EXTINF:-1 tvg-chno="108" tvg-id="152dtv.cl" tvg-name="152dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png",Canal 13
 http://45.232.210.1:8061/play/a07a
@@ -127,10 +127,10 @@ http://190.61.102.67:444/play/a020
 http://190.61.102.67:31589/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-chno="148" tvg-id="Multicinema.mx" tvg-name="Multicinema.mx" tvg-logo="https://i.ibb.co/2jQNg9n/MC-removebg-preview.png",Multicinema
-http://190.61.102.67:31589/play/a01d/index.m3u8
+http://177.234.230.226:8010/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-chno="149" tvg-id="Multipremier.mx" tvg-name="Multipremier.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1280px-Multipremier_logo.svg.png",Multipremier
-http://190.61.102.67:31589/play/a01e/index.m3u8
+http://177.234.230.226:8010/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-chno="150" tvg-id="" tvg-name="" tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.615120486_CloverChannel.png.5b98947815588c78b3c43fe77e580fe9.png",Clover Channel
 http://179.0.98.34:8000/play/a02s/index.m3u8
@@ -422,33 +422,3 @@ http://179.0.98.34:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.224.23.211:8000/play/a060/index.m3u8
-
-
-#EXTINF:-1,Univision HD
-http://190.61.102.67:8000/play/a05d
-#EXTINF:-1,Telemundo HD
-http://190.61.102.67:8000/play/a04t
-#EXTINF:-1,Discovery Science
-http://190.61.102.67:8000/play/a00e
-#EXTINF:-1,Sony Movies HD
-http://190.61.102.67:8000/play/a04w
-#EXTINF:-1,LIFE TIME
-http://190.61.102.67:8000/play/a045
-#EXTINF:-1,SyFy HD
-http://190.61.102.67:8000/play/a04n
-#EXTINF:-1,1025 MULTIPREMIER HD
-http://177.234.230.226:8010/play/a00h/index.m3u8
-#EXTINF:-1,1026 MULTICINEMA
-http://177.234.230.226:8010/play/a00i/index.m3u8
-#EXTINF:-1,LIFETIME
-http://177.234.230.226:8010/play/a03j/index.m3u8
-#EXTINF:-1,SYFY
-http://177.234.230.226:8010/play/a01u/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="149dtv.cl" tvg-name="149dtv.cl" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg/800px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg.png?20211010020019 ",TVN
-http://45.232.210.1:8061/play/a06r
-#EXTINF:-1 tvg-chno="" tvg-id="mega.cl" tvg-name="mega.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Mega_Chile_2020.png",Mega
-http://45.232.210.1:8061/play/a08g
-#EXTINF:-1 tvg-chno="" tvg-id="chv.cl" tvg-name="chv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/151.png",Chilevisión
-http://45.232.210.1:8061/play/a08n
-#EXTINF:-1 tvg-chno="" tvg-id="152dtv.cl" tvg-name="152dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png",Canal 13
-http://45.232.210.1:8061/play/a07a
