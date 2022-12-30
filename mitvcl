@@ -422,3 +422,38 @@ http://179.0.98.34:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.224.23.211:8000/play/a060/index.m3u8
+
+
+#EXTINF:-1,ABC
+http://71.187.29.54:8000/play/a08l/index.m3u8
+#EXTINF:-1,AZTECA
+http://71.187.29.54:8000/play/a08g/index.m3u8
+#EXTINF:-1,FOX 5
+http://71.187.29.54:8000/play/a075/index.m3u8
+#EXTINF:-1,METV
+http://71.187.29.54:8000/play/a05n/index.m3u8
+#EXTINF:-1,NEWS NY
+http://71.187.29.54:8000/play/a05f/index.m3u8
+#EXTINF:-1,NYTV LIFE
+http://71.187.29.54:8000/play/a05g/index.m3u8
+#EXTINF:-1,PIX11
+http://71.187.29.54:8000/play/a08o/index.m3u8
+#EXTINF:-1,STARTV
+http://71.187.29.54:8000/play/a085/index.m3u8
+#EXTINF:-1,TELEMUNDO
+http://71.187.29.54:8000/play/a07a/index.m3u8
+#EXTINF:-1,TELEX
+http://71.187.29.54:8000/play/a088/index.m3u8
+#EXTINF:-1,UNIMAS
+http://71.187.29.54:8000/play/a08b/index.m3u8
+#EXTINF:-1,UNIVISION
+http://71.187.29.54:8000/play/a07t/index.m3u8
+#EXTINF:-1,WMBQ
+http://71.187.29.54:8000/play/a04t/index.m3u8
+#EXTINF:-1,Wnbc
+http://71.187.29.54:8000/play/a07x/index.m3u8
+#EXTINF:-1,aliento
+http://71.187.29.54:8000/play/a06d/index.m3u8
+#EXTINF:-1,wcbs
+http://71.187.29.54:8000/play/a081/index.m3u8
+
