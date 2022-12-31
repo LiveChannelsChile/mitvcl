@@ -422,17 +422,3 @@ http://179.0.98.34:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.224.23.211:8000/play/a060/index.m3u8
-
-
-#EXTINF:-1,Telecanal - 30
-http://45.162.132.145:8850/play/a024/index.m3u8
-#EXTINF:-1,Telecanal
-http://45.225.95.170:8000/play/a0h8/index.m3u8
-#EXTINF:-1,Telecanal HD
-http://45.167.194.11:8000/play/a00c
-#EXTINF:-1,Telecanal HD 2
-http://45.181.122.100:8000/play/a06e/index.m3u8
-#EXTINF:-1,TELECANAL 1
-http://186.10.245.76:3010/play/a0ks
-#EXTINF:-1,TELECANAL HD 3
-http://190.110.99.102:8000/play/a00c
