@@ -43,6 +43,18 @@ http://45.232.210.1:8062/play/a0cl/index.m3u8
 #EXTINF:-1 tvg-chno="114" tvg-id="etctv.cl" tvg-name="etctv.cl" tvg-logo="https://static.etc.cl/_common/images/logoetc_2015.png",ETC
 http://45.225.95.170:8000/play/a0g7/index.m3u8
 
+#EXTINF:-1 tvg-id="115" tvg-name="13 Cultura" tvg-logo="https://i2.paste.pics/c04bad5b9339444b2acb44912d04b0a7.png", 13 Cultura
+https://unlimited2-cl-isp.dps.live/13cultura/13cultura.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="116" tvg-name="13 Entretencion" tvg-logo="https://i2.paste.pics/a59418e1a9cb4068b83345be503f722c.png", 13 Entretención
+https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="117" tvg-name="13 Prime" tvg-logo="https://i2.paste.pics/544548398fcd92bf2db73e9d0fcddf5f.png", 13 Prime
+https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="118" tvg-name="13 Teleseries" tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png", 13 Teleseries
+https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-chno="121" tvg-id="1206dtv.cl" tvg-name="1206dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel
 http://45.232.210.1:8062/play/a08q/index.m3u8
@@ -167,12 +179,6 @@ http://45.232.210.1:8062/play/a08x/index.m3u8
 #EXTINF:-1 tvg-chno="184" tvg-id="1638dtv.cl" tvg-name="1638dtv.cl" tvg-logo="http://www.teletraktv.cl/wp-content/uploads/2019/04/cropped-MOSCA-TELETRAK-DIAGONAL_00300-3.png",Teletrak
 http://45.225.95.170:8000/play/a0gc/index.m3u8
 
-#EXTINF:-1 tvg-chno="185",CDO Básico
-http://45.225.95.170:8000/play/a0fk/index.m3u8
-
-#EXTINF:-1 tvg-chno="186",CDO Premium
-http://45.225.95.170:8000/play/a0fl/index.m3u8
-
 
 #EXTINF:-1 tvg-chno="201" tvg-id="732dtv.cl" tvg-name="732dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png",Discovery Channel
 http://45.232.210.1:8062/play/a08o/index.m3u8
@@ -282,7 +288,7 @@ http://45.225.95.170:8000/play/a0hl/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="321" tvg-id="1524dtv.co" tvg-name="1524dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png",HBO
-http://45.232.210.1:8062/play/a0b3/index.m3u8
+http://45.225.95.170:8000/play/a0hs/index.m3u8
 
 #EXTINF:-1 tvg-chno="322" tvg-id="525dtv.cl" tvg-name="525dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/1920px-HBO2_logo.svg.png",HBO 2
 http://45.232.210.1:8062/play/a08f/index.m3u8
