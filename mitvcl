@@ -43,16 +43,16 @@ http://45.232.210.1:8062/play/a0cl/index.m3u8
 #EXTINF:-1 tvg-chno="114" tvg-id="etctv.cl" tvg-name="etctv.cl" tvg-logo="https://static.etc.cl/_common/images/logoetc_2015.png",ETC
 http://45.225.95.170:8000/play/a0g7/index.m3u8
 
-#EXTINF:-1 tvg-id="115" tvg-name="13 Cultura" tvg-logo="https://i2.paste.pics/c04bad5b9339444b2acb44912d04b0a7.png", 13 Cultura
+#EXTINF:-1 tvg-chno="115" tvg-name="13 Cultura" tvg-logo="https://i2.paste.pics/c04bad5b9339444b2acb44912d04b0a7.png", 13 Cultura
 https://unlimited2-cl-isp.dps.live/13cultura/13cultura.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="116" tvg-name="13 Entretencion" tvg-logo="https://i2.paste.pics/a59418e1a9cb4068b83345be503f722c.png", 13 Entretención
+#EXTINF:-1 tvg-chno="116" tvg-name="13 Entretencion" tvg-logo="https://i2.paste.pics/a59418e1a9cb4068b83345be503f722c.png", 13 Entretención
 https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="117" tvg-name="13 Prime" tvg-logo="https://i2.paste.pics/544548398fcd92bf2db73e9d0fcddf5f.png", 13 Prime
+#EXTINF:-1 tvg-chno="117" tvg-name="13 Prime" tvg-logo="https://i2.paste.pics/544548398fcd92bf2db73e9d0fcddf5f.png", 13 Prime
 https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="118" tvg-name="13 Teleseries" tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png", 13 Teleseries
+#EXTINF:-1 tvg-chno="118" tvg-name="13 Teleseries" tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png", 13 Teleseries
 https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
 
 
@@ -287,7 +287,7 @@ http://45.232.210.1:8062/play/a09s/index.m3u8
 http://45.225.95.170:8000/play/a0hl/index.m3u8
 
 
-#EXTINF:-1 tvg-chno="321" tvg-id="1524dtv.co" tvg-name="1524dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png",HBO
+#EXTINF:-1 tvg-chno="321" tvg-id="1481dtv.cl" tvg-name="1481dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png",HBO SD
 http://45.225.95.170:8000/play/a0hs/index.m3u8
 
 #EXTINF:-1 tvg-chno="322" tvg-id="525dtv.cl" tvg-name="525dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/1920px-HBO2_logo.svg.png",HBO 2
