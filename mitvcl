@@ -422,3 +422,15 @@ http://179.0.98.34:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.224.23.211:8000/play/a060/index.m3u8
+
+
+#EXTINF:-1,Golden Premiere 2 HD
+http://160.20.164.171:8001/play/a07f
+#EXTINF:-1,Golden Premiere HD
+http://160.20.164.171:8001/play/a07e
+#EXTINF:-1,Golden Premiere HD 2
+http://45.174.84.154:8000/play/a00g/index.m3u8
+#EXTINF:-1,Golden Premiere 2 HD 2
+http://45.174.84.154:8000/play/a00h/index.m3u8
+#EXTINF:-1,HBO Signature
+https://n9.cl/10ko1u
