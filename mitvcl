@@ -422,3 +422,19 @@ http://179.0.98.34:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.224.23.211:8000/play/a060/index.m3u8
+
+
+#EXTINF:-1,Univision 1
+http://190.61.102.67:444/play/a05d
+#EXTINF:-1,Univision 2
+http://190.83.119.67:8000/play/a0v0/index.m3u8
+#EXTINF:-1,Univision 3
+http://190.61.102.67:444/play/a05d
+#EXTINF:-1,Univision 4
+http://190.108.87.149:5000/play/a024/index.m3u8
+#EXTINF:-1,Univision 5
+http://160.20.164.171:8001/play/a018
+#EXTINF:-1,Univision 6
+http://45.5.117.138:8005/play/a00c/index.m3u8
+#EXTINF:-1, Univision 7
+http://167.250.222.35:16000/play/a081/index.m3u8
