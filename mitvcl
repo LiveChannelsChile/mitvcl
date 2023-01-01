@@ -424,7 +424,7 @@ http://179.0.98.34:8000/play/a02r/index.m3u8
 http://45.224.23.211:8000/play/a060/index.m3u8
 
 
-
-
+#EXTINF:-1,Claro Musica
+http://190.61.102.67:444/play/a028
 #EXTINF:-1,Univision HD
 http://190.61.102.67:444/play/a05d
