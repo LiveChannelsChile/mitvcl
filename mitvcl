@@ -250,7 +250,7 @@ http://45.232.210.1:47000/play/idhd
 http://45.232.210.1:8062/play/a0bh/index.m3u8
 
 #EXTINF:-1 tvg-chno="212" tvg-id="discovery-science.cl" tvg-name="discovery-science.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/800px-Science_Channel_logo.svg.png",Discovery Science
-http://45.5.117.138:8005/play/a004/index.m3u8
+http://190.61.102.67:444/play/a00e
 
 #EXTINF:-1 tvg-chno="213" tvg-id="DiscoveryTheater.mx" tvg-name="DiscoveryTheater.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1920px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater
 http://45.232.210.1:47000/play/a0am
@@ -424,11 +424,7 @@ http://179.0.98.34:8000/play/a02r/index.m3u8
 http://45.224.23.211:8000/play/a060/index.m3u8
 
 
-#EXTINF:-1,DISCOVERY SCIENCE HD (16:9)
-http://45.5.117.138:8005/play/a004/index.m3u8
-#EXTINF:-1,Discovery Science2
-http://190.61.102.67:444/play/a00e
-#EXTINF:-1,Discovery Science3
-http://45.162.132.145:8850/play/a022/index.m3u8
-#EXTINF:-1,Discovery Science4
-https://n9.cl/5qagd
+
+
+#EXTINF:-1,Univision HD
+http://190.61.102.67:444/play/a05d
