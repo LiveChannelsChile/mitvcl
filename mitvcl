@@ -422,3 +422,11 @@ http://179.0.98.34:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.224.23.211:8000/play/a060/index.m3u8
+
+
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png",Telecanal
+https://unlimited1-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8
+#EXTINF:-1,Golden
+http://190.61.101.9:8000/play/a037/index.m3u8
+#EXTINF:-1,Golden Premiere 2 HD
+http://190.61.101.9:8000/play/a00j/index.m3u8
