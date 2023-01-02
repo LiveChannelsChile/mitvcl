@@ -377,10 +377,10 @@ http://45.176.193.20:7837/play/a02y
 http://45.232.210.1:47000/play/goldenhd
 
 #EXTINF:-1 tvg-chno="344" tvg-id="GoldenPremier.co" tvg-name="GoldenPremier.co" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest/scale-to-width-down/350?cb=20201202010915&path-prefix=es",Golden Premier
-http://160.20.164.171:8001/play/a07e/index.m3u8
+http://181.39.202.98:9948/play/a11z/index.m3u8
 
 #EXTINF:-1 tvg-chno="345" tvg-id="GoldenPremier2.mx" tvg-name="GoldenPremier2.mx" tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es",Golden Premiere 2
-http://190.61.101.9:8000/play/a00j/index.m3u8
+http://181.39.202.98:9948/play/a120/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="361" tvg-id="576dtv.cl" tvg-name="576dtv.cl" tvg-logo="https://universalplus.com/files/channels/398064723.png",Universal Premiere
@@ -427,6 +427,4 @@ http://45.224.23.211:8000/play/a060/index.m3u8
 #EXTINF:-1 tvg-chno="100" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png",Telecanal
 https://unlimited1-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1,Golden Premiere 2 HD
-http://181.39.202.98:9948/play/a120/index.m3u8
-#EXTINF:-1,Golden Premiere HD
-http://181.39.202.98:9948/play/a11z/index.m3u8
+http://190.61.101.9:8000/play/a00j/index.m3u8
