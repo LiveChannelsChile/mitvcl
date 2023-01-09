@@ -10,7 +10,7 @@ http://45.232.210.1:47000/play/laredhd
 #EXTINF:-1 tvg-chno="103" tvg-id="ucv-tv.cl" tvg-name="ucv-tv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",TV+
 http://45.232.210.1:47000/play/a058
 
-#EXTINF:-1 tvg-chno="104" tvg-id="" tvg-name="" tvg-logo="https://ucvtv.cl/imagenes/logo-ucv-200.png",UCV TV
+#EXTINF:-1 tvg-chno="104" tvg-id="" tvg-name="" tvg-logo="https://ucvtv.cl/imagenes/logo-ucv-200.png",UCV
 https://marine2.miplay.cl/ucv3/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-id="149dtv.cl" tvg-name="149dtv.cl" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg/800px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg.png?20211010020019 ",TVN
@@ -47,10 +47,10 @@ https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master_4.m3u8
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="116" tvg-id="155dtv.cl" tvg-name="155dtv.cl" tvg-logo="https://www.camara.cl/img/escudo2.jpg",Cámara TV
-http://45.225.95.170:8000/play/a0fg/index.m3u8
+http://190.181.41.234:8000/play/a0ab/index.m3u8
 
 #EXTINF:-1 tvg-chno="117" tvg-id="TVSenado.cl" tvg-name="TVSenado.cl" tvg-logo="https://tv.senado.cl/tvsenado/site/artic/20160901/imag/foto_0000000920160901163145.png",TV Senado
-http://45.225.95.170:8000/play/a0ff/index.m3u8
+http://190.181.41.234:8000/play/a0aa/index.m3u8
 
 #EXTINF:-1 tvg-chno="118" tvg-id="146dtv.cl" tvg-name="146dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logotipo_Color_2_NTV%28Chile%29.svg/3816px-Logotipo_Color_2_NTV%28Chile%29.svg.png",NTV
 http://45.232.210.1:47000/play/a057
