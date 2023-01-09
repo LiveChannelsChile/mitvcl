@@ -7,10 +7,10 @@ http://45.162.132.145:8850/play/a024/index.m3u8
 #EXTINF:-1 tvg-chno="102" tvg-id="lared.cl" tvg-name="lared.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Emblema_de_La_Red.png",La Red
 http://45.232.210.1:47000/play/laredhd
 
-#EXTINF:-1 tvg-chno="103" tvg-id="tvmas.cl" tvg-name="tvmas.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",TV+
+#EXTINF:-1 tvg-chno="103" tvg-id="ucv-tv.cl" tvg-name="ucv-tv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",TV+
 http://45.232.210.1:47000/play/a058
 
-#EXTINF:-1 tvg-chno="104" tvg-id="ucv-tv.cl" tvg-name="ucv-tv.cl" tvg-logo="https://ucvtv.cl/imagenes/logo-ucv-200.png",UCV
+#EXTINF:-1 tvg-chno="104" tvg-id="" tvg-name="" tvg-logo="https://ucvtv.cl/imagenes/logo-ucv-200.png",UCV TV
 https://marine2.miplay.cl/ucv3/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-id="149dtv.cl" tvg-name="149dtv.cl" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg/800px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg.png?20211010020019 ",TVN
@@ -412,7 +412,7 @@ http://45.232.210.1:8062/play/a08g/index.m3u8
 http://45.232.210.1:58000/play/a0fa
 
 #EXTINF:-1 tvg-chno="385" tvg-id="528dtv.cl" tvg-name="528dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1920px-HBO_Signature.svg.png",HBO Signature
-http://45.225.95.170:8000/play/a0jj/index.m3u8
+http://190.236.91.123:8000/play/a07r/index.m3u8
 
 #EXTINF:-1 tvg-chno="386" tvg-id="540dtv.cl" tvg-name="540dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png",HBO Mundi
 https://n9.cl/v5f6b7
