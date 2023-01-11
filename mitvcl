@@ -354,7 +354,7 @@ http://177.234.230.226:8010/play/a013/index.m3u8
 http://200.6.227.230:7000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-chno="305" tvg-id="StarTVE.mx" tvg-name="StarTVE.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",Star TVE
-http://190.83.119.67:8000/play/a0qf/index.m3u8
+http://170.239.188.253:50000/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-chno="306" tvg-id="214dtv.cl" tvg-name="214dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png",A3 Series
 http://179.0.98.34:8000/play/a036/index.m3u8
@@ -403,10 +403,10 @@ http://190.61.102.67:8000/play/a069
 http://167.250.222.35:16000/play/a040/index.m3u8
 
 #EXTINF:-1 tvg-chno="382" tvg-id="525dtv.cl" tvg-name="525dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/1920px-HBO2_logo.svg.png",HBO 2
-http://167.250.222.35:16000/play/a041/index.m3u8
+http://170.239.188.253:50000/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-chno="383" tvg-id="526dtv.cl" tvg-name="526dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1920px-Logohboplus2019.svg.png",HBO Plus
-http://45.232.210.1:8062/play/a08g/index.m3u8
+http://170.239.188.253:50000/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-chno="384" tvg-id="1534dtv.cl" tvg-name="1534dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1280px-HBO_Family.svg.png",HBO Family
 http://45.232.210.1:58000/play/a0fa
