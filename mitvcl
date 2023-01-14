@@ -7,7 +7,7 @@ http://45.162.132.145:8850/play/a024/index.m3u8
 #EXTINF:-1 tvg-chno="102" tvg-id="lared.cl" tvg-name="lared.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Emblema_de_La_Red.png",La Red
 http://45.232.210.1:47000/play/laredhd
 
-#EXTINF:-1 tvg-chno="103" tvg-id="ucv-tv.cl" tvg-name="ucv-tv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",TV+
+#EXTINF:-1 tvg-chno="103" tvg-id="tvmas.cl" tvg-name="tvmas.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",TV+
 http://45.232.210.1:47000/play/a058
 
 #EXTINF:-1 tvg-chno="104" tvg-id="" tvg-name="" tvg-logo="https://ucvtv.cl/imagenes/logo-ucv-200.png",UCV
@@ -114,7 +114,7 @@ http://45.232.210.1:47000/play/a0bf
 #EXTINF:-1 tvg-chno="143" tvg-id="216dtv.cl" tvg-name="216dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1920px-TBS_logo_2016.svg.png",TBS
 http://190.83.119.67:8000/play/a0pj/index.m3u8
 
-#EXTINF:-1 tvg-chno="144" tvg-id="TCM.ar" tvg-name="TCM.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1024px-TCM_Latam_logo.svg.png",TCM
+#EXTINF:-1 tvg-chno="144" tvg-id="504dtv.cl" tvg-name="504dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1024px-TCM_Latam_logo.svg.png",TCM
 http://45.232.210.1:8062/play/a09k/index.m3u8
 
 #EXTINF:-1 tvg-chno="145" tvg-id="520dtv.cl" tvg-name="520dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1920px-I.Sat_logo.svg.png",I Sat
@@ -175,7 +175,7 @@ http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQ
 #EXTINF:-1 tvg-chno="167" tvg-id="beinx-es1.us" tvg-name="beinx-es1.us" tvg-logo=" https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",beIN Sports XTRA Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
-#EXTINF:-1 tvg-chno="168" tvg-id="clarosports.cl" tvg-name="clarosports.cl" tvg-logo="https://i.ibb.co/6WwrHjw/Claro-sports.png",Claro Sports
+#EXTINF:-1 tvg-chno="168" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/6WwrHjw/Claro-sports.png",Claro Sports
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 
 #EXTINF:-1 tvg-chno="169" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/7kGJjYG/Claro-sports-2.png",Claro Sports 2
