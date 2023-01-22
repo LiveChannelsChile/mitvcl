@@ -428,26 +428,7 @@ http://45.224.23.211:8000/play/a060/index.m3u8
 http://45.225.95.171:7577/play/a0ww/index.m3u8
 #EXTINF:-1,TNT SPORTS 2
 http://45.225.95.171:7577/play/a0u8/index.m3u8
-#EXTINF:-1,HBO MUNDI HD
-http://200.4.96.59:8043/play/a0f0/index.m3u8
 #EXTINF:-1,HBO MUNDI
 http://181.236.192.254:8000/play/a043/index.m3u8
 #EXTINF:-1,HBO MUNDI 2
 http://45.189.117.32:7079/play/a0rs/index.m3u8
-#EXTINF:-1,HBO MUNDI 3
-http://200.48.19.140:10021/play/a044
-#EXTINF:-1,HBO MUNDI 4
-http://190.216.105.66:6020/play/a0dg/index.m3u8
-#EXTINF:-1,HBO MUNDI 5
-http://186.33.168.140:7000/play/a0mv/index.m3u8
-#EXTINF:-1,HBO MUNDI 6
-http://189.203.160.152:10803/play/a0jj/index.m3u8
-#EXTINF:-1,HBO MUNDI 7
-http://179.63.4.142:8000/play/a070/index.m3u8
-
-
-
-
-
-
-
