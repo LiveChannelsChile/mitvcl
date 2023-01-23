@@ -47,10 +47,10 @@ https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master_4.m3u8
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="116" tvg-id="155dtv.cl" tvg-name="155dtv.cl" tvg-logo="https://www.camara.cl/img/escudo2.jpg",Cámara TV
-http://190.181.41.234:8000/play/a0ab/index.m3u8
+http://186.5.31.251:8000/play/a0b6/index.m3u8
 
 #EXTINF:-1 tvg-chno="117" tvg-id="TVSenado.cl" tvg-name="TVSenado.cl" tvg-logo="https://tv.senado.cl/tvsenado/site/artic/20160901/imag/foto_0000000920160901163145.png",TV Senado
-http://190.181.41.234:8000/play/a0aa/index.m3u8
+http://186.5.31.251:8000/play/a0b5/index.m3u8
 
 #EXTINF:-1 tvg-chno="118" tvg-id="146dtv.cl" tvg-name="146dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logotipo_Color_2_NTV%28Chile%29.svg/3816px-Logotipo_Color_2_NTV%28Chile%29.svg.png",NTV
 http://45.232.210.1:47000/play/a057
@@ -207,7 +207,7 @@ http://190.61.102.67:444/play/a050
 http://45.232.210.1:47000/play/cdfhd
 
 #EXTINF:-1 tvg-chno="182" tvg-id="tntsports2.cl" tvg-name="tntsports2.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_2_blanco.png.431ff1b3ae8a01b855d8206073766f17.png",TNT Sports 2
-https://n9.cl/3tvu4
+http://45.225.95.171:7577/play/a0u8/index.m3u8
 
 #EXTINF:-1 tvg-chno="183" tvg-id="tntsports3.cl" tvg-name="tntsports3.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_3_blanco.png.d74baab65acb6c906a59f093dbba0fb9.png",TNT Sports 3
 http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -415,20 +415,10 @@ http://45.232.210.1:58000/play/a0fa
 http://45.225.95.170:8000/play/a0jj/index.m3u8
 
 #EXTINF:-1 tvg-chno="386" tvg-id="540dtv.cl" tvg-name="540dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png",HBO Mundi
-https://n9.cl/v5f6b7
+http://45.189.117.32:7079/play/a0rs/index.m3u8
 
 #EXTINF:-1 tvg-chno="387" tvg-id="541dtv.cl" tvg-name="541dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png",HBO Pop
 http://179.0.98.34:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.224.23.211:8000/play/a060/index.m3u8
-
-
-#EXTINF:-1,Movistar TV
-http://45.225.95.171:7577/play/a0ww/index.m3u8
-#EXTINF:-1,TNT SPORTS 2
-http://45.225.95.171:7577/play/a0u8/index.m3u8
-#EXTINF:-1,HBO MUNDI
-http://181.236.192.254:8000/play/a043/index.m3u8
-#EXTINF:-1,HBO MUNDI 2
-http://45.189.117.32:7079/play/a0rs/index.m3u8
