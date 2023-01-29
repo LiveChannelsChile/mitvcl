@@ -426,5 +426,11 @@ http://45.224.23.211:8000/play/a060/index.m3u8
 
 #EXTINF:-1,HBO Mundi
 https://n9.cl/v5f6b7
+#EXTINF:-1,HBO Mundi (2)
+https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
+#EXTINF:-1,HBO Signature
+https://dtvott-cbc.akamaized.net/dash_live_1143/manifest.mpd
 #EXTINF:-1,TNT Sports 2
 https://n9.cl/3tvu4
+#EXTINF:-1,TNT Sports 2 (b)
+https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd
