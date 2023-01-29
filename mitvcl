@@ -422,3 +422,9 @@ http://190.108.93.148:8000/play/a0j2/index.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.224.23.211:8000/play/a060/index.m3u8
+
+
+#EXTINF:-1,CDF Basico
+http://45.238.21.222:6688/play/a00m/index.m3u8
+#EXTINF:-1,CDF PREMIUM
+http://45.238.21.222:6688/play/a013/index.m3u8
