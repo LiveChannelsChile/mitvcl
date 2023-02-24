@@ -170,13 +170,13 @@ http://45.189.118.12:8000/play/a05z/index.m3u8
 http://45.232.210.1:58000/play/a05e
 
 #EXTINF:-1 tvg-chno="166" tvg-id="beinsportsspanish.us" tvg-name="beinsportsspanish.us" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png",beIN Sports Ñ
-http://bgapp.live/play/futvall-269.php?id=YmVpbmVzaGQ=&token=bllackghost&f=.m3u8
+http://bgapp.live/play/futvall-269.php?id=YmVpbmVzaGQ=&token=bllackghost&f=.ts
 
 #EXTINF:-1 tvg-chno="167" tvg-id="beinx-es1.us" tvg-name="beinx-es1.us" tvg-logo=" https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",beIN Sports XTRA Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
 #EXTINF:-1 tvg-chno="168" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/6WwrHjw/Claro-sports.png",Claro Sports
-https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
+http://190.149.66.90:16000/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-chno="169" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/7kGJjYG/Claro-sports-2.png",Claro Sports 2
 http://190.149.66.90:16000/play/a009/index.m3u8
@@ -287,7 +287,7 @@ http://45.167.250.116:9000/play/a0ii
 http://45.162.132.145:8850/play/a02q/index.m3u8
 
 #EXTINF:-1 tvg-chno="230" tvg-id="310dtv.cl" tvg-name="310dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/1920px-TeenNick_2019_logo.svg.png",TeenNick
-http://181.39.202.98:9993/play/a185/index.m3u8
+http://190.149.66.90:16000/play/a01h/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="241" tvg-id="706dtv.cl" tvg-name="706dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-CNN.png",CNN International
@@ -351,7 +351,7 @@ http://177.234.230.226:8010/play/a00l/index.m3u8
 http://177.234.230.226:8010/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-chno="304" tvg-id="760dtv.cl" tvg-name="760dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png",Univisión Internacional
-http://186.121.249.26:9000/play/a02e
+http://190.149.66.90:16000/play/a054/index.m3u8
 
 #EXTINF:-1 tvg-chno="305" tvg-id="StarTVE.mx" tvg-name="StarTVE.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",Star TVE
 http://170.239.188.253:50000/play/a01a/index.m3u8
@@ -422,3 +422,9 @@ http://190.108.93.148:8000/play/a0j2/index.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.189.118.12:8000/play/a08f/index.m3u8
+
+
+#EXTINF:-1,DSPORTS
+http://138.185.15.250:8000/play/a085/index.m3u8
+#EXTINF:-1,DSPORTS 2
+http://bgapp.live/play/futvall-269.php?id=Z29kaXJlY3R2&token=bllackghost&f=.ts
