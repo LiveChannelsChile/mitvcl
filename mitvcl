@@ -145,7 +145,7 @@ http://45.232.210.1:47000/play/a056
 http://45.162.135.17:1080/play/a080
 
 #EXTINF:-1 tvg-chno="154" tvg-id="746dtv.cl" tvg-name="746dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png",Film & Arts
-http://45.162.135.17:1080/play/a07e
+http://181.78.1.217:8146/play/a079/index.m3u8
 
 #EXTINF:-1 tvg-chno="155" tvg-id="507dtv.co" tvg-name="507dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",Cinecanal
 http://45.232.210.1:47000/play/a05c
@@ -207,7 +207,7 @@ http://45.162.135.17:1080/play/a085
 http://45.232.210.1:47000/play/cdfhd
 
 #EXTINF:-1 tvg-chno="182" tvg-id="tntsports2.cl" tvg-name="tntsports2.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_2_blanco.png.431ff1b3ae8a01b855d8206073766f17.png",TNT Sports 2
-http://45.225.95.171:7577/play/a0u8/index.m3u8
+http://181.39.202.98:9993/play/a1bf/index.m3u8
 
 #EXTINF:-1 tvg-chno="183" tvg-id="tntsports3.cl" tvg-name="tntsports3.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_3_blanco.png.d74baab65acb6c906a59f093dbba0fb9.png",TNT Sports 3
 http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -260,7 +260,7 @@ http://45.232.210.1:58000/play/a05b
 
 
 #EXTINF:-1 tvg-chno="221" tvg-id="304dtv.cl" tvg-name="304dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
-http://186.121.249.26:9000/play/a00j
+http://181.39.202.98:9993/play/a17c/index.m3u8
 
 #EXTINF:-1 tvg-chno="222" tvg-id="308dtv.cl" tvg-name="308dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",Nick
 http://45.232.210.1:8061/play/a0fg
@@ -287,17 +287,17 @@ http://45.167.250.116:9000/play/a0ii
 http://45.162.132.145:8850/play/a02q/index.m3u8
 
 #EXTINF:-1 tvg-chno="230" tvg-id="310dtv.cl" tvg-name="310dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/1920px-TeenNick_2019_logo.svg.png",TeenNick
-http://45.189.118.12:8000/play/a081/index.m3u8
+http://181.39.202.98:9993/play/a185/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="241" tvg-id="706dtv.cl" tvg-name="706dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-CNN.png",CNN International
-http://181.78.24.67:8010/play/a03r/index.m3u8
+http://77.235.14.92:8000/play/cnn_int/index.m3u8
 
 #EXTINF:-1 tvg-chno="242" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1920px-Euronews_2016_logo.svg.png",Euronews
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/f8c95c2a-6f1f-44b2-a6f3-060b4d1674b1/3.m3u8
 
 #EXTINF:-1 tvg-chno="243" tvg-id="704dtv.cl" tvg-name="704dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1280px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",CNN en Español
-http://181.78.24.67:8010/play/a03p/index.m3u8
+http://8.242.176.36:4000/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-chno="244" tvg-id="EuronewsEspanol.mx" tvg-name="EuronewsEspanol.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1920px-Euronews_2016_logo.svg.png",Euronews en Español
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-espaol/afe14d25-d4de-433d-a4ee-d2a07153586b/3.m3u8
@@ -332,7 +332,7 @@ http://45.232.210.1:47000/play/a074
 http://177.234.230.226:8010/play/a01x/index.m3u8
 
 #EXTINF:-1 tvg-chno="286" tvg-id="224dtvc." tvg-name="224dtvc." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png",Glitz*
-http://181.78.21.60:16123/play/ch34
+http://201.218.137.242:8001/play/a02k/index.m3u8
 
 #EXTINF:-1 tvg-chno="287" tvg-id="225dtv.cl" tvg-name="225dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1920px-Pasiones_Tv_logo.svg.png",Pasiones
 http://45.232.210.1:58000/play/pasioneshd
@@ -384,19 +384,19 @@ http://181.39.202.98:9948/play/a120/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="361" tvg-id="576dtv.cl" tvg-name="576dtv.cl" tvg-logo="https://universalplus.com/files/channels/398064723.png",Universal Premiere
-http://186.121.249.26:9000/play/a01w
+http://181.189.246.86:58003/play/a046/index.m3u8
 
 #EXTINF:-1 tvg-chno="362" tvg-id="1572dtv.cl" tvg-name="1572dtv.cl" tvg-logo="https://universalplus.com/files/channels/731381553.png",Universal Cinema
-http://186.121.249.26:9000/play/a02g
+http://181.189.246.86:58003/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-chno="363" tvg-id="1573dtv.cl" tvg-name="1573dtv.cl" tvg-logo="https://universalplus.com/files/channels/172050409.png",Universal Comedy
-http://186.121.249.26:9000/play/a01z
+http://181.189.246.86:58003/play/a04a/index.m3u8
 
 #EXTINF:-1 tvg-chno="364" tvg-id="" tvg-name="" tvg-logo="https://universalplus.com/files/channels/780277389.png",Universal Crime
-http://186.121.249.26:9000/play/a01y
+http://181.189.246.86:58003/play/a049/index.m3u8
 
 #EXTINF:-1 tvg-chno="365" tvg-id="" tvg-name="" tvg-logo="https://universalplus.com/files/channels/120254749.png",Universal Reality
-http://186.121.249.26:9000/play/a01x
+http://181.189.246.86:58003/play/a048/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="381" tvg-id="1524dtv.co" tvg-name="1524dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png",HBO
@@ -415,7 +415,7 @@ http://45.232.210.1:58000/play/a0fa
 http://186.101.70.92:25501/play/a03y/index.m3u8
 
 #EXTINF:-1 tvg-chno="386" tvg-id="540dtv.cl" tvg-name="540dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png",HBO Mundi
-http://45.189.117.32:7079/play/a0rs/index.m3u8
+http://181.39.202.98:9993/play/a1bh/index.m3u8
 
 #EXTINF:-1 tvg-chno="387" tvg-id="541dtv.cl" tvg-name="541dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png",HBO Pop
 http://190.108.93.148:8000/play/a0j2/index.m3u8
