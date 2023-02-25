@@ -294,13 +294,13 @@ http://181.189.246.86:58003/play/a032/index.m3u8
 http://181.189.243.254:8000/play/a0o7/index.m3u8
 
 #EXTINF:-1 tvg-chno="242" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1920px-Euronews_2016_logo.svg.png",Euronews
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/f8c95c2a-6f1f-44b2-a6f3-060b4d1674b1/3.m3u8
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="243" tvg-id="704dtv.cl" tvg-name="704dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1280px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",CNN en Español
 http://181.189.243.254:8000/play/a0ps/index.m3u8
 
 #EXTINF:-1 tvg-chno="244" tvg-id="EuronewsEspanol.mx" tvg-name="EuronewsEspanol.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1920px-Euronews_2016_logo.svg.png",Euronews en Español
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-espaol/afe14d25-d4de-433d-a4ee-d2a07153586b/3.m3u8
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1 tvg-chno="261" tvg-id="mtv.cl" tvg-name="mtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1920px-MTV_2021_%28brand_version%29.svg.png",MTV
