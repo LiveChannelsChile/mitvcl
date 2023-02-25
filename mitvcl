@@ -87,7 +87,7 @@ http://45.232.210.1:47000/play/a0ap
 http://45.232.210.1:47000/play/studiouniversalhd
 
 #EXTINF:-1 tvg-chno="131" tvg-id="1506dtv.cl" tvg-name="1506dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png",Sony Movies
-http://190.149.66.90:16000/play/a01q/index.m3u8
+http://181.189.246.86:58003/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-chno="132" tvg-id="219dtv.cl" tvg-name="219dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1920px-SYFY.svg.png",SyFy
 http://190.108.93.148:8000/play/a0ds/index.m3u8
@@ -112,7 +112,7 @@ http://45.232.210.1:58000/play/a06w
 http://45.232.210.1:47000/play/a0bf
 
 #EXTINF:-1 tvg-chno="143" tvg-id="216dtv.cl" tvg-name="216dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1920px-TBS_logo_2016.svg.png",TBS
-http://190.149.66.90:16000/play/a00y/index.m3u8
+http://181.209.173.10:8000/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-chno="144" tvg-id="504dtv.cl" tvg-name="504dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1024px-TCM_Latam_logo.svg.png",TCM
 http://45.232.210.1:8062/play/a09k/index.m3u8
@@ -124,13 +124,13 @@ http://45.232.210.1:8062/play/a09f/index.m3u8
 http://45.162.135.17:1080/play/a08e
 
 #EXTINF:-1 tvg-chno="147" tvg-id="514dtv.cl" tvg-name="514dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png",Cine Latino
-http://190.149.66.90:16000/play/a04k/index.m3u8
+http://181.189.246.86:58003/play/a023/index.m3u8
 
 #EXTINF:-1 tvg-chno="148" tvg-id="Multicinema.mx" tvg-name="Multicinema.mx" tvg-logo="https://i.ibb.co/2jQNg9n/MC-removebg-preview.png",Multicinema
-http://190.149.66.90:16000/play/a02n/index.m3u8
+http://181.189.246.86:58003/play/a05a/index.m3u8
 
 #EXTINF:-1 tvg-chno="149" tvg-id="Multipremier.mx" tvg-name="Multipremier.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1280px-Multipremier_logo.svg.png",Multipremier
-http://190.149.66.90:16000/play/a04j/index.m3u8
+http://181.189.246.86:58003/play/a022/index.m3u8
 
 #EXTINF:-1 tvg-chno="150" tvg-id="" tvg-name="" tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.615120486_CloverChannel.png.5b98947815588c78b3c43fe77e580fe9.png",Clover Channel
 http://190.108.93.148:8000/play/a0j6/index.m3u8
@@ -287,7 +287,7 @@ http://45.167.250.116:9000/play/a0ii
 http://45.162.132.145:8850/play/a02q/index.m3u8
 
 #EXTINF:-1 tvg-chno="230" tvg-id="310dtv.cl" tvg-name="310dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/1920px-TeenNick_2019_logo.svg.png",TeenNick
-http://190.149.66.90:16000/play/a01h/index.m3u8
+http://181.189.246.86:58003/play/a032/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="241" tvg-id="706dtv.cl" tvg-name="706dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-CNN.png",CNN International
@@ -351,7 +351,7 @@ http://177.234.230.226:8010/play/a00l/index.m3u8
 http://177.234.230.226:8010/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-chno="304" tvg-id="760dtv.cl" tvg-name="760dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png",Univisión Internacional
-http://190.149.66.90:16000/play/a054/index.m3u8
+http://181.189.246.86:58003/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-chno="305" tvg-id="StarTVE.mx" tvg-name="StarTVE.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",Star TVE
 http://170.239.188.253:50000/play/a01a/index.m3u8
@@ -424,11 +424,11 @@ http://190.108.93.148:8000/play/a0j2/index.m3u8
 http://45.189.118.12:8000/play/a08f/index.m3u8
 
 
-#EXTINF:-1, DIRECTV SPORTS (PE)
+#EXTINF:-1 tvg-chno="401", DIRECTV SPORTS (PE)
 http://138.185.15.250:8000/play/a085/index.m3u8
-#EXTINF:-1, DIRECTV SPORTS (CO)
+#EXTINF:-1 tvg-chno="402", DIRECTV SPORTS (CO)
 http://190.61.41.182:8000/play/a02y/index.m3u8
-#EXTINF:-1, DIRECTV SPORTS 2
+#EXTINF:-1 tvg-chno="403", DIRECTV SPORTS 2
 http://190.61.41.182:8000/play/a02z/index.m3u8
-#EXTINF:-1, DIRECTV SPORTS +
+#EXTINF:-1 tvg-chno="404", DIRECTV SPORTS +
 http://190.61.41.182:8000/play/a030/index.m3u8
