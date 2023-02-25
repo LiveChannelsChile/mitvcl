@@ -127,10 +127,10 @@ http://45.162.135.17:1080/play/a08e
 http://181.189.246.86:58003/play/a023/index.m3u8
 
 #EXTINF:-1 tvg-chno="148" tvg-id="Multicinema.mx" tvg-name="Multicinema.mx" tvg-logo="https://i.ibb.co/2jQNg9n/MC-removebg-preview.png",Multicinema
-http://181.189.246.86:58003/play/a05a/index.m3u8
+http://160.20.165.246:8000/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-chno="149" tvg-id="Multipremier.mx" tvg-name="Multipremier.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1280px-Multipremier_logo.svg.png",Multipremier
-http://181.189.246.86:58003/play/a022/index.m3u8
+http://160.20.165.246:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-chno="150" tvg-id="" tvg-name="" tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.615120486_CloverChannel.png.5b98947815588c78b3c43fe77e580fe9.png",Clover Channel
 http://190.108.93.148:8000/play/a0j6/index.m3u8
@@ -194,7 +194,7 @@ http://45.232.210.1:47000/play/a0at
 http://45.232.210.1:47000/play/foxsports3hd
 
 #EXTINF:-1 tvg-chno="174" tvg-id="629dtv.cl" tvg-name="629dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1920px-TyC_Sports_logo.svg.png",TyC Sports
-http://190.27.253.211:8000/play/a06b/index.m3u8
+http://200.24.134.18:9000/play/a0of/index.m3u8
 
 #EXTINF:-1 tvg-chno="175" tvg-id="658dtv.ec" tvg-name="658dtv.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1920px-GolTV_logo.svg.png" group-title="DEPORTES",Gol TV
 http://190.108.93.148:8000/play/a0il/index.m3u8
@@ -288,6 +288,12 @@ http://45.162.132.145:8850/play/a02q/index.m3u8
 
 #EXTINF:-1 tvg-chno="230" tvg-id="310dtv.cl" tvg-name="310dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/1920px-TeenNick_2019_logo.svg.png",TeenNick
 http://181.189.246.86:58003/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-chno="231" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FunBox_TV_logo.svg/1164px-FunBox_TV_logo.svg.png",FUNBOX
+http://160.20.165.246:8000/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-chno="232" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png",ZooMoo
+http://181.78.12.119:16123/play/ch04/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="241" tvg-id="706dtv.cl" tvg-name="706dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-CNN.png",CNN International
@@ -422,17 +428,3 @@ http://190.108.93.148:8000/play/a0j2/index.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.189.118.12:8000/play/a08f/index.m3u8
-
-
-#EXTINF:-1,1041 FUNBOX
-http://160.20.165.246:8000/play/a005/index.m3u8
-#EXTINF:-1,ZOOMOO
-http://181.78.12.119:16123/play/ch04/index.m3u8
-#EXTINF:-1, MULTIPREMIER
-http://160.20.165.246:8000/play/a00b/index.m3u8
-#EXTINF:-1, MULTICINEMA
-http://160.20.165.246:8000/play/a00a/index.m3u8
-#EXTINF:-1,Multicinema
-http://190.149.66.90:16000/play/a02n/index.m3u8
-#EXTINF:-1,Multipremier
-http://190.149.66.90:16000/play/a04j/index.m3u8
