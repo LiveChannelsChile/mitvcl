@@ -300,7 +300,7 @@ https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 http://181.189.243.254:8000/play/a0ps/index.m3u8
 
 #EXTINF:-1 tvg-chno="244" tvg-id="EuronewsEspanol.mx" tvg-name="EuronewsEspanol.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1920px-Euronews_2016_logo.svg.png",Euronews en Español
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1 tvg-chno="261" tvg-id="mtv.cl" tvg-name="mtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1920px-MTV_2021_%28brand_version%29.svg.png",MTV
@@ -422,21 +422,3 @@ http://190.108.93.148:8000/play/a0j2/index.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.189.118.12:8000/play/a08f/index.m3u8
-
-
-#EXTINF:-1 tvg-chno="401", DIRECTV SPORTS (CO)
-http://190.61.41.182:8000/play/a02y/index.m3u8
-#EXTINF:-1 tvg-chno="402", DIRECTV SPORTS 2
-http://190.61.41.182:8000/play/a02z/index.m3u8
-#EXTINF:-1 tvg-chno="403", DIRECTV SPORTS +
-http://190.61.41.182:8000/play/a030/index.m3u8
-#EXTINF:-1 tvg-chno="404",D SPORTS
-http://45.190.13.50:8000/play/a03v/index.m3u8
-#EXTINF:-1 tvg-chno="405",D SPORTS 2
-http://45.190.13.50:8000/play/a03w/index.m3u8
-#EXTINF:-1 tvg-chno="406",D SPORTS +
-http://45.190.13.50:8000/play/a03x/index.m3u8
-#EXTINF:-1 tvg-chno="407" tvg-id="610dtv.cl" tvg-name="610dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV Sports
-http://200.48.19.141:10021/play/a02t
-#EXTINF:-1 tvg-chno="408" tvg-id="etctv.cl" tvg-name="etctv.cl" tvg-logo="https://static.etc.cl/_common/images/logoetc_2015.png",ETC
-http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/1513.ts
