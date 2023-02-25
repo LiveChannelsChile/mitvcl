@@ -422,3 +422,17 @@ http://190.108.93.148:8000/play/a0j2/index.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.189.118.12:8000/play/a08f/index.m3u8
+
+
+#EXTINF:-1,1041 FUNBOX
+http://160.20.165.246:8000/play/a005/index.m3u8
+#EXTINF:-1,ZOOMOO
+http://181.78.12.119:16123/play/ch04/index.m3u8
+#EXTINF:-1, MULTIPREMIER
+http://160.20.165.246:8000/play/a00b/index.m3u8
+#EXTINF:-1, MULTICINEMA
+http://160.20.165.246:8000/play/a00a/index.m3u8
+#EXTINF:-1,Multicinema
+http://190.149.66.90:16000/play/a02n/index.m3u8
+#EXTINF:-1,Multipremier
+http://190.149.66.90:16000/play/a04j/index.m3u8
