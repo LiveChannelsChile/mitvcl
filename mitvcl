@@ -289,7 +289,7 @@ http://45.162.132.145:8850/play/a02q/index.m3u8
 #EXTINF:-1 tvg-chno="230" tvg-id="310dtv.cl" tvg-name="310dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/1920px-TeenNick_2019_logo.svg.png",TeenNick
 http://181.189.246.86:58003/play/a032/index.m3u8
 
-#EXTINF:-1 tvg-chno="231" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FunBox_TV_logo.svg/1164px-FunBox_TV_logo.svg.png",FUNBOX
+#EXTINF:-1 tvg-chno="231" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FunBox_TV_logo.svg/1164px-FunBox_TV_logo.svg.png",FunBox
 http://160.20.165.246:8000/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-chno="232" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png",ZooMoo
