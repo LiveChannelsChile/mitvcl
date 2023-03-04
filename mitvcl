@@ -238,7 +238,7 @@ http://45.232.210.1:47000/play/a0e4
 http://45.232.210.1:47000/play/a0al
 
 #EXTINF:-1 tvg-chno="208" tvg-id="740dtv.cl" tvg-name="740dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1920px-TLC_Logo.svg.png",TLC
-http://45.232.210.1:8062/play/a091/index.m3u8
+http://201.218.137.227:4000/play/a035/index.m3u8
 
 #EXTINF:-1 tvg-chno="209" tvg-id="hgtv.ar" tvg-name="hgtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1920px-HGTV_US_Logo_2015.svg.png",HGTV
 http://201.218.137.227:4000/play/a038/index.m3u8
@@ -418,7 +418,7 @@ http://201.218.137.227:4000/play/a049/index.m3u8
 http://45.232.210.1:58000/play/a0fa
 
 #EXTINF:-1 tvg-chno="385" tvg-id="528dtv.cl" tvg-name="528dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1920px-HBO_Signature.svg.png",HBO Signature
-http://201.218.137.227:4000/play/a00z/index.m3u8
+http://186.101.70.92:25501/play/a03y/index.m3u8
 
 #EXTINF:-1 tvg-chno="386" tvg-id="540dtv.cl" tvg-name="540dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png",HBO Mundi
 http://181.39.202.98:9993/play/a1bh/index.m3u8
