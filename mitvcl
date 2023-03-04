@@ -390,19 +390,19 @@ http://181.209.173.10:8000/play/a00j/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="361" tvg-id="576dtv.cl" tvg-name="576dtv.cl" tvg-logo="https://universalplus.com/files/channels/398064723.png",Universal Premiere
-http://168.228.194.32:58001/play/a08i/index.m3u8
+http://201.218.137.227:4000/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-chno="362" tvg-id="1572dtv.cl" tvg-name="1572dtv.cl" tvg-logo="https://universalplus.com/files/channels/731381553.png",Universal Cinema
-http://168.228.194.32:58001/play/a0a3/index.m3u8
+http://201.218.137.227:4000/play/a041/index.m3u8
 
 #EXTINF:-1 tvg-chno="363" tvg-id="1573dtv.cl" tvg-name="1573dtv.cl" tvg-logo="https://universalplus.com/files/channels/172050409.png",Universal Comedy
-http://168.228.194.32:58001/play/a08m/index.m3u8
+http://201.218.137.227:4000/play/a046/index.m3u8
 
 #EXTINF:-1 tvg-chno="364" tvg-id="" tvg-name="" tvg-logo="https://universalplus.com/files/channels/780277389.png",Universal Crime
-http://168.228.194.32:58001/play/a08l/index.m3u8
+http://201.218.137.227:4000/play/a045/index.m3u8
 
 #EXTINF:-1 tvg-chno="365" tvg-id="" tvg-name="" tvg-logo="https://universalplus.com/files/channels/120254749.png",Universal Reality
-http://168.228.194.32:58001/play/a08k/index.m3u8
+http://201.218.137.227:4000/play/a044/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="381" tvg-id="1524dtv.co" tvg-name="1524dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png",HBO
@@ -424,7 +424,7 @@ http://186.101.70.92:25501/play/a03y/index.m3u8
 http://181.39.202.98:9993/play/a1bh/index.m3u8
 
 #EXTINF:-1 tvg-chno="387" tvg-id="541dtv.cl" tvg-name="541dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png",HBO Pop
-http://168.228.194.32:58001/play/a0be/index.m3u8
+http://201.218.137.227:4000/play/a04c/index.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.189.118.12:8000/play/a08f/index.m3u8
