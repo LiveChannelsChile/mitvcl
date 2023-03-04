@@ -121,7 +121,7 @@ http://45.232.210.1:8062/play/a09k/index.m3u8
 http://45.232.210.1:8062/play/a09f/index.m3u8
 
 #EXTINF:-1 tvg-chno="146" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/EURO_LOGO_FINALE.png",Eurochannel
-http://45.162.135.17:1080/play/a08e
+http://131.196.12.237:25000/play/a059/index.m3u8
 
 #EXTINF:-1 tvg-chno="147" tvg-id="514dtv.cl" tvg-name="514dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png",Cine Latino
 http://168.228.194.32:58001/play/a09a/index.m3u8
@@ -142,7 +142,7 @@ http://170.239.188.253:50000/play/a016/index.m3u8
 http://45.232.210.1:47000/play/a056
 
 #EXTINF:-1 tvg-chno="153" tvg-id="1515dtv.cl" tvg-name="1515dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png",Europa Europa
-http://45.162.135.17:1080/play/a080
+http://190.109.29.90:8484/play/a04c/index.m3u8
 
 #EXTINF:-1 tvg-chno="154" tvg-id="746dtv.cl" tvg-name="746dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png",Film & Arts
 http://181.78.1.217:8146/play/a079/index.m3u8
@@ -197,10 +197,10 @@ http://45.232.210.1:47000/play/foxsports3hd
 http://200.24.134.18:9000/play/a0of/index.m3u8
 
 #EXTINF:-1 tvg-chno="175" tvg-id="658dtv.ec" tvg-name="658dtv.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1920px-GolTV_logo.svg.png" group-title="DEPORTES",Gol TV
-http://190.108.93.148:8000/play/a0il/index.m3u8
+http://190.109.29.90:8484/play/a06n/index.m3u8
 
 #EXTINF:-1 tvg-chno="176" tvg-id="628dtv.cl" tvg-name="628dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png",Golf Channel
-http://45.162.135.17:1080/play/a085
+http://190.109.29.90:8484/play/a04c/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="181" tvg-id="tntsports.cl" tvg-name="tntsports.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_hd_blanco.png.8effa63ae6fa3bb793919341e5fc1c8d.png",TNT Sports HD
@@ -313,7 +313,7 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 http://45.232.210.1:58000/play/mtvhd
 
 #EXTINF:-1 tvg-chno="262" tvg-id="272dtv.cl" tvg-name="272dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/800px-Htv_logo.svg.png",HTV
-http://45.162.135.17:1080/play/a08m
+http://181.129.250.45:9040/play/a0l1/index.m3u8
 
 #EXTINF:-1 tvg-chno="263" tvg-id="" tvg-name="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/entertainment_products/logos/stingray-iconcerts-logo.png",Stingray iConcerts
 http://170.239.188.253:50000/play/a03r/index.m3u8
