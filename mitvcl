@@ -111,8 +111,8 @@ http://45.232.210.1:58000/play/a06w
 #EXTINF:-1 tvg-chno="142" tvg-id="213dtv.cl" tvg-name="213dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Series
 http://45.232.210.1:47000/play/a0bf
 
-#EXTINF:-1 tvg-chno="143" tvg-id="216dtv.cl" tvg-name="216dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1920px-TBS_logo_2016.svg.png",TBS
-http://201.218.137.227:4000/play/a04l/index.m3u8
+#EXTINF:-1 tvg-chno="143" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1920px-TBS_logo_2016.svg.png",TBS very funny
+http://190.27.253.211:8000/play/a073/index.m3u8
 
 #EXTINF:-1 tvg-chno="144" tvg-id="504dtv.cl" tvg-name="504dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1024px-TCM_Latam_logo.svg.png",TCM
 http://45.232.210.1:8062/play/a09k/index.m3u8
@@ -297,13 +297,13 @@ http://181.78.12.119:16123/play/ch04/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="241" tvg-id="706dtv.cl" tvg-name="706dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-CNN.png",CNN International
-http://168.228.194.32:58001/play/a00t/index.m3u8
+http://181.189.243.254:8000/play/a0o7/index.m3u8
 
 #EXTINF:-1 tvg-chno="242" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1920px-Euronews_2016_logo.svg.png",Euronews
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="243" tvg-id="704dtv.cl" tvg-name="704dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1280px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",CNN en Español
-http://168.228.194.32:58001/play/a05c/index.m3u8
+http://181.189.243.254:8000/play/a0ps/index.m3u8
 
 #EXTINF:-1 tvg-chno="244" tvg-id="EuronewsEspanol.mx" tvg-name="EuronewsEspanol.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1920px-Euronews_2016_logo.svg.png",Euronews en Español
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
