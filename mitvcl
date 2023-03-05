@@ -121,7 +121,7 @@ http://45.232.210.1:8062/play/a09k/index.m3u8
 http://45.232.210.1:8062/play/a09f/index.m3u8
 
 #EXTINF:-1 tvg-chno="146" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/EURO_LOGO_FINALE.png",Eurochannel
-http://131.196.12.237:25000/play/a059/index.m3u8
+http://168.228.194.32:58001/play/a06s/index.m3u8
 
 #EXTINF:-1 tvg-chno="147" tvg-id="514dtv.cl" tvg-name="514dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png",Cine Latino
 http://168.228.194.32:58001/play/a09a/index.m3u8
