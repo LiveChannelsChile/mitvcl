@@ -275,7 +275,7 @@ http://45.232.210.1:47000/play/a0ak
 http://45.162.132.145:8850/play/a01x/index.m3u8
 
 #EXTINF:-1 tvg-chno="226" tvg-id="309dtv.cl" tvg-name="309dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png",Nick Jr.
-http://181.189.243.254:8000/play/a0p9/index.m3u8
+http://190.43.92.250:8000/play/a0tr/index.m3u8
 
 #EXTINF:-1 tvg-chno="227" tvg-id="315dtv.cl" tvg-name="315dtv.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Disney_Junior_2020.png/revision/latest/scale-to-width-down/1200?cb=20210617173806&path-prefix=es",Disney Junior
 http://45.232.210.1:8062/play/a08j/index.m3u8
