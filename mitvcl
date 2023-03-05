@@ -430,15 +430,22 @@ http://201.218.137.227:4000/play/a04c/index.m3u8
 http://45.189.118.12:8000/play/a08f/index.m3u8
 
 
-#EXTINF:-1, DIRECTV SPORTS (CO)
+#EXTINF:-1, D Sports (CO)
 http://190.61.41.182:8000/play/a02y/index.m3u8
-#EXTINF:-1, DIRECTV SPORTS 2
+#EXTINF:-1, D Sports 2
 http://190.61.41.182:8000/play/a02z/index.m3u8
-#EXTINF:-1, DIRECTV SPORTS +
+#EXTINF:-1, D Sports +
 http://190.61.41.182:8000/play/a030/index.m3u8
 #EXTINF:-1,Titan Channel HD
 http://160.20.165.246:8000/play/a01i/index.m3u8
-#EXTINF:-1,060 - Disney Junior HD
-http://201.218.137.227:4000/play/a03u/index.m3u8
-#EXTINF:-1,TNT Sports 2 (b)
-https://dtvott-abc.akamaized.net/dash_live_1230/manifest.m3u8
+#EXTINF:-1,ETC TV1
+http://186.5.31.251:8000/play/a0eg/index.m3u8
+#EXTINF:-1,ETC TV2
+http://45.162.135.17:1080/play/a0cm
+#EXTINF:-1,ETC TV3
+http://186.67.73.110:5052/play/a0kw
+#EXTINF:-1,ETC TV4
+http://45.162.132.145:8850/play/a03p/index.m3u8
+#EXTINF:-1,ETC TV5
+http://45.225.95.170:8000/play/a0g7/index.m3u8
+http://45.167.192.49:8000/play/a00n
