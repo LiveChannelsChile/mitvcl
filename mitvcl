@@ -41,7 +41,7 @@ http://45.232.210.1:47000/play/a07d
 https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 
 #EXTINF:-1 tvg-chno="114" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/RSsTCzG/CHV-Noticias.png",CHV Noticias
-https://n9.cl/zwuxt
+https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master_4.m3u8
 
 #EXTINF:-1 tvg-chno="115" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/T13_2019.png/revision/latest?cb=20200321173605&path-prefix=es",T13
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
@@ -142,7 +142,7 @@ http://170.239.188.253:50000/play/a016/index.m3u8
 http://45.232.210.1:47000/play/a056
 
 #EXTINF:-1 tvg-chno="153" tvg-id="1515dtv.cl" tvg-name="1515dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png",Europa Europa
-http://45.182.20.194:8000/play/a05p/index.m3u8
+http://181.174.115.86:8000/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-chno="154" tvg-id="746dtv.cl" tvg-name="746dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png",Film & Arts
 http://181.78.1.217:8146/play/a079/index.m3u8
@@ -275,7 +275,7 @@ http://45.232.210.1:47000/play/a0ak
 http://45.162.132.145:8850/play/a01x/index.m3u8
 
 #EXTINF:-1 tvg-chno="226" tvg-id="309dtv.cl" tvg-name="309dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png",Nick Jr.
-http://45.182.20.194:8000/play/a04r/index.m3u8
+http://190.43.92.250:8000/play/a0tr/index.m3u8
 
 #EXTINF:-1 tvg-chno="227" tvg-id="315dtv.cl" tvg-name="315dtv.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Disney_Junior_2020.png/revision/latest/scale-to-width-down/1200?cb=20210617173806&path-prefix=es",Disney Junior
 http://45.232.210.1:8062/play/a08j/index.m3u8
