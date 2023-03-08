@@ -41,7 +41,7 @@ http://45.232.210.1:47000/play/a07d
 https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 
 #EXTINF:-1 tvg-chno="114" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/RSsTCzG/CHV-Noticias.png",CHV Noticias
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/61f94a2866401100074e9deelivestitch/823489/playlist.m3u8?terminate=false&sid=0710e465-bdf0-11ed-a3e4-3ad8ed088b64&deviceDNT=0&deviceLat=-32.8834&deviceLon=-71.2488&deviceModel=web&deviceVersion=110.0.0&includeExtendedEvents=true&serverSideAds=true&appName=web&DRMCapabilities=widevine&deviceId=40e10f86-b964-4d0d-bb7b-6b7273851dcb&appVersion=6.10.1-60e2ed8f33981a7b47e30eca5e56d8fb33dce90e&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjNkOTM4ZmE5LWY0OTYtNDBlYi1hZjAwLWQzNmI0YzE2MGRhOSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwNzEwZTQ2NS1iZGYwLTExZWQtYTNlNC0zYWQ4ZWQwODhiNjQiLCJjbGllbnRJUCI6IjIwMS4yMjMuMTQzLjE0MCIsImNpdHkiOiJRdWlsbG90YSIsInBvc3RhbENvZGUiOiIiLCJjb3VudHJ5IjoiQ0wiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjotMzIuODgzNCwiZGV2aWNlTG9uIjotNzEuMjQ4OCwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlcyIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTEwLjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNi4xMC4xLTYwZTJlZDhmMzM5ODFhN2I0N2UzMGVjYTVlNTZkOGZiMzNkY2U5MGUiLCJjbGllbnRJRCI6IjQwZTEwZjg2LWI5NjQtNGQwZC1iYjdiLTZiNzI3Mzg1MWRjYiIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL1NhbnRpYWdvIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOk5EQmxNVEJtT0RZdFlqazJOQzAwWkRCa0xXSmlOMkl0Tm1JM01qY3pPRFV4WkdOaSIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2NzgzOTM4MTIsImlhdCI6MTY3ODMwNzQxMiwianRpIjoiZDk3YjhkOTYtM2ZiNC00MjU4LTgzYzUtZDI2NmU4OGRiODMwIn0.YCRzsB194QF16datRNVDo4mdiB8xnualWxqY_NPa-ko&CMCD=mtp%3D4600%2Cot%3Dm%2Csf%3Dh%2Csid%3D"0407904d-f708-4369-a012-a31d5939d2cd
+https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master_4.m3u8
 
 #EXTINF:-1 tvg-chno="115" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/T13_2019.png/revision/latest?cb=20200321173605&path-prefix=es",T13
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
@@ -313,7 +313,7 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 http://45.232.210.1:58000/play/mtvhd
 
 #EXTINF:-1 tvg-chno="262" tvg-id="272dtv.cl" tvg-name="272dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/800px-Htv_logo.svg.png",HTV
-http://181.129.250.45:9040/play/a0l1/index.m3u8
+http://45.182.20.194:8000/play/a068/index.m3u8
 
 #EXTINF:-1 tvg-chno="263" tvg-id="" tvg-name="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/entertainment_products/logos/stingray-iconcerts-logo.png",Stingray iConcerts
 http://170.239.188.253:50000/play/a03r/index.m3u8
