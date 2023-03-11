@@ -181,8 +181,8 @@ http://181.175.41.170:8000/play/a0js
 #EXTINF:-1 tvg-chno="169" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/7kGJjYG/Claro-sports-2.png",Claro Sports 2
 http://181.175.41.170:8000/play/a0jt
 
-#EXTINF:-1 tvg-chno="170" tvg-id="TUDN(Spanish).us" tvg-name="TUDN(Spanish).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png",TUDN
-http://190.61.102.67:8000/play/a07e
+#EXTINF:-1 tvg-chno="170" tvg-id="" tvg-name="" tvg-logo="https://titanchannel.com/blog/wp-content/uploads/2016/07/Simbolo-y-logo-Titan.png",Titan Channel
+http://160.20.165.246:8000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-chno="171" tvg-id="4399dtv.cl" tvg-name="4399dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png",FOX Sports 1
 http://45.232.210.1:47000/play/a07k
@@ -200,7 +200,7 @@ http://200.24.134.18:9000/play/a0of/index.m3u8
 http://200.24.134.18:9000/play/a0od/index.m3u8
 
 #EXTINF:-1 tvg-chno="176" tvg-id="628dtv.cl" tvg-name="628dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png",Golf Channel
-http://186.5.31.251:8000/play/a0bo/index.m3u8
+http://181.189.243.254:8000/play/a0qg/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="181" tvg-id="tntsports.cl" tvg-name="tntsports.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_hd_blanco.png.8effa63ae6fa3bb793919341e5fc1c8d.png",TNT Sports HD
