@@ -428,3 +428,24 @@ http://170.247.204.18:8000/play/a0f3/index.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.189.118.12:8000/play/a08f/index.m3u8
+
+
+
+#EXTINF:-1,HBO POP HD
+http://181.39.202.98:9993/play/a16b/index.m3u8
+#EXTINF:-1,GOLDEN
+http://45.176.193.20:7837/play/a06i
+#EXTINF:-1,Golden HD
+http://45.176.193.20:7837/play/a09j
+#EXTINF:-1, Golden Plus HD
+http://45.176.193.20:7837/play/a02s
+#EXTINF:-1,Baby TV
+http://186.101.70.92:25501/play/a08o/index.m3u8
+#EXTINF:-1,HTV
+http://181.78.105.146:9000/play/a012
+#EXTINF:-1,EUROCHANNEL
+http://204.199.120.34:16123/play/ch09
+#EXTINF:-1,CINELATINO
+http://204.199.120.34:16123/play/ch12
+#EXTINF:-1,Europa HD
+http://181.78.105.146:9000/play/a02k
