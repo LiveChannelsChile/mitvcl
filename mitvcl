@@ -121,7 +121,7 @@ http://45.232.210.1:8062/play/a09k/index.m3u8
 http://45.232.210.1:8062/play/a09f/index.m3u8
 
 #EXTINF:-1 tvg-chno="146" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/EURO_LOGO_FINALE.png",Eurochannel
-http://168.228.194.32:58001/play/a06s/index.m3u8
+http://181.189.243.254:8000/play/a0r6/index.m3u8
 
 #EXTINF:-1 tvg-chno="147" tvg-id="514dtv.cl" tvg-name="514dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png",Cine Latino
 http://168.228.194.32:58001/play/a09a/index.m3u8
@@ -142,7 +142,7 @@ http://170.239.188.253:50000/play/a016/index.m3u8
 http://45.232.210.1:47000/play/a056
 
 #EXTINF:-1 tvg-chno="153" tvg-id="1515dtv.cl" tvg-name="1515dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png",Europa Europa
-http://168.228.194.32:58001/play/a05x/index.m3u8
+http://181.78.1.217:8146/play/a07e/index.m3u8
 
 #EXTINF:-1 tvg-chno="154" tvg-id="746dtv.cl" tvg-name="746dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png",Film & Arts
 http://181.78.1.217:8146/play/a079/index.m3u8
@@ -275,13 +275,13 @@ http://45.232.210.1:47000/play/a0ak
 http://45.162.132.145:8850/play/a01x/index.m3u8
 
 #EXTINF:-1 tvg-chno="226" tvg-id="309dtv.cl" tvg-name="309dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png",Nick Jr.
-http://200.37.186.105:8000/play/a020/index.m3u8
+http://179.43.82.250:8000/play/a02e/index.m3u8
 
 #EXTINF:-1 tvg-chno="227" tvg-id="315dtv.cl" tvg-name="315dtv.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Disney_Junior_2020.png/revision/latest/scale-to-width-down/1200?cb=20210617173806&path-prefix=es",Disney Junior
 http://45.232.210.1:8062/play/a08j/index.m3u8
 
 #EXTINF:-1 tvg-chno="228" tvg-id="1317dtv.cl" tvg-name="1317dtv.cl" tvg-logo="https://1.bp.blogspot.com/-QY72YPUZ_-A/X8_CSWEtfxI/AAAAAAAA7kg/S8H7gAJczlImH4fE131WrPpb_VRz2Md4ACLcBGAsYHQ/s500/babytv-2017.png",BabyTV
-http://45.167.250.116:9000/play/a0ii
+http://186.101.70.92:25501/play/a08o/index.m3u8
 
 #EXTINF:-1 tvg-chno="229" tvg-id="Tooncast.mx" tvg-name="Tooncast.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png",Tooncast
 http://45.162.132.145:8850/play/a02q/index.m3u8
@@ -313,7 +313,7 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 http://45.232.210.1:58000/play/mtvhd
 
 #EXTINF:-1 tvg-chno="262" tvg-id="272dtv.cl" tvg-name="272dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/800px-Htv_logo.svg.png",HTV
-http://45.182.20.194:8000/play/a068/index.m3u8
+http://181.78.105.146:9000/play/a012
 
 #EXTINF:-1 tvg-chno="263" tvg-id="" tvg-name="" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/entertainment_products/logos/stingray-iconcerts-logo.png",Stingray iConcerts
 http://170.239.188.253:50000/play/a03r/index.m3u8
@@ -386,7 +386,7 @@ http://45.232.210.1:47000/play/goldenhd
 http://45.176.193.20:7837/play/a06h
 
 #EXTINF:-1 tvg-chno="345" tvg-id="GoldenPremier2.mx" tvg-name="GoldenPremier2.mx" tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es",Golden Premiere 2
-http://181.209.173.10:8000/play/a00j/index.m3u8
+http://181.175.41.170:8000/play/a0jw
 
 
 #EXTINF:-1 tvg-chno="361" tvg-id="576dtv.cl" tvg-name="576dtv.cl" tvg-logo="https://universalplus.com/files/channels/398064723.png",Universal Premiere
@@ -424,28 +424,11 @@ http://186.101.70.92:25501/play/a03y/index.m3u8
 http://181.39.202.98:9993/play/a1bh/index.m3u8
 
 #EXTINF:-1 tvg-chno="387" tvg-id="541dtv.cl" tvg-name="541dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png",HBO Pop
-http://170.247.204.18:8000/play/a0f3/index.m3u8
+http://181.39.202.98:9993/play/a16b/index.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.189.118.12:8000/play/a08f/index.m3u8
 
 
-
-#EXTINF:-1,HBO POP HD
-http://181.39.202.98:9993/play/a16b/index.m3u8
-#EXTINF:-1,GOLDEN
-http://45.176.193.20:7837/play/a06i
-#EXTINF:-1,Golden HD
-http://45.176.193.20:7837/play/a09j
-#EXTINF:-1, Golden Plus HD
-http://45.176.193.20:7837/play/a02s
-#EXTINF:-1,Baby TV
-http://186.101.70.92:25501/play/a08o/index.m3u8
-#EXTINF:-1,HTV
-http://181.78.105.146:9000/play/a012
-#EXTINF:-1,EUROCHANNEL
-http://204.199.120.34:16123/play/ch09
 #EXTINF:-1,CINELATINO
-http://204.199.120.34:16123/play/ch12
-#EXTINF:-1,Europa HD
-http://181.78.105.146:9000/play/a02k
+http://170.81.145.1:4000/play/149
