@@ -173,7 +173,7 @@ http://45.232.210.1:58000/play/a05e
 http://45.5.118.226:8000/play/a052/index.m3u8
 
 #EXTINF:-1 tvg-chno="167" tvg-id="beinx-es1.us" tvg-name="beinx-es1.us" tvg-logo=" https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",beIN Sports XTRA Ñ
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+http://168.228.194.32:58001/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-chno="168" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/6WwrHjw/Claro-sports.png",Claro Sports
 http://181.175.41.170:8000/play/a0js
@@ -247,10 +247,10 @@ http://200.24.159.165:4848/play/a04y/index.m3u8
 http://45.232.210.1:47000/play/idhd
 
 #EXTINF:-1 tvg-chno="211" tvg-id="736dtv.cl" tvg-name="736dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1920px-Discovery_Turbo_logo.svg.png",Discovery Turbo
-http://186.5.31.251:8000/play/a0du/index.m3u8
+http://45.238.20.129:8000/play/a01r
 
 #EXTINF:-1 tvg-chno="212" tvg-id="discovery-science.cl" tvg-name="discovery-science.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/800px-Science_Channel_logo.svg.png",Discovery Science
-http://177.93.45.108:8000/play/a018/index.m3u8
+http://45.238.20.129:8000/play/a02n
 
 #EXTINF:-1 tvg-chno="213" tvg-id="DiscoveryTheater.mx" tvg-name="DiscoveryTheater.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1920px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater
 http://45.232.210.1:47000/play/a0am
@@ -323,7 +323,7 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-chno="281" tvg-id="221dtv.cl" tvg-name="221dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg",¡Hola TV!
-http://45.189.118.12:8000/play/a05h/index.m3u8
+http://45.238.20.129:8000/play/a020
 
 #EXTINF:-1 tvg-chno="282" tvg-id="222dtv.cl" tvg-name="222dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png",E!
 http://45.232.210.1:8061/play/a0ff
