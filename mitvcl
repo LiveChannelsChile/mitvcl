@@ -26,7 +26,7 @@ http://45.232.210.1:8061/play/a08n
 http://45.232.210.1:8061/play/a07a
 
 #EXTINF:-1 tvg-chno="109" tvg-id="ZonaLatina.cl" tvg-name="ZonaLatina.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.Zona_Latina_White_2021.png.a50b98547cde92d001e216570c44a6eb.png",Zona Latina
-http://45.232.210.1:8062/play/a09h/index.m3u8
+http://186.5.31.251:8000/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-chno="110" tvg-id="viax.cl" tvg-name="viax.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png",Vía X
 http://45.232.210.1:8062/play/a092/index.m3u8
@@ -115,10 +115,10 @@ http://45.232.210.1:47000/play/a0bf
 http://190.27.253.211:8000/play/a073/index.m3u8
 
 #EXTINF:-1 tvg-chno="144" tvg-id="504dtv.cl" tvg-name="504dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1024px-TCM_Latam_logo.svg.png",TCM
-http://45.232.210.1:8062/play/a09k/index.m3u8
+http://186.5.31.251:8000/play/a05y/index.m3u8
 
 #EXTINF:-1 tvg-chno="145" tvg-id="520dtv.cl" tvg-name="520dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1920px-I.Sat_logo.svg.png",I Sat
-http://45.232.210.1:8062/play/a09f/index.m3u8
+http://186.5.31.251:8000/play/a05t/index.m3u8
 
 #EXTINF:-1 tvg-chno="146" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/EURO_LOGO_FINALE.png",Eurochannel
 http://181.189.243.254:8000/play/a0r6/index.m3u8
@@ -164,7 +164,7 @@ http://45.232.210.1:58000/play/a06j
 http://45.232.210.1:47000/play/espn3hd
 
 #EXTINF:-1 tvg-chno="164" tvg-id="624dtv.co" tvg-name="624dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",ESPN 4
-http://45.189.118.12:8000/play/a05z/index.m3u8
+http://170.239.188.253:50000/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-chno="165" tvg-id="1620dtv.cl" tvg-name="1620dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png",ESPN Extra
 http://45.232.210.1:58000/play/a05e
@@ -247,7 +247,7 @@ http://200.24.159.165:4848/play/a04y/index.m3u8
 http://45.232.210.1:47000/play/idhd
 
 #EXTINF:-1 tvg-chno="211" tvg-id="736dtv.cl" tvg-name="736dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1920px-Discovery_Turbo_logo.svg.png",Discovery Turbo
-http://45.232.210.1:8062/play/a0bh/index.m3u8
+http://186.5.31.251:8000/play/a0du/index.m3u8
 
 #EXTINF:-1 tvg-chno="212" tvg-id="discovery-science.cl" tvg-name="discovery-science.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/800px-Science_Channel_logo.svg.png",Discovery Science
 http://177.93.45.108:8000/play/a018/index.m3u8
@@ -275,7 +275,7 @@ http://45.232.210.1:47000/play/a0ak
 http://45.162.132.145:8850/play/a01x/index.m3u8
 
 #EXTINF:-1 tvg-chno="226" tvg-id="309dtv.cl" tvg-name="309dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png",Nick Jr.
-http://179.43.82.250:8000/play/a02e/index.m3u8
+http://186.5.31.251:8000/play/a0cr/index.m3u8
 
 #EXTINF:-1 tvg-chno="227" tvg-id="315dtv.cl" tvg-name="315dtv.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Disney_Junior_2020.png/revision/latest/scale-to-width-down/1200?cb=20210617173806&path-prefix=es",Disney Junior
 http://45.232.210.1:8062/play/a08j/index.m3u8
@@ -348,7 +348,7 @@ http://45.232.210.1:47000/play/a0aj
 
 
 #EXTINF:-1 tvg-chno="301" tvg-id="TVEIntAmerica.es" tvg-name="TVEIntAmerica.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/702px-Logo_TVE-Internacional.svg.png",TVE Internacional
-http://45.232.210.1:8062/play/a09s/index.m3u8
+http://186.5.31.251:8000/play/a0b7/index.m3u8
 
 #EXTINF:-1 tvg-chno="302" tvg-id="762dtv.cl" tvg-name="762dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/497px-Antena_3_Internacional_logo_2017.svg.png",Antena 3 Internacional
 http://177.234.230.226:8010/play/a00l/index.m3u8
@@ -363,7 +363,7 @@ http://181.175.41.170:8000/play/a0gv
 http://170.239.188.253:50000/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-chno="306" tvg-id="214dtv.cl" tvg-name="214dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png",A3 Series
-http://45.189.118.12:8000/play/a05n/index.m3u8
+http://170.239.188.253:50000/play/a03f/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="321" tvg-id="EWTN.mx" tvg-name="EWTN.mx" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_02/large.2.png.ee7314e2d55fc99f91cede718077b31d.png",EWTN
@@ -427,4 +427,4 @@ http://181.39.202.98:9993/play/a1bh/index.m3u8
 http://181.39.202.98:9993/play/a16b/index.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
-http://45.189.118.12:8000/play/a08f/index.m3u8
+http://181.39.202.98:9993/play/a19u/index.m3u8
