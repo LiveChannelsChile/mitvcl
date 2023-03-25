@@ -215,16 +215,16 @@ http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?devic
 #EXTINF:-1 tvg-chno="184" tvg-id="1638dtv.cl" tvg-name="1638dtv.cl" tvg-logo="http://www.teletraktv.cl/wp-content/uploads/2019/04/cropped-MOSCA-TELETRAK-DIAGONAL_00300-3.png",Teletrak
 https://mdstrm.com/live-stream-playlist/62616df888feb366839a3eb5.m3u8
 
-#EXTINF:-1 tvg-chno="185" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV Sports
+#EXTINF:-1 tvg-chno="185" tvg-id="" tvg-name="" tvg-logo="https://www.directv.cl/content/dam/public-sites/channels/610.png",D Sports
 http://190.119.178.46:8000/play/a032/index.m3u8
 
-#EXTINF:-1 tvg-chno="186" tvg-id="612directv.cl" tvg-name="612directv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1920px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",DIRECTV Sports 2
+#EXTINF:-1 tvg-chno="186" tvg-id="612directv.cl" tvg-name="612directv.cl" tvg-logo="https://www.directv.cl/content/dam/public-sites/channels/612.png",D Sports 2
 http://190.119.178.46:8000/play/a033/index.m3u8
 
-#EXTINF:-1 tvg-chno="187" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png",DIRECTV Sports +
+#EXTINF:-1 tvg-chno="187" tvg-id="" tvg-name="" tvg-logo="https://www.directv.cl/content/dam/public-sites/channels/613.png",D Sports +
 http://190.119.178.46:8000/play/a034/index.m3u8
 
-#EXTINF:-1 tvg-chno="188" tvg-id="" tvg-name="DIRECTV Sports Fight" tvg-logo="https://seeklogo.com/images/D/directv-sports-fight-logo-BBD16A544F-seeklogo.com.png",DIRECTV Sports Fight
+#EXTINF:-1 tvg-chno="188" tvg-id="" tvg-name="DIRECTV Sports Fight" tvg-logo="https://www.directv.cl/content/dam/public-sites/channels/1620.png",D Sports Fight
 http://190.119.178.46:8000/play/a036/index.m3u8
 
 #EXTINF:-1 tvg-chno="189",CDO Básico
