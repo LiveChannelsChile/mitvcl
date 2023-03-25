@@ -172,8 +172,8 @@ http://45.232.210.1:58000/play/a05e
 #EXTINF:-1 tvg-chno="166" tvg-id="beinsportsspanish.us" tvg-name="beinsportsspanish.us" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png",beIN Sports Ñ
 http://45.5.118.226:8000/play/a052/index.m3u8
 
-#EXTINF:-1 tvg-chno="167" tvg-id="beinx-es1.us" tvg-name="beinx-es1.us" tvg-logo=" https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",beIN Sports XTRA Ñ
-http://168.228.194.32:58001/play/a003/index.m3u8
+#EXTINF:-1 tvg-chno="167" tvg-id="beinx-es1.us" tvg-name="beinx-es1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png",TUDN
+http://168.228.194.32:58001/play/a0b9/index.m3u8
 
 #EXTINF:-1 tvg-chno="168" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/6WwrHjw/Claro-sports.png",Claro Sports
 http://181.175.41.170:8000/play/a0js
@@ -214,24 +214,6 @@ http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?devic
 
 #EXTINF:-1 tvg-chno="184" tvg-id="1638dtv.cl" tvg-name="1638dtv.cl" tvg-logo="http://www.teletraktv.cl/wp-content/uploads/2019/04/cropped-MOSCA-TELETRAK-DIAGONAL_00300-3.png",Teletrak
 https://mdstrm.com/live-stream-playlist/62616df888feb366839a3eb5.m3u8
-
-#EXTINF:-1 tvg-chno="185" tvg-id="" tvg-name="" tvg-logo="https://www.directv.cl/content/dam/public-sites/channels/610.png",D Sports
-http://190.119.178.46:8000/play/a032/index.m3u8
-
-#EXTINF:-1 tvg-chno="186" tvg-id="612directv.cl" tvg-name="612directv.cl" tvg-logo="https://www.directv.cl/content/dam/public-sites/channels/612.png",D Sports 2
-http://190.119.178.46:8000/play/a033/index.m3u8
-
-#EXTINF:-1 tvg-chno="187" tvg-id="" tvg-name="" tvg-logo="https://www.directv.cl/content/dam/public-sites/channels/613.png",D Sports +
-http://190.119.178.46:8000/play/a034/index.m3u8
-
-#EXTINF:-1 tvg-chno="188" tvg-id="" tvg-name="DIRECTV Sports Fight" tvg-logo="https://www.directv.cl/content/dam/public-sites/channels/1620.png",D Sports Fight
-http://190.119.178.46:8000/play/a036/index.m3u8
-
-#EXTINF:-1 tvg-chno="189",CDO Básico
-http://186.5.31.251:8000/play/a0bb/index.m3u8
-
-#EXTINF:-1 tvg-chno="190",CDO Premium
-http://186.5.31.251:8000/play/a0bc/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="201" tvg-id="732dtv.cl" tvg-name="732dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png",Discovery Channel
