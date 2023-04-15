@@ -53,7 +53,7 @@ http://186.5.31.251:8000/play/a0b5/index.m3u8
 http://45.232.210.1:47000/play/a057
 
 #EXTINF:-1 tvg-chno="118" tvg-id="etctv.cl" tvg-name="etctv.cl" tvg-logo="https://static.etc.cl/_common/images/logoetc_2015.png",ETC
-http://200.24.141.2:4000/play/a2ju/index.m3u8
+http://186.5.31.251:8000/play/a0eg/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="121" tvg-id="1206dtv.cl" tvg-name="1206dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel
@@ -172,8 +172,8 @@ http://45.232.210.1:58000/play/a05e
 #EXTINF:-1 tvg-chno="166" tvg-id="beinsportsspanish.us" tvg-name="beinsportsspanish.us" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png",beIN Sports Ñ
 http://45.5.118.226:8000/play/a052/index.m3u8
 
-#EXTINF:-1 tvg-chno="167" tvg-id="beinx-es1.us" tvg-name="beinx-es1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png",TUDN
-http://168.228.194.32:58001/play/a0b9/index.m3u8
+#EXTINF:-1 tvg-chno="167" tvg-id="beinx-es1.us" tvg-name="beinx-es1.us" tvg-logo="https://www.beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",beIN Sports Xtra Ñ
+http://181.78.11.238:6837/play/a02s
 
 #EXTINF:-1 tvg-chno="168" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/6WwrHjw/Claro-sports.png",Claro Sports
 http://181.175.41.170:8000/play/a0js
@@ -406,10 +406,10 @@ http://181.175.41.170:8000/play/a0gg
 
 
 #EXTINF:-1 tvg-chno="381" tvg-id="1524dtv.co" tvg-name="1524dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png",HBO
-http://45.232.210.1:8062/play/a0b3/index.m3u8
+http://179.51.169.254:8000/play/a01m
 
 #EXTINF:-1 tvg-chno="382" tvg-id="525dtv.cl" tvg-name="525dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/1920px-HBO2_logo.svg.png",HBO 2
-http://45.232.210.1:8062/play/a08f/index.m3u8
+http://179.51.169.254:8000/play/a01l
 
 #EXTINF:-1 tvg-chno="383" tvg-id="526dtv.cl" tvg-name="526dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1920px-Logohboplus2019.svg.png",HBO Plus
 http://45.232.210.1:8062/play/a08g/index.m3u8
