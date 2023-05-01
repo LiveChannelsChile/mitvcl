@@ -418,7 +418,7 @@ http://45.232.210.1:8062/play/a08g/index.m3u8
 http://45.232.210.1:58000/play/a0fa
 
 #EXTINF:-1 tvg-chno="385" tvg-id="528dtv.cl" tvg-name="528dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1920px-HBO_Signature.svg.png",HBO Signature
-http://190.61.91.81:5000/play/a0ji/index.m3u8
+http://168.228.194.32:58001/play/a0bf/index.m3u8
 
 #EXTINF:-1 tvg-chno="386" tvg-id="540dtv.cl" tvg-name="540dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png",HBO Mundi
 http://181.39.202.98:9993/play/a1bh/index.m3u8
