@@ -281,7 +281,7 @@ http://45.232.210.1:8062/play/a0bg/index.m3u8
 http://45.232.210.1:8062/play/a08j/index.m3u8
 
 #EXTINF:-1 tvg-chno="228" tvg-id="1317dtv.cl" tvg-name="1317dtv.cl" tvg-logo="https://1.bp.blogspot.com/-QY72YPUZ_-A/X8_CSWEtfxI/AAAAAAAA7kg/S8H7gAJczlImH4fE131WrPpb_VRz2Md4ACLcBGAsYHQ/s500/babytv-2017.png",BabyTV
-http://186.101.70.92:25501/play/a08o/index.m3u8
+http://45.162.132.145:8850/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-chno="229" tvg-id="Tooncast.mx" tvg-name="Tooncast.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png",Tooncast
 http://45.162.132.145:8850/play/a02q/index.m3u8
@@ -418,7 +418,7 @@ http://45.232.210.1:8062/play/a08g/index.m3u8
 http://45.232.210.1:58000/play/a0fa
 
 #EXTINF:-1 tvg-chno="385" tvg-id="528dtv.cl" tvg-name="528dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1920px-HBO_Signature.svg.png",HBO Signature
-http://186.101.70.92:25501/play/a03y/index.m3u8
+http://190.61.91.81:5000/play/a0ji/index.m3u8
 
 #EXTINF:-1 tvg-chno="386" tvg-id="540dtv.cl" tvg-name="540dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png",HBO Mundi
 http://181.39.202.98:9993/play/a1bh/index.m3u8
