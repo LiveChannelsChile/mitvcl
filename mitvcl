@@ -90,10 +90,10 @@ http://45.232.210.1:47000/play/studiouniversalhd
 http://181.175.41.170:8000/play/a0fg
 
 #EXTINF:-1 tvg-chno="132" tvg-id="219dtv.cl" tvg-name="219dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1920px-SYFY.svg.png",SyFy
-http://181.189.243.254:8000/play/a0s9/index.m3u8
+http://190.27.253.211:8000/play/a06s/index.m3u8
 
 #EXTINF:-1 tvg-chno="133" tvg-id="228dtv.cl" tvg-name="228dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png",Lifetime
-http://181.189.243.254:8000/play/a0pl/index.m3u8
+http://190.27.253.211:8000/play/a06r/index.m3u8
 
 #EXTINF:-1 tvg-chno="134" tvg-id="217dtv.cl" tvg-name="217dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1920px-FX_International_logo.svg.png",FX
 http://45.232.210.1:47000/play/a0aw
@@ -226,7 +226,7 @@ http://45.232.210.1:8061/play/a05a
 http://45.232.210.1:47000/play/animalplanethd
 
 #EXTINF:-1 tvg-chno="204" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png/revision/latest?cb=20151125134652",Love Nature
-http://177.234.230.226:8010/play/a03o/index.m3u8
+http://181.39.202.98:9993/play/a186/index.m3u8
 
 #EXTINF:-1 tvg-chno="205" tvg-id="1742dtv.cl" tvg-name="1742dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/800px-History_%282021%29.svg.png",History Channel
 http://45.232.210.1:47000/play/a06b
