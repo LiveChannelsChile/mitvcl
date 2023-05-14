@@ -26,10 +26,10 @@ http://45.232.210.1:8061/play/a08n
 http://45.232.210.1:8061/play/a07a
 
 #EXTINF:-1 tvg-chno="109" tvg-id="ZonaLatina.cl" tvg-name="ZonaLatina.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.Zona_Latina_White_2021.png.a50b98547cde92d001e216570c44a6eb.png",Zona Latina
-http://45.232.210.1:8062/play/a09h/index.m3u8
+http://45.225.95.170:8000/play/a0g2/index.m3u8
 
 #EXTINF:-1 tvg-chno="110" tvg-id="viax.cl" tvg-name="viax.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png",Vía X
-http://45.232.210.1:8062/play/a092/index.m3u8
+http://45.225.95.170:8000/play/a0g3/index.m3u8
 
 #EXTINF:-1 tvg-chno="111" tvg-id="707dtv.cl" tvg-name="707dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/512px-CNN_Chile_logo_2017.svg.png",CNN Chile
 http://45.232.210.1:47000/play/cnnchilehd
@@ -44,7 +44,7 @@ https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="115" tvg-id="155dtv.cl" tvg-name="155dtv.cl" tvg-logo="https://www.camara.cl/img/escudo2.jpg",Cámara TV
-https://tls-cl.cdnz.cl/camara/live/playlist.m3u8
+http://45.225.95.170:8000/play/a0fg/index.m3u8
 
 #EXTINF:-1 tvg-chno="116" tvg-id="TVSenado.cl" tvg-name="TVSenado.cl" tvg-logo="https://tv.senado.cl/tvsenado/site/artic/20160901/imag/foto_0000000920160901163145.png",TV Senado
 http://45.225.95.170:8000/play/a0ff/index.m3u8
@@ -90,7 +90,7 @@ http://45.232.210.1:47000/play/studiouniversalhd
 http://181.175.41.170:8000/play/a0fg
 
 #EXTINF:-1 tvg-chno="132" tvg-id="219dtv.cl" tvg-name="219dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1920px-SYFY.svg.png",SyFy
-http://181.189.243.254:8000/play/a0s9/index.m3u8
+http://45.225.95.170:8000/play/a0hr/index.m3u8
 
 #EXTINF:-1 tvg-chno="133" tvg-id="228dtv.cl" tvg-name="228dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png",Lifetime
 http://45.225.95.170:8000/play/a0ih/index.m3u8
@@ -427,102 +427,4 @@ http://181.39.202.98:9993/play/a1bh/index.m3u8
 http://181.39.202.98:9993/play/a16b/index.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
-http://181.39.202.98:9993/play/a19u/index.m3u8
-
-
-#EXTINF:-1,13 C
-http://45.225.95.170:8000/play/a0f8/index.m3u8
-#EXTINF:-1,BBC World
-http://45.225.95.170:8000/play/a0j3/index.m3u8
-#EXTINF:-1,CDO BÆsico
-http://45.225.95.170:8000/play/a0fk/index.m3u8
-#EXTINF:-1,CDO Premium
-http://45.225.95.170:8000/play/a0fl/index.m3u8
-#EXTINF:-1,CNN Español
-http://45.225.95.170:8000/play/a0j2/index.m3u8
-#EXTINF:-1,CNN International
-http://45.225.95.170:8000/play/a0j4/index.m3u8
-#EXTINF:-1,Clover
-http://45.225.95.170:8000/play/a0hb/index.m3u8
-#EXTINF:-1,Discovery Science
-http://45.225.95.170:8000/play/a0h6/index.m3u8
-#EXTINF:-1,Discovery Science
-http://45.225.95.170:8000/play/a0gy/index.m3u8
-#EXTINF:-1,Discovery Turbo
-http://45.225.95.170:8000/play/a0io/index.m3u8
-#EXTINF:-1,Discovery Turbo
-http://45.225.95.170:8000/play/a0i8/index.m3u8
-#EXTINF:-1,ESPN 4
-http://45.225.95.170:8000/play/a0ig/index.m3u8
-#EXTINF:-1,ETC TV
-http://45.225.95.170:8000/play/a0g7/index.m3u8
-#EXTINF:-1,Eurochannel
-http://45.225.95.170:8000/play/a0j5/index.m3u8
-#EXTINF:-1,Fox Sports
-http://45.225.95.170:8000/play/a0gb/index.m3u8
-#EXTINF:-1,Glitz*
-http://45.225.95.170:8000/play/a0g8/index.m3u8
-#EXTINF:-1,Globovision
-http://45.225.95.170:8000/play/a0i0/index.m3u8
-#EXTINF:-1,Gol TV
-http://45.225.95.170:8000/play/a0j9/index.m3u8
-#EXTINF:-1,Golden
-http://45.225.95.170:8000/play/a0h7/index.m3u8
-#EXTINF:-1,Golden
-http://45.225.95.170:8000/play/a0h1/index.m3u8
-#EXTINF:-1,Golden Edge
-http://45.225.95.170:8000/play/a0gh/index.m3u8
-#EXTINF:-1,Golf Channel
-http://45.225.95.170:8000/play/a0fw/index.m3u8
-#EXTINF:-1,Golf Channel
-http://45.225.95.170:8000/play/a0fj/index.m3u8
-#EXTINF:-1,HBO Signature
-http://45.225.95.170:8000/play/a0jj/index.m3u8
-#EXTINF:-1,Kanal D Drama
-http://45.225.95.170:8000/play/a0ek/index.m3u8
-#EXTINF:-1,Lifetime
-http://45.225.95.170:8000/play/a0ih/index.m3u8
-#EXTINF:-1,Love Nature
-http://45.225.95.170:8000/play/a0g5/index.m3u8
-#EXTINF:-1,MÆsChic
-http://45.225.95.170:8000/play/a0hv/index.m3u8
-#EXTINF:-1,MÆsChic
-http://45.225.95.170:8000/play/a0hi/index.m3u8
-#EXTINF:-1,Playboy
-http://45.225.95.170:8000/play/a0hy/index.m3u8
-#EXTINF:-1,Playboy
-http://45.225.95.170:8000/play/a0hu/index.m3u8
-#EXTINF:-1,Playboy
-http://45.225.95.170:8000/play/a0ht/index.m3u8
-#EXTINF:-1,REC TV
-http://45.225.95.170:8000/play/a0gj/index.m3u8
-#EXTINF:-1,Sextreme
-http://45.225.95.170:8000/play/a0fu/index.m3u8
-#EXTINF:-1,Sextreme
-http://45.225.95.170:8000/play/a0fs/index.m3u8
-#EXTINF:-1,SyFy
-http://45.225.95.170:8000/play/a0hr/index.m3u8
-#EXTINF:-1,TNT SPORTS 2
-http://45.225.95.170:8000/play/a0if/index.m3u8
-#EXTINF:-1,TV Diputados
-http://45.225.95.170:8000/play/a0fg/index.m3u8
-#EXTINF:-1,TV Senado
-http://45.225.95.170:8000/play/a0ff/index.m3u8
-#EXTINF:-1,TVE
-http://45.225.95.170:8000/play/a0fh/index.m3u8
-#EXTINF:-1,Tooncast
-http://45.225.95.170:8000/play/a0jk/index.m3u8
-#EXTINF:-1,Tooncast
-http://45.225.95.170:8000/play/a0iy/index.m3u8
-#EXTINF:-1,Venus
-http://45.225.95.170:8000/play/a0ft/index.m3u8
-#EXTINF:-1,Venus
-http://45.225.95.170:8000/play/a0fr/index.m3u8
-#EXTINF:-1,Via X
-http://45.225.95.170:8000/play/a0g3/index.m3u8
-#EXTINF:-1,WOBI
-http://45.225.95.170:8000/play/a0f1/index.m3u8
-#EXTINF:-1,WOBI
-http://45.225.95.170:8000/play/a0ep/index.m3u8
-#EXTINF:-1,Zona Latina
-http://45.225.95.170:8000/play/a0g2/index.m3u8
+http://181.39.202.98:9993/play/a19u/index.m3u
