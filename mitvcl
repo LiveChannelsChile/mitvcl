@@ -47,7 +47,7 @@ https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 https://tls-cl.cdnz.cl/camara/live/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="116" tvg-id="TVSenado.cl" tvg-name="TVSenado.cl" tvg-logo="https://tv.senado.cl/tvsenado/site/artic/20160901/imag/foto_0000000920160901163145.png",TV Senado
-http://45.232.211.197:1080/play/a0c4
+http://45.225.95.170:8000/play/a0ff/index.m3u8
 
 #EXTINF:-1 tvg-chno="117" tvg-id="146dtv.cl" tvg-name="146dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logotipo_Color_2_NTV%28Chile%29.svg/3816px-Logotipo_Color_2_NTV%28Chile%29.svg.png",NTV
 http://45.232.210.1:47000/play/a057
@@ -93,7 +93,7 @@ http://181.175.41.170:8000/play/a0fg
 http://181.189.243.254:8000/play/a0s9/index.m3u8
 
 #EXTINF:-1 tvg-chno="133" tvg-id="228dtv.cl" tvg-name="228dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png",Lifetime
-http://38.7.131.2:8000/play/a09z/index.m3u8
+http://45.225.95.170:8000/play/a0ih/index.m3u8
 
 #EXTINF:-1 tvg-chno="134" tvg-id="217dtv.cl" tvg-name="217dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1920px-FX_International_logo.svg.png",FX
 http://45.232.210.1:47000/play/a0aw
