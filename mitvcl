@@ -41,7 +41,7 @@ http://45.232.210.1:47000/play/a07d
 https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 
 #EXTINF:-1 tvg-chno="114" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/T13_2019.png/revision/latest?cb=20200321173605&path-prefix=es",T13
-https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
+https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_1250.m3u8
 
 #EXTINF:-1 tvg-chno="115" tvg-id="155dtv.cl" tvg-name="155dtv.cl" tvg-logo="https://www.camara.cl/img/escudo2.jpg",Cámara TV
 http://45.225.95.170:8000/play/a0fg/index.m3u8
@@ -170,10 +170,10 @@ http://181.78.24.67:8010/play/a04j/index.m3u8
 http://45.232.210.1:58000/play/a05e
 
 #EXTINF:-1 tvg-chno="166" tvg-id="beinsportsspanish.us" tvg-name="beinsportsspanish.us" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png",beIN Sports Ñ
-http://181.78.11.238:6837/play/a02o
+http://190.90.213.163:2837/play/a01n
 
 #EXTINF:-1 tvg-chno="167" tvg-id="beinx-es1.us" tvg-name="beinx-es1.us" tvg-logo="https://www.beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",beIN Sports Xtra Ñ
-http://181.78.11.238:6837/play/a02s
+http://190.90.213.163:2837/play/a01p
 
 #EXTINF:-1 tvg-chno="168" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/6WwrHjw/Claro-sports.png",Claro Sports
 http://181.175.41.170:8000/play/a0js
@@ -427,4 +427,4 @@ http://181.39.202.98:9993/play/a1bh/index.m3u8
 http://181.39.202.98:9993/play/a16b/index.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-id="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme
-http://181.39.202.98:9993/play/a19u/index.m3u
+http://45.225.95.170:8000/play/a0jh/index.m3u8
