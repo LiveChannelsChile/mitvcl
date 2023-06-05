@@ -313,7 +313,7 @@ http://181.189.243.254:8000/play/a0rg/index.m3u8
 http://38.7.131.2:8000/play/a09e/index.m3u8
 
 #EXTINF:-1 tvg-chno="264" tvg-id="" tvg-name="" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1543589165298-Imagen.png",Sin Límites
-http://38.7.131.2:8000/play/a0ak/index.m3u8
+http://45.4.1.149:7778/play/a02h/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="281" tvg-id="221dtv.cl" tvg-name="221dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg",¡Hola TV!
