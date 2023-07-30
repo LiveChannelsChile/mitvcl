@@ -179,6 +179,7 @@ http://181.175.41.170:8000/play/a0jt
 http://201.218.137.232:4123/play/a05a/index.m3u8
 
 #EXTINF:-1 tvg-chno="169" tvg-id="" tvg-name="" tvg-logo="",DSports2
+http://201.218.137.232:4123/play/a05b/index.m3u8
 
 #EXTINF:-1 tvg-chno="170" tvg-id="" tvg-name="" tvg-logo="",DSports+
 http://201.218.137.232:4123/play/a05c/index.m3u8
