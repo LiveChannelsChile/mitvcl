@@ -111,8 +111,8 @@ http://45.232.210.1:58000/play/a06w
 #EXTINF:-1 tvg-chno="142" tvg-id="213dtv.cl" tvg-name="213dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Series
 http://45.232.210.1:47000/play/a0bf
 
-#EXTINF:-1 tvg-chno="143" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1920px-TBS_logo_2016.svg.png",TBS
-http://190.27.253.211:8000/play/a073/index.m3u8
+#EXTINF:-1 tvg-chno="143" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/TNT_Novelas_logo_2023.svg/revision/latest/scale-to-width-down/150?cb=20230621193156",TNT Novelas
+http://201.218.137.232:4123/play/a04l/index.m3u8
 
 #EXTINF:-1 tvg-chno="144" tvg-id="504dtv.cl" tvg-name="504dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1024px-TCM_Latam_logo.svg.png",TCM
 http://45.162.132.145:8850/play/a020/index.m3u8
@@ -132,10 +132,10 @@ http://45.5.119.202:54321/play/a06f/index.m3u8
 #EXTINF:-1 tvg-chno="149" tvg-id="Multipremier.mx" tvg-name="Multipremier.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1280px-Multipremier_logo.svg.png",Multipremier
 http://45.5.119.202:54321/play/a01w/index.m3u8
 
-#EXTINF:-1 tvg-chno="150" tvg-id="" tvg-name="" tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.615120486_CloverChannel.png.5b98947815588c78b3c43fe77e580fe9.png",Clover Channel
+#EXTINF:-1 tvg-chno="150" tvg-id="908mvstr.cl" tvg-name="908mvstr.cl" tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.615120486_CloverChannel.png.5b98947815588c78b3c43fe77e580fe9.png",Clover Channel
 http://45.225.95.170:8000/play/a0hb/index.m3u8
 
-#EXTINF:-1 tvg-chno="151" tvg-id="" tvg-name="" tvg-logo="https://www.kanalddrama.com/assets/img/logo_bottom2.png",Kanal D Drama
+#EXTINF:-1 tvg-chno="151" tvg-id="892mvstr.cl" tvg-name="892mvstr.cl" tvg-logo="https://www.kanalddrama.com/assets/img/logo_bottom2.png",Kanal D Drama
 http://45.225.95.170:8000/play/a0ek/index.m3u8
 
 #EXTINF:-1 tvg-chno="152" tvg-id="210dtv.cl" tvg-name="210dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1920px-AMC_logo_2019.svg.png",AMC
@@ -176,10 +176,10 @@ http://181.175.41.170:8000/play/a0js
 http://181.175.41.170:8000/play/a0jt
 
 #EXTINF:-1 tvg-chno="168" tvg-id="629dtv.cl" tvg-name="629dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1920px-TyC_Sports_logo.svg.png",TyC Sports
-http://181.39.202.98:9993/play/a17z/index.m3u8
+http://201.218.137.232:4123/play/a00c/index.m3u8
 
 #EXTINF:-1 tvg-chno="169" tvg-id="658dtv.ec" tvg-name="658dtv.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1920px-GolTV_logo.svg.png",Gol TV
-http://181.39.202.98:9993/play/a17u/index.m3u8
+http://201.218.137.232:4123/play/a04z/index.m3u8
 
 #EXTINF:-1 tvg-chno="170" tvg-id="628dtv.cl" tvg-name="628dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png",Golf Channel
 http://181.189.243.254:8000/play/a0qg/index.m3u8
@@ -284,7 +284,7 @@ http://45.5.119.202:54321/play/a00z/index.m3u8
 http://181.189.243.254:8000/play/a0q1/index.m3u8
 
 #EXTINF:-1 tvg-chno="231" tvg-id="" tvg-name="" tvg-logo="https://qph.cf2.quoracdn.net/main-qimg-c9798453ec86f37e3ae94460cc96c86d",DreamWorks
-http://181.78.21.206:8000/play/a09f/index.m3u8
+http://201.218.137.232:4123/play/a03y/index.m3u8
 
 #EXTINF:-1 tvg-chno="232" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png",ZooMoo
 http://181.78.12.119:16123/play/ch04/index.m3u8
