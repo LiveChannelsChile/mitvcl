@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-chno="101" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png",Telecanal
-http://45.162.132.145:8850/play/a024/index.m3u8
+http://45.225.95.170:8000/play/a0h8/index.m3u8
 
 #EXTINF:-1 tvg-chno="102" tvg-id="lared.cl" tvg-name="lared.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Emblema_de_La_Red.png",La Red
 http://45.232.210.1:47000/play/laredhd
@@ -25,10 +25,10 @@ http://45.232.210.1:8061/play/a08n
 #EXTINF:-1 tvg-chno="108" tvg-id="152dtv.cl" tvg-name="152dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png",Canal 13
 http://45.232.210.1:8061/play/a07a
 
-#EXTINF:-1 tvg-chno="109" tvg-id="ZonaLatina.cl" tvg-name="ZonaLatina.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.Zona_Latina_White_2021.png.a50b98547cde92d001e216570c44a6eb.png",Zona Latina
+#EXTINF:-1 tvg-chno="109" tvg-id="801mvstr.cl" tvg-name="801mvstr.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.Zona_Latina_White_2021.png.a50b98547cde92d001e216570c44a6eb.png",Zona Latina
 http://45.225.95.170:8000/play/a0g2/index.m3u8
 
-#EXTINF:-1 tvg-chno="110" tvg-id="viax.cl" tvg-name="viax.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png",Vía X
+#EXTINF:-1 tvg-chno="110" tvg-id="802mvstr.cl" tvg-name="802mvstr.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png",Vía X
 http://45.225.95.170:8000/play/a0g3/index.m3u8
 
 #EXTINF:-1 tvg-chno="111" tvg-id="707dtv.cl" tvg-name="707dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/512px-CNN_Chile_logo_2017.svg.png",CNN Chile
@@ -52,7 +52,7 @@ http://45.225.95.170:8000/play/a0ff/index.m3u8
 #EXTINF:-1 tvg-chno="117" tvg-id="146dtv.cl" tvg-name="146dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logotipo_Color_2_NTV%28Chile%29.svg/3816px-Logotipo_Color_2_NTV%28Chile%29.svg.png",NTV
 http://45.232.210.1:47000/play/a057
 
-#EXTINF:-1 tvg-chno="118" tvg-id="etctv.cl" tvg-name="etctv.cl" tvg-logo="https://static.etc.cl/_common/images/logoetc_2015.png",ETC
+#EXTINF:-1 tvg-chno="118" tvg-id="850mvstr.cl" tvg-name="850mvstr.cl" tvg-logo="https://static.etc.cl/_common/images/logoetc_2015.png",ETC
 http://45.225.95.170:8000/play/a0g7/index.m3u8
 
 
@@ -127,10 +127,10 @@ http://181.189.243.254:8000/play/a0r6/index.m3u8
 http://38.7.131.2:8000/play/a09h/index.m3u8
 
 #EXTINF:-1 tvg-chno="148" tvg-id="Multicinema.mx" tvg-name="Multicinema.mx" tvg-logo="https://i.ibb.co/2jQNg9n/MC-removebg-preview.png",Multicinema
-http://200.24.151.134:8000/play/a003/index.m3u8
+http://45.5.119.202:54321/play/a06f/index.m3u8
 
 #EXTINF:-1 tvg-chno="149" tvg-id="Multipremier.mx" tvg-name="Multipremier.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1280px-Multipremier_logo.svg.png",Multipremier
-http://200.24.151.134:8000/play/a002/index.m3u8
+http://45.5.119.202:54321/play/a01w/index.m3u8
 
 #EXTINF:-1 tvg-chno="150" tvg-id="" tvg-name="" tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.615120486_CloverChannel.png.5b98947815588c78b3c43fe77e580fe9.png",Clover Channel
 http://45.225.95.170:8000/play/a0hb/index.m3u8
@@ -277,8 +277,8 @@ http://45.232.210.1:8062/play/a08j/index.m3u8
 #EXTINF:-1 tvg-chno="228" tvg-id="1317dtv.cl" tvg-name="1317dtv.cl" tvg-logo="https://1.bp.blogspot.com/-QY72YPUZ_-A/X8_CSWEtfxI/AAAAAAAA7kg/S8H7gAJczlImH4fE131WrPpb_VRz2Md4ACLcBGAsYHQ/s500/babytv-2017.png",BabyTV
 http://45.162.132.145:8850/play/a02m/index.m3u8
 
-#EXTINF:-1 tvg-chno="229" tvg-id="Tooncast.mx" tvg-name="Tooncast.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png",Tooncast
-http://45.162.132.145:8850/play/a02q/index.m3u8
+#EXTINF:-1 tvg-chno="229" tvg-id="tooncast.ar" tvg-name="tooncast.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png",Tooncast
+http://45.5.119.202:54321/play/a00z/index.m3u8
 
 #EXTINF:-1 tvg-chno="230" tvg-id="310dtv.cl" tvg-name="310dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/1920px-TeenNick_2019_logo.svg.png",TeenNick
 http://181.189.243.254:8000/play/a0q1/index.m3u8
