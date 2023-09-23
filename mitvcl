@@ -259,6 +259,10 @@ http://45.232.210.1:47000/play/a0am
 http://45.232.210.1:58000/play/a05b
 
 
+EXTINF:-1 tvg-chno="220",Cartoon Network HD (test)
+http://45.232.210.1:47000/play/a05i
+
+
 #EXTINF:-1 tvg-chno="221" tvg-id="304dtv.cl" tvg-name="304dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 http://190.108.87.149:8000/play/a0d5/index.m3u8
 
